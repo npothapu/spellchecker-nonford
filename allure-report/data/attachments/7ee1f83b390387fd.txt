@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.vml.com/expertise/web3: [
+  'web3',         'metaverse',        'blockchain-based',
+  'internet',     '-',                'fortnites',
+  'roblox',       'forward-thinking', 'immersive',
+  '3d',           'blockchain',       'nfts',
+  'end-to-end',   'weve',             'thought-leadership',
+  'youre',        '32',               '2021',
+  '815',          '2030',             'emergen',
+  'cutting-edge', 'vmls',             'unrivalled',
+  'in-depth',     '93',               '85',
+  'onboarding',   'tokenised',        "l'oreal",
+  'ysl',          'yves',             'laurent',
+  'duracell',     'fortnite',         'liferun',
+  'coca-cola',    'wakanda',          'cataloguing',
+  'nft',          'daos',             'healthcare',
+  'apps',         'app',              'ai',
+  'ccpa'
+]
+Error checking link https://www.vml.com/expertise/web3: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 46

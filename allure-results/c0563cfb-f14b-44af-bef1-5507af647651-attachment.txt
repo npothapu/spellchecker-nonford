@@ -1,0 +1,30 @@
+Distinct misspelled words on https://www.vml.com/expertise/enterprise-solutions: [
+  'english',           'franais',      'ai',
+  'agencys',           '9000',         '40',
+  'technology-driven', 'vmls',         'best-in-class',
+  'diff',              'satalia',      '2021',
+  'salesforce',        'google',       'microsoft',
+  'mach',              '247',          'transformative',
+  'forward-thinking',  'ecommerce',    'top-of-the-line',
+  'world-class',       'performant',   'high-quality',
+  'martech',           'data-driven',  'ai-driven',
+  'oto',               'instore',      'online',
+  'offline',           'shelfmaster',  'streaem',
+  'self-service',      'optimise',     "vml's",
+  'idc',               'marketscapes', 'cannes',
+  'toolbelt',          'tennessee',    'jen',
+  'star-power',        'jlo',          'personalised',
+  'europe',            "sainsbury's",  'sainsburys',
+  'replatform',        'sncf',         '-',
+  "europe's",          '50',           '12',
+  '21',                'dialogue',     'nrf',
+  'friday-cyber',      'monday',       'latam',
+  'hackathon',         '12-14',        'september',
+  'copenhagen',        'sitecore',     'poland',
+  'silesian',          'jeff',         'geheb',
+  'healthcare',        'weve',         'ccpa'
+]
+Error checking link https://www.vml.com/expertise/enterprise-solutions: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 72

@@ -1,0 +1,94 @@
+Executing link 31 of 78: https://www.vml.com/news/vml-secures-multiple-finalist-spots-at-campaign-us-agency-of-the-year-awards
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+News
+VML Secures Multiple Finalist Spots at Campaign US Agency of the Year Awards
+Jan 21, 2025
+Agency recognized across five categories, including Agency of the Year and individual honors for leadership and creativity
+
+VML has been named a finalist in multiple categories at the Campaign US Agency of the Year Awards.
+
+Announced today, VML is among six agencies shortlisted for the coveted Agency of the Year title.
+
+Coming off the heels of celebrating its first anniversary, VML, formed from the merger of Wunderman Thompson and VMLY&R, swiftly positioned itself as a significant player in the advertising industry. Announced in October 2023 and finalized by January 2024, the merger brought together two powerhouse agencies to create an innovative entity focused on delivering integrated solutions through Brand Experience (BX), Customer Experience (CX), Commerce, and Enterprise Solutions.
+
+With a team of more than 5,500 professionals across 24 U.S. offices, VML leverages its expansive capabilities to meet the diverse needs of its client partners. This strategic unification has already yielded impressive results, with VML earning accolades such as "United States’ Most Creative Company" at Cannes and D&AD’s Agency of the Year recognition. By seamlessly blending creativity with technology and data-driven insights, VML continues to redefine the future of the agency model.
+
+The awards, judged by a panel of top brand marketers, highlight inspiring leadership, creative excellence, and outstanding business performance.
+
+
+Among the individual finalists:
+
+Agency Leader of the Year
+
+Jon Cook, Global CEO of VML, is shortlisted for Agency Leader of the Year. With 28 years at VML, Jon has demonstrated a visionary approach to leadership, emphasizing connection and inclusivity. His guiding principles — "Show Up, Follow Up, and Pixie Dust" — capture his commitment to meaningful engagement and delivering exceptional experiences for both VML'ers and client partners. Under his leadership, VML has successfully navigated transformative mergers and developed innovative frameworks like "Connected Creativity," which integrates brand experience, customer experience, and commerce to offer comprehensive marketing solutions. Jon's focus on fostering a culture of inclusion and belonging, along with his strategic initiatives, have positioned VML as a leader in the advertising world.
+
+Creative Person of the Year
+
+Rafael Pitanguy, Deputy Global Chief Creative Officer at VML and Creative Lead at WPP Open X, is one of three finalists for Creative Person of the Year. Known for his visionary and empathetic leadership, Rafael has redefined creativity through his work with The Coca-Cola Company. His campaigns, such as "Thanks for Coke-Creating" and "Coke Studio," have emphasized cultural authenticity and innovation, helping earn Coca-Cola its first-ever Creative Brand of the Year title at the Cannes Lions International Festival of Creativity. Rafael's ability to connect with diverse teams and audiences has fostered a collaborative environment where creativity thrives, making him a standout leader in the global advertising landscape.
+
+Account Person of the Year
+
+Renée Lavecchia, Executive Director at VML Miami, is recognized for her exemplary work as a finalist for Account Person of the Year. Known for her purpose-driven and people-centered leadership style, Renée has built strong client partnerships and driven innovation through initiatives like M-Powered, VML’s multicultural capability. This initiative has not only strengthened relationships with client partners such as Wendy’s but also contributed significantly to VML's revenue growth. Her dedication to fostering authentic connections and cultural sensitivity has positioned VML as a leader in multicultural marketing.
+
+DE&I Advocate of the Year
+
+Nejah Jemmott, North America Director of Inclusion, Equity, and Belonging at VML, is recognized as a DE&I Advocate of the Year finalist. Nejah's leadership is characterized by her dedication to fostering a culture of belonging and empowerment within VML. She has spearheaded initiatives that support employee resource groups and talent development programs, creating pathways for individuals from historically excluded communities. Her work has helped position VML as a DE&I leader, earning accolades such as the American Advertising Federation’s "Mosaic Champion" award. Nejah's personal journey as a mother and community leader informs her passionate approach to DE&I, proving that diversity and inclusion are essential for driving innovation and meaningful impact.
+
+This year's nominations build on VML's success from last year, when Michelle Baumann, Chief Strategy Officer for VML Commerce, was honored as Strategist of the Year at the Campaign US Agency of the Year Awards gala. The event, held in New York City, brought together many of the advertising industry's most influential figures to celebrate excellence in advertising and marketing.
+
+Joining Baumann in the spotlight were Brian Yamada, Chief Innovation Officer, who received an honorable mention in the Innovation Lead category, and Tasha Gilroy, Global Chief Belonging Officer, who was a finalist in the DE&I Advocate category. Their collective expertise and dedication to innovation, diversity, and strategic vision have played a pivotal role in solidifying VML's reputation as a leader in the advertising world.
+
+
+The winners of the 2025 competition will be announced at a gala event in New York on Tuesday, March 25.
+
+RELATED CONTENT
+NEWS
+VML Commerce's Michelle Baumann Wins Strategist of the Year
+VML's Brian Yamada and Tasha Gilroy also honored — recognizing excellence in advertising and marketing leadership and innovation
+READ ARTICLE
+NEWS
+VML Named Network of the Year at the Epica Awards
+VML wins 35 awards including three Grand Prix, 10 Gold, 11 Silver, and 11 Bronze in the only creative competition awarded by journalists worldwide
+READ ARTICLE
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'jan',             '21',          'wunderman',
+  'thompson',        'vmlyr',       'october',
+  '2023',            'january',     'cx',
+  '5500',            '24',          'cannes',
+  'data-driven',     'jon',         'ceo',
+  '28',              'inclusivity', "vml'ers",
+  'transformative',  "jon's",       'rafael',
+  'pitanguy',        'coca-cola',   'coke-creating',
+  'first-ever',      "rafael's",    'rene',
+  'lavecchia',       'miami',       'purpose-driven',
+  'people-centered', 'm-powered',   'vmls',
+  'wendys',          "vml's",       'dei',
+  'nejah',           'jemmott',     'america',
+  "nejah's",         'american',    'michelle',
+  'baumann',         'york',        'brian',
+  'yamada',          'tasha',       'gilroy',
+  'tuesday',         'epica',       '35',
+  'prix',            '10',          '11',
+  'ccpa'
+]

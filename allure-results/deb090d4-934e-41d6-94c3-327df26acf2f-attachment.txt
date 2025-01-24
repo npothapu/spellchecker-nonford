@@ -1,0 +1,24 @@
+Distinct misspelled words on https://www.vml.com/contact-us: [
+  'detroit', 'marquette', '243',    '48226', 'enquiries', 'america',
+  'europe',  'africa',    'asia',   'latin', 'enquiry',   '376',
+  'ae',      '971',       'af',     '93',    'ag',        '1-268',
+  'ai',      '1-264',     'al',     '355',   '374',       'ao',
+  '244',     'ar',        '54',     '1-684', '43',        'au',
+  '61',      '297',       '358-18', 'az',    '994',       'ba',
+  '387',     'bb',        '1-246',  'bd',    '880',       '32',
+  '226',     'bg',        '359',    'bh',    '973',       '257',
+  'bj',      '229',       '590',    'bm',    '1-441',     'bn',
+  '673',     'bo',        '591',    'bq',    '599',       'br',
+  '55',      'bs',        '1-242',  'bt',    '975',       'bw',
+  '267',     '375',       'bz',     '501',   'cd',        '236',
+  '242',     '41',        'ci',     '225',   '682',       '56',
+  '237',     'cn',        '86',     '57',    'cr',        '506',
+  '53',      'cv',        '238',    'cx',    'cy',        '357',
+  'cz',      '420',       'de',     '49',    'dj',        '253',
+  'dk',      '45',        'dm',     '1-767',
+  ... 311 more items
+]
+Error checking link https://www.vml.com/contact-us: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 411

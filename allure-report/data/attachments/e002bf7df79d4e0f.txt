@@ -1,0 +1,15 @@
+Distinct misspelled words on https://www.vml.com/expertise/intelligence: [
+  'ces',        'bi-weekly',
+  'sign-up',    'qa',
+  'round-ups',  '10',
+  '4500',       'super-human',
+  'ai',         'sxsw',
+  'ais',        'real-time',
+  'emma',       'chiu',
+  'marie',      'stafford',
+  'healthcare', 'ccpa'
+]
+Error checking link https://www.vml.com/expertise/intelligence: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 18

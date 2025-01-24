@@ -1,0 +1,26 @@
+Distinct misspelled words on https://www.vml.com/work/the-font-that-saves-eyes: [
+  'monospace',   'intel',
+  'kansas',      'intels',
+  'open-source', 'vmls',
+  'frere-jones', 'low-vision',
+  'github',      'inclusivity',
+  'devs',        'game-changer',
+  '12',          '1111',
+  'menlo',       '80k',
+  '160',         'doesnt',
+  'youre',       'fred',
+  'shallcrass',  '2023',
+  'cannes',      '-',
+  'andy',        'tdc',
+  'york',        'socialenvironmental',
+  'gerety',      "intel's",
+  'techspot',    'omg',
+  'ubuntu',      'sxsw',
+  "wendy's",     'og',
+  'reimagined',  'conagra',
+  'conagras',    'ccpa'
+]
+Error checking link https://www.vml.com/work/the-font-that-saves-eyes: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 40

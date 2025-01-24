@@ -1,0 +1,20 @@
+Distinct misspelled words on https://www.vml.com/insight/tomorrows-commerce-2025: [
+  'day-to-day',         "vml's",
+  'weve',               'ai',
+  'reimagine',          '-',
+  'ever-evolving',      'ever-demanding',
+  'omnichannel',        'optichannel',
+  'brand-building',     'ai-powered',
+  'direct-to-consumer', 'brain-computer',
+  'bci',                'far-flung',
+  'forward-thinking',   'hugh',
+  'ann',                'kaminkow',
+  'naji',               'el-arifi',
+  'long-term',          'friday',
+  'cyber',              'monday',
+  'ccpa'
+]
+Error checking link https://www.vml.com/insight/tomorrows-commerce-2025: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 27

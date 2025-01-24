@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.vml.com/news: [
+  'seramount',    "hellmann's",    'rom-com',      "katz's",
+  "vml's",        'oreo',          'cannes',       'epica',
+  'gartner',      'thailand',      '54',           'eurobest',
+  'q4',           '10',            'thompson',     '19b',
+  '10-year',      'mindshare',     'edelman',      'menarini',
+  'italy',        'herpmed',       'labiale',      'yumo',
+  'eric',         'campbell',      'american',     'ceo',
+  'vmls',         '26',            'worklife',     'ai',
+  'gamification', 'scholz',        'lbb',          'coke-creating',
+  'coca-cola',    'movistar',      'talk-to-tech', "'o-re-o'",
+  'roddonjai',    'wick-inspired', 'online',       'le',
+  'petit',        'roi',           'canada',       'quebec',
+  'jean-pierre',  'ferland',       'coors',        'giro-cooler',
+  'puerto',       'rican',         'gerety',       'female-focused',
+  'zubi',         'zubian',        '50',           'cemento',
+  'peru',         '20',            'ccpa'
+]
+Error checking link https://www.vml.com/news: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 63

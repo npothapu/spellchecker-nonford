@@ -1,0 +1,14 @@
+Distinct misspelled words on https://www.vml.com/accessibility: [
+  'wcag',
+  '21',
+  'aa',
+  'remediated',
+  'vmls',
+  'co-creation',
+  'accessibilityvmlcom',
+  'ccpa'
+]
+Error checking link https://www.vml.com/accessibility: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 8

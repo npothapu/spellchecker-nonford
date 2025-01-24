@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.vml.com/expertise/inclusion-experience-consultancy: [
+  'rxuckus',       'augmental',  'mouthpad',
+  'lgbtqia',       'intel',      'touchpoints',
+  'award-winning', '60',         'esg',
+  '40',            'non-white',  '32',
+  '52',            '200',        'cross-cultural',
+  'co-creation',   'playbooks',  'elan',
+  'unbias',        'online',     'colour',
+  'myron',         'deib',       'juneteenth',
+  'july',          'bipoc',      "employes'",
+  'ana',           'canada',     'argentina',
+  'lgbtq',         'ai',         'sxsw',
+  'ais',           'immersive',  'ezinne',
+  'okoro',         "la'zette",   'lafontant',
+  'vp',            'loebner',    'zack',
+  'tomlinson',     'healthcare', 'web3',
+  'ccpa'
+]
+Error checking link https://www.vml.com/expertise/inclusion-experience-consultancy: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 46

@@ -1,0 +1,13 @@
+Distinct misspelled words on https://www.vml.com/work/xbox-design-lab: [
+  'xbox',      'made-to-order',
+  'microsoft', '27',
+  '11',        '750k',
+  '150k',      "wendy's",
+  'og',        'reimagined',
+  'conagra',   'conagras',
+  'ccpa'
+]
+Error checking link https://www.vml.com/work/xbox-design-lab: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 13

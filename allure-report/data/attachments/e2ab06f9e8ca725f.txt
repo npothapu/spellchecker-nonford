@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.vml.com/news/vml-wins-braze-service-partner-of-the-year: [
+  'sep',            '24',
+  'torchie',        'monday',
+  'september',      '23',
+  'vegas',          'forward-thinking',
+  "braze's",        '200',
+  'vmls',           'denmark',
+  'mexico',         'netherlands',
+  'singapore',      'thailand',
+  'uk',             "vml's",
+  'time-to-value',  'timelines',
+  'wendys',         '55',
+  '10x',            'klarna',
+  '100-plus',       'costa',
+  'second-largest', 'roddonjai',
+  'wick-inspired',  'online',
+  'ccpa'
+]
+Error checking link https://www.vml.com/news/vml-wins-braze-service-partner-of-the-year: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 31

@@ -1,0 +1,23 @@
+Distinct misspelled words on https://www.vml.com/news/hellmanns-teases-rom-com-nostalgia-and-epic-sandwich-order-at-katzs-delicatessen-for-its-big-game-ad: [
+  "hellmann's",          'rom-com',
+  "katz's",              'jan',
+  '23',                  'mindshare',
+  'edelman',             'york',
+  'feb',                 'meet-cute',
+  '20',                  'taser',
+  '1980s',               'most-craved',
+  '1913',                'rom-coms',
+  'jessica',             'grigoriou',
+  'svp',                 'unilever',
+  'america',             'sunday',
+  'february',            'youtube',
+  'hellmannsmayonnaise', 'instagram',
+  'hellmanns',           'lviii',
+  'kate',                'mckinnons',
+  'pete',                'davidson',
+  'mvp',                 'ccpa'
+]
+Error checking link https://www.vml.com/news/hellmanns-teases-rom-com-nostalgia-and-epic-sandwich-order-at-katzs-delicatessen-for-its-big-game-ad: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 34

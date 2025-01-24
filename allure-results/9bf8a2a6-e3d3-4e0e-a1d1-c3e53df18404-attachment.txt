@@ -1,0 +1,74 @@
+Executing link 34 of 78: https://www.vml.com/news/gartner-magic-quadrant-for-digital-experience-services-names-vml-a-visionary
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+News
+Gartner® Magic Quadrant™ for Digital Experience Services Names VML a Visionary
+Dec 16, 2024
+Gartner has recognized VML among technology providers using technology solutions to design, build and optimize digital experiences
+
+VML today announced its recognition as a Visionary in the 2024 Gartner® Magic Quadrant™ for Digital Experience Services. VML was evaluated among 14 other providers in the digital experience services market who use technology solutions to design, build and optimize digital experiences.
+
+In our view, VML is among the industry’s leading technology providers with a large DX services practice. VML's innovative approach to blending creative expertise with advanced technological capabilities helps businesses create connected brands that drive growth.
+
+VML was evaluated for its ‘Ability to Execute’ and ‘Completeness of Vision’.
+
+We believe our recognition as a Visionary in the Gartner Magic Quadrant is a testament to our unique ability to marry creative skills with technical capabilities. Our approach enables organizations with big growth ambitions to navigate digital transformation in seamless and highly effective ways.
+Jeff Geheb
+Global Chief Experience Officer and Global Executive Lead, VML Enterprise Solutions
+
+The agency has distinguished itself through robust alliance partner network relationships including MACH alliance, VTEX, Optimizely and Braze. In addition, VML’s integrated agency structure delivers comprehensive capabilities to sell and deliver digital experience services, led by an agile and journey-driven development approach.
+
+The report states, “Gartner defines digital experience (DX) services as those services that design, deliver and optimize digital experiences across customer, employee and citizen journeys using technology solutions. The services involve design, solution implementation, content management services, marketing services and ongoing operations. The digital experience solution is delivered through a combination of technologies and services working together to deliver the desired experience outcomes.”
+
+The announcement comes as VML celebrates a year of accelerated growth following its merger in 2024.
+
+Gartner, Magic Quadrant for Digital Experience Services, By Brett Sparks, Sundar Viswanathan, Alan Stanley, Danellie Young, 26 November 2024.
+
+GARTNER and Magic Quadrant are registered trademarks of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+RELATED CONTENT
+IN THE PRESS
+VML Listed Among 31 Most Notable CX Providers by Forrester
+Indulge in the new report by Forrester, The Customer Experience Strategy Consulting Services Landscape, Q2 2024
+READ MORE
+NEWS
+VML Recognized by Forrester as a Strong Performer in Customer Experience Strategy Consulting Services, Q4
+The Forrester report noted “VML’s practice has a superior vision that is well aligned with its frameworks and methods”
+READ ARTICLE
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'gartner',     'dec',
+  '16',          '14',
+  'industrys',   'dx',
+  "vml's",       'jeff',
+  'geheb',       'mach',
+  'vtex',        'optimizely',
+  'vmls',        'journey-driven',
+  'brett',       'sundar',
+  'viswanathan', 'alan',
+  'stanley',     'danellie',
+  '26',          'november',
+  'andor',       'gartners',
+  '31',          'cx',
+  'q2',          'q4',
+  'ccpa'
+]

@@ -1,0 +1,16 @@
+Distinct misspelled words on https://www.vml.com/terms: [
+  '31122023', 'apologises',
+  'vmls',     'wunderman',
+  'thompson', 'llc',
+  'dba',      'spam',
+  '10',       'english',
+  'online',   'enquiries',
+  '175',      'greenwich',
+  '16',       'york',
+  'ny',       '10007',
+  'ccpa'
+]
+Error checking link https://www.vml.com/terms: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 19

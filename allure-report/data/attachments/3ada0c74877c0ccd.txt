@@ -1,0 +1,23 @@
+Distinct misspelled words on https://www.vml.com/expertise/b2b: [
+  'procell',       'abm',
+  'doesnt',        'b2c',
+  'unrivalled',    'dont',
+  'sub-brand',     'cut-through',
+  'unmistakeable', 'touchpoint',
+  'account-based', 'cx',
+  'enablement',    'ai',
+  'humour-filled', 'toolbelt',
+  'ikea',          'sherwin-williams',
+  'intel',         'monospace',
+  "vml's",         'playbook',
+  '2023',          'burkart',
+  'york',          'emily',
+  'dore',          'james',
+  'irvine',        'emea',
+  'simon',         'roi',
+  'web3',          'ccpa'
+]
+Error checking link https://www.vml.com/expertise/b2b: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 34

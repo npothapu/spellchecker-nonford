@@ -1,0 +1,21 @@
+Distinct misspelled words on https://www.vml.com/expertise/social-media: [
+  'diageo',      "bailey's",
+  "wendy's",     'weve',
+  'isnt',        'always-on',
+  'end-to-end',  '-',
+  'playbooks',   'ugc',
+  'kpi',         'real-time',
+  'lauren',      'morton',
+  'smm',         'wendys',
+  'fanta',       'halloween',
+  'beetlejuice', 'liz',
+  'cole',        'christina',
+  'post-mortem', 'tiktoks',
+  'tiktok',      'post-millennial',
+  'next-gen',    'high-tech',
+  'ai',          'ccpa'
+]
+Error checking link https://www.vml.com/expertise/social-media: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 30

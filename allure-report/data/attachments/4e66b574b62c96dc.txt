@@ -1,0 +1,18 @@
+Distinct misspelled words on https://www.vml.com/news/vmls-new-campaign-discovers-the-origins-of-the-name-oreo: [
+  "vml's",        'oreo',
+  'jan',          '15',
+  'talk-to-tech', "'o-re-o'",
+  'york',         'funfrom',
+  'itselfone',    'mondelz',
+  'youve',        'o-re-re-o',
+  'o-re-o-re-o',  'namethisoreocom',
+  'theyre',       'roastbrief',
+  'anne',         'mondelez',
+  'deliveran',    'manuel',
+  'borde',        'shoppable',
+  'ccpa'
+]
+Error checking link https://www.vml.com/news/vmls-new-campaign-discovers-the-origins-of-the-name-oreo: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 23

@@ -1,0 +1,172 @@
+Executing link 11 of 78: https://www.vml.com/expertise/apps
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+APPS  WORK INSIGHTS NEWS
+slide 2 of 4
+The Future Audience
+READ ARTICLE
+   
+Augmented World Expo 2024
+READ ARTICLE
+   
+ 
+WWDC 2024
+READ ARTICLE
+   
+ 
+Google I/O 2024
+READ ARTICLE
+   
+ 
+The Future Audience
+READ ARTICLE
+   
+Augmented World Expo 2024
+READ ARTICLE
+   
+What We Do
+Apps
+Inspiring growth through innovative app experiences and digital products
+CONTACT US
+
+We deliver high-profile, can’t fail applications for a variety of clients and industries. With a focus on mobile applications for handsets and tablets, native development is our specialty while we also have in-depth experience with newer, cross-platform technologies such as React Native and Flutter. We help our clients engage with their consumers not just on mobile but through connected devices including Apple TV, Fire/Android TV, Roku, Xbox, LG, Samsung TVs as well as voice devices (think Alexa and Google Home) and wearables. With our in-house specialty labs practice, we also develop products and prototypes for all other emerging and innovative technologies. Since 2008, we have stayed on the cusp of the technology industry to help brands deliver innovative product experiences to their customers.
+
+AT A GLANCE
+Development at Scale
+
+On average, our apps receive up to 20 m downloads from over 40 m active users and a total of 2.6 bn minutes of video consumption.
+
+AT A GLANCE
+Can't fail experiences
+
+Many of our clients rely on us to deliver products for live events that cannot fail. We support them through our event operation centers by monitoring
+
+AT A GLANCE
+Partners with Technology Leaders
+
+We're long term partners with Apple, Google, and Amazon. Our apps have been on stage at WWDC and Google I/O.
+
+APPS SOLUTIONS
+Strategy
+Experience Design
+Product Development
+Quality Assurance
+Marketing Sciences
+App Growth
+Innovation Lab
+APPS WORK
+PGA TOUR
+PGA TOUR
+Golf through a new lens with PGA TOUR digital products.
+READ CASE STUDY
+JETBLUE AIRWAYS
+Easing Travel Stress with JetBlue
+The JetBlue app brings users convenient, mobile travel every step of the way.
+READ CASE STUDY
+NBA
+NBA Fan Engagement During COVID-19
+Creating interactive ways for fans to be a part of the game
+READ CASE STUDY
+WENDY'S
+Don't Delete Menu
+Unexpected offers made people think twice before deleting us
+READ CASE STUDY
+STOP THE PARTY
+MissType
+An email editor redefining what "Professionalism" means
+READ CASE STUDY
+SEE ALL OUR WORK
+APPS INSIGHTS
+INSIGHT
+Google I/O 2024
+Android 15 gets a boost of Intelligence with deep Gemini AI integration
+READ ARTICLE
+INSIGHT
+WWDC 2024
+"Making your most personal products even more personal and delightful"
+READ ARTICLE
+INSIGHT
+Augmented World Expo 2024
+AWE 2024 lived up to its reputation as the premier trade conference for all things AR, VR, AI and spatial computing
+READ ARTICLE
+INSIGHT
+Best Practices for Roku
+Guiding principles to launch a successful Roku app
+READ ARTICLE
+SEE MORE INSIGHTS
+APPS NEWS
+IN THE PRESS
+Apple's Ambitions for AI
+Chris Weathers, VP of Technology at VML, spoke to Digiday about his thoughts on Apple's release of their generative AI announced at WWDC 2024.
+READ MORE
+NEWS
+Unlocking Next-Level Efficiency in Logistics and Packaging Management
+VML Director of Business Development, Dan Cui, and CEO & Founder of Position Imaging, Ned Hill, talk Position Imaging's patented advanced tracking technologies.
+READ ARTICLE
+SEE MORE NEWS
+OUR LEADERSHIP
+Chris Weathers
+VP, Technology
+NEW YORK
+Rachel Durden
+People Director
+DENVER
+Lisa Levine
+VP, Finance
+NEW YORK
+MORE OF WHAT WE DO
+WHAT WE DO
+INTELLIGENCE
+The global futures and trend intelligence unit.
+FIND OUT MORE
+WHAT WE DO
+CONSULTING
+Inspiring  growth by accelerating the transformation of brands and business with technology, design and data.
+FIND OUT MORE
+WHAT WE DO
+INFLUENCER MARKETING
+Trusted by top global companies, we craft tailored influencer campaigns that maximize ROI and empower you to seamlessly manage all social media platforms.
+FIND OUT MORE
+WHAT WE DO
+INCLUSION EXPERIENCE CONSULTANCY
+We connect inclusion, purpose and impact to drive growth.
+FIND OUT MORE
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'apps',        'wwdc',           'google',
+  'io',          'app',            'high-profile',
+  'in-depth',    'cross-platform', 'tv',
+  'fireandroid', 'roku',           'xbox',
+  'samsung',     'tvs',            'alexa',
+  'in-house',    '2008',           '20',
+  '40',          '26',             'bn',
+  'pga',         'jetblue',        'nba',
+  'covid-19',    "wendy's",        'misstype',
+  '15',          'gemini',         'ai',
+  'ar',          'vr',             'chris',
+  'vp',          'digiday',        'next-level',
+  'dan',         'cui',            'ceo',
+  'ned',         "imaging's",      'york',
+  'rachel',      'durden',         'denver',
+  'lisa',        'levine',         'roi',
+  'ccpa'
+]

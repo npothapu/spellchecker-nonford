@@ -1,0 +1,21 @@
+Distinct misspelled words on https://www.vml.com/news/wpp-recognized-as-a-leader-in-commerce-services: [
+  '16',          'q2',            'companys',      '24',
+  'groupms',     'vmls',          'jon',           'ceo',
+  'ai',          'genai',         'crm',           'wpps',
+  'vmlyr',       'wunderman',     'thompson',      'forresters',
+  'world-class', 'weve',          'leading-edge',  'groupm',
+  'end-to-end',  'ann',           'kaminkow',      "vml's",
+  'uae',         'coca-cola',     'built-in',      'alexa',
+  'oreocodes',   'mondelez',      'barcodes',      'oreo',
+  'saudi',       'arabia',        'hungerstation', 'xbox',
+  'microsoft',   'made-to-order', 'kfc',           'app',
+  'malaysia',    'much-loved',    'online',        '700',
+  'univar',      'jumpstarting',  "univar's",      'long-term',
+  '20',          'vegas',         're-emergence',  'michelle',
+  'baumann',     'brian',         'yamada',        'tasha',
+  'gilroy',      'ccpa'
+]
+Error checking link https://www.vml.com/news/wpp-recognized-as-a-leader-in-commerce-services: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 58

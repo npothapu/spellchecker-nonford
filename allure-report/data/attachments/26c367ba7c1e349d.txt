@@ -1,0 +1,24 @@
+Distinct misspelled words on https://www.vml.com/news/vml-named-network-of-the-year-at-epica-awards: [
+  'epica',      'dec',        '35',
+  'prix',       '10',         '11',
+  'argentina',  'belgium',    'france',
+  'germany',    'italy',      'singapore',
+  'istanbul',   'beko',       'diego',
+  'mcdonalds',  'unilever',   'prix-winning',
+  'scholz',     'right-wing', 'uk',
+  'glenn',      'sexting',    '1987',
+  'allgemeine', 'zeitung',    '-',
+  'online',     'iwc',        'ingenieur',
+  'und',        'technik',    'schaffhausen',
+  'unsilence',  'terre',      'des',
+  "mcdonald's", 'cafs',       'fitbowl',
+  'karaca',     'nhs',        'sharenting',
+  'telefnica',  'ecocheque',  '111111',
+  'baileys',    'drumroll',   '15',
+  'cannes',     "vml's",      'award-winning',
+  '57',         'ccpa'
+]
+Error checking link https://www.vml.com/news/vml-named-network-of-the-year-at-epica-awards: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 53

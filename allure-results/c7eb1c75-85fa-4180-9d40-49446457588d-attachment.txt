@@ -1,0 +1,53 @@
+Executing link 78 of 78: https://www.vml.com/accessibility
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+Accessibility
+
+Accessibility Statement
+
+VML is committed to accessibility for people with disabilities, among others that need reasonable accommodations both on this website and across all our initiatives. We are continually improving the user experience for everyone and applying relevant accessibility standards, and we adhere to website content accessibility guidelines, WCAG, version 2.1 Level: AA. To ensure accessibility, the website is regularly scanned, remediated, and scanned again to confirm improvements. VML leads a proactive approach to website accessibility through advocacy and actions among developers, designers, strategists, and others, including external accessibility partners, such as Level Access.
+
+Our four key values and behaviors to connect meaningfully, inspire creatively, include purposefully, and approach positively, shape the way we work and VML’s accessibility commitments.
+
+We connect meaningfully through accessibility, striving to move beyond compliance to commitments. VML was the first agency to develop an Inclusion Experience Consultancy, and we continue to elevate narratives through bold inclusion inspiring action.
+
+We inspire creatively through designing the website among other experiences with accessibility that welcomes, is innovative, and inspiring.
+
+We include purposefully through co-creation among disabled communities, allies, advocates and others to continually improve accessibility of VML experiences. If, for whatever reason, there are any accessibility issues or challenges, questions, or comments, we encourage feedback.
+
+We approach positively in developing solutions where there are problems. Websites are always evolving, and through proactive actions, regular and ongoing audits and accessibility reporting we plan for and resolve issues on a regular basis.
+
+Feedback
+
+We welcome your feedback on the accessibility of the VML website. All email correspondence related to accessibility can be submitted to accessibility@vml.com. We try and respond to feedback within 5 business days.
+
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'wcag',
+  '21',
+  'aa',
+  'remediated',
+  'vmls',
+  'co-creation',
+  'accessibilityvmlcom',
+  'ccpa'
+]

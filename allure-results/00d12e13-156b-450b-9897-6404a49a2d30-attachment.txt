@@ -1,0 +1,68 @@
+Executing link 70 of 78: https://www.vml.com/news/vml-wins-braze-service-partner-of-the-year
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+News
+VML Wins Braze Service Partner of the Year
+Sep 24, 2024
+VML sets the standard for Braze usage and knowledge at the Torchie Awards
+
+VML has been named "Service Partner of the Year" at the 2024 Braze Torchie Awards. This honor celebrates a service partner who significantly advanced their Braze practice through comprehensive training and innovation to markedly improve business outcomes.
+
+
+The Torchie Awards Show occurred on Monday, September 23, in Las Vegas, celebrating the leading brands and marketers building the future of customer engagement. The awards celebrate those who use technology and forward-thinking strategies to serve and engage their audiences.
+
+As Braze's most accredited services partner globally, boasting over 200 specialist certifications, VML is setting the standard for Braze usage and knowledge.
+
+VML’s team is worldwide, including Denmark, Mexico, Netherlands, Singapore, Thailand, the UK, and the U.S. This global distribution of experts makes VML uniquely capable of providing global and regional solutions to the client partners they serve.
+
+Some examples of VML's success this year include increasing time-to-value timelines for Wendy’s by 55% and driving a 10X efficiency gain for Klarna after simplifying their complex communication ecosystem of over 100-plus journey paths. VML is currently leading work with Costa, the world’s second-largest coffee brand and one of the largest loyalty programs in the UK.
+
+slide 3 of 2
+ 
+RELATED CONTENT
+IN THE PRESS
+John Wick Lookalike Goes to Battle to Sell His Car
+In this playful campaign by VML Thailand for Roddonjai, a John Wick-inspired character fights a relentless barrage of online bargain hunters
+READ MORE
+NEWS
+Celebrating VML's First Year, Together
+A year of creativity, innovation, and success as VML unites to redefine the agency landscape
+READ ARTICLE
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'sep',            '24',
+  'torchie',        'monday',
+  'september',      '23',
+  'vegas',          'forward-thinking',
+  "braze's",        '200',
+  'vmls',           'denmark',
+  'mexico',         'netherlands',
+  'singapore',      'thailand',
+  'uk',             "vml's",
+  'time-to-value',  'timelines',
+  'wendys',         '55',
+  '10x',            'klarna',
+  '100-plus',       'costa',
+  'second-largest', 'roddonjai',
+  'wick-inspired',  'online',
+  'ccpa'
+]

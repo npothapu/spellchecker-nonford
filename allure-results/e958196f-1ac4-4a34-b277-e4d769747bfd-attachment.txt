@@ -1,0 +1,26 @@
+Distinct misspelled words on https://www.vml.com/news/celebrating-vmls-first-year-together: [
+  "vml's",       'jan',              'vmlyr',     'wunderman',
+  'thompson',    'world-class',      '300',       'walter',
+  '1864',        '1923',             '1958',      '1992',
+  'january',     'jon',              'ceo',       'cx',
+  'cannes',      'q4',               'q2',        'q3',
+  "2024's",      'chris',            'symmes',    'unilever',
+  'debbi',       'vandeven',         'kenan',     'american',
+  'learnvmlcom', '32',               '26000',     '250',
+  'non-profit',  'scholz',           'germany',   'allgemeine',
+  'zeitung',     'coke-creating',    'mediacom',  'ogilvy',
+  'mexico',      'movistar',         'argentina', 'asdra',
+  '30',          '10th-anniversary', 'nyc',       'london',
+  'long-term',   'metaverse',        'learnvml',  'linkedin',
+  'expert-led',  'decision-making',  'sawubona',  'scale-backs',
+  'dei',         '27',               'america',   'noirs',
+  'flava',       'juneteenth',       'chai',      'detroit',
+  '10-week',     'immersive',        '1300',      'lderas',
+  'latam',       'latin',            'cco',       '4as',
+  '50000',       'blackweek',        'adt',       'award-winning',
+  '57',          'prix',             'ccpa'
+]
+Error checking link https://www.vml.com/news/celebrating-vmls-first-year-together: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 79

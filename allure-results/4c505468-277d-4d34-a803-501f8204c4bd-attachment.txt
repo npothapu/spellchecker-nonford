@@ -1,0 +1,16 @@
+Distinct misspelled words on https://www.vml.com/work/my-smile-is-my-superpower: [
+  'colgate',           'award-winning',
+  'uzo',               'aduba',
+  "colgate's",         'teethso',
+  'im',                'american',
+  'doesnt',            'diana',
+  'haussling',         'svp',
+  'katy',              'perrys',
+  "'perfect'",         'adweek',
+  "'beauty",           "gaps'",
+  'colgate-palmolive', 'ccpa'
+]
+Error checking link https://www.vml.com/work/my-smile-is-my-superpower: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 20

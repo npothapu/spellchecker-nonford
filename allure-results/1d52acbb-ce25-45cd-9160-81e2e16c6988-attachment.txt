@@ -1,0 +1,23 @@
+Distinct misspelled words on https://www.vml.com/expertise/apps: [
+  'apps',        'wwdc',           'google',
+  'io',          'app',            'high-profile',
+  'in-depth',    'cross-platform', 'tv',
+  'fireandroid', 'roku',           'xbox',
+  'samsung',     'tvs',            'alexa',
+  'in-house',    '2008',           '20',
+  '40',          '26',             'bn',
+  'pga',         'jetblue',        'nba',
+  'covid-19',    "wendy's",        'misstype',
+  '15',          'gemini',         'ai',
+  'ar',          'vr',             'chris',
+  'vp',          'digiday',        'next-level',
+  'dan',         'cui',            'ceo',
+  'ned',         "imaging's",      'york',
+  'rachel',      'durden',         'denver',
+  'lisa',        'levine',         'roi',
+  'ccpa'
+]
+Error checking link https://www.vml.com/expertise/apps: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 49

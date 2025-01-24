@@ -1,0 +1,14 @@
+Distinct misspelled words on https://www.vml.com/ready-to-be-connected: [
+  'vmls',
+  'inbox',
+  'sign-up',
+  "vml's",
+  'coke-creating',
+  'online',
+  'real-life',
+  'ccpa'
+]
+Error checking link https://www.vml.com/ready-to-be-connected: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 8

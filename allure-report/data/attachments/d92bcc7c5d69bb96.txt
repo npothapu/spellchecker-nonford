@@ -1,0 +1,18 @@
+Distinct misspelled words on https://www.vml.com/#content: [
+  'q4',            "hellmann's",
+  'rom-com',       "katz's",
+  "vml's",         'oreo',
+  'gartner',       'epica',
+  'heinz',         'ai',
+  'tomato-based',  'coca-cola',
+  'coke-creating', 'long-term',
+  'ceo',           'claire',
+  'gillis',        'healthcare',
+  'cannes',        'award-winning',
+  '57',            'prix',
+  'torchie',       'ccpa'
+]
+Error checking link https://www.vml.com/#content: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 24

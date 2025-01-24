@@ -1,0 +1,41 @@
+Distinct misspelled words on https://www.vml.com/expertise/commerce: [
+  'english',           'franais',         'walmart',
+  'enablement',        'online',          'd2c',
+  'in-store',          'end-to-end',      '600',
+  'enterprise-level',  'ecommerce',       'cpg',
+  'usa',               'cannes',          'nyf',
+  'multi-channel',     '565bn',           '165bn',
+  'tmall',             'ebay',            '3cs',
+  'conversion-led',    'buzzworthy',      'world-class',
+  '7000',              '55',              '150',
+  'cx',                'long-term',       'omnichannel',
+  'performance-fit',   'crm',             'decision-making',
+  'roi',               'ways-of-working', 'vmls',
+  'shoppable',         'fulfilment',      'sitecore',
+  'salesforce',        'shopify',         'mach',
+  'bigcommerce',       'commercetools',   'vtex',
+  'vercel',            'q1',              '2021',
+  'q2',                '2022',            'european',
+  'york',              '2023',            'weve',
+  '43bn',              'coca-cola',       'unilever',
+  'colgate-palmolive', 'johnson',         'kimberly',
+  'clark',             'nestl',           'sainsburys',
+  'selfridges',        'ai-driven',       'inclusivity',
+  'oto',               'instore',         'shelfmaster',
+  'streaem',           'self-service',    'mondelez',
+  'oreo',              "website's",       'oreos',
+  'built-in',          'alexa',           "wendy's",
+  'hungerstation',     'kfc',             'single-cabin',
+  '12',                '22',              '20',
+  'emea',              'webinar',         'ai',
+  'friday-cyber',      'monday',          "vml's",
+  'talk-to-tech',      "'o-re-o'",        'ai-powered',
+  'christmas',         'ogilvy',          'essencemediacom',
+  'hackathon',         '12-14',           'september',
+  '-',
+  ... 5 more items
+]
+Error checking link https://www.vml.com/expertise/commerce: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 105

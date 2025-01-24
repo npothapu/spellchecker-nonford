@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.vml.com/news/vml-recognized-as-a-strong-performer-in-customer-experience-strategy-consulting-services-q4: [
+  'q4',                   'nov',
+  '26',                   'vmls',
+  '12',                   '24',
+  'cx',                   'apis',
+  'regulation-compliant', 'eg',
+  'cfm',                  'cdp',
+  'crm',                  'vcs',
+  'weve',                 'theyve',
+  'jeff',                 'geheb',
+  '31',                   'q2',
+  'ccpa'
+]
+Error checking link https://www.vml.com/news/vml-recognized-as-a-strong-performer-in-customer-experience-strategy-consulting-services-q4: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 21

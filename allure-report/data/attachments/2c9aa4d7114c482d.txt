@@ -1,0 +1,16 @@
+Distinct misspelled words on https://www.vml.com/work/oreo-menu: [
+  'oreo',              "website's",
+  'oreos',             'mondelez',
+  'york',              'three-bar',
+  'online',            'jillian',
+  'durojaiye',         '1m',
+  '17',                'cannes',
+  'websitemicrosites', 'internets',
+  "'hamburger",        "menu'",
+  'mediapost',         'oreocodes',
+  'barcodes',          'ccpa'
+]
+Error checking link https://www.vml.com/work/oreo-menu: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 20

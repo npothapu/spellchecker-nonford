@@ -1,0 +1,29 @@
+Distinct misspelled words on https://www.vml.com/cookie-policy: [
+  '31122023',       'recognise',             'third-party',
+  '-',              'first-party',           'url',
+  'eg',             'wppcom',                'aspnet',
+  'wwwvmlcom',      'optanonconsent',        '365',
+  'eupubconsent',   'optanonalertboxclosed', '_ga',
+  '_gat',           '_gid',                  '730',
+  'addthis',        'wpps',                  'blog',
+  'anonymised',     'vimeocom',              '__cf_bm',
+  'vuid',           'youtubecom',            'visitor_info1_live',
+  'ysc',            '6173',                  '180',
+  'organisation',   'vmlcom',                '_ga_rjvp86fj5c',
+  '368',            '_an_uid',               '_gd',
+  '_gd_session',    'linkedincom',           'analyticssynchistory',
+  'bcookie',        'lang',                  'li_gc',
+  'li_sugr',        'lidc',                  'usermatchhistory',
+  '30',             '729',                   '90',
+  'wwwlinkedincom', 'bscookie',              'adslinkedincom',
+  'salesforce',     'igodigitaltc2',         'igodigitalstdomain',
+  'igodigitalst',   'wwwallaboutcookiesorg', 'interest-based',
+  'ip',             'online',                'opt-out',
+  'ios',            'google',                'appchoices',
+  'app',            'centre',                'up-to-date',
+  'ccpa'
+]
+Error checking link https://www.vml.com/cookie-policy: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 67

@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.vml.com/careers: [
+  'youll',                '30000',                '150-plus',
+  'transformative',       'maree',                'prendergast',
+  'ronnie',               'felder',               'tasha',
+  'gilroy',               'aimee',                'pagano',
+  'weve',                 'twelve-month',         'programme',
+  'ground-breaking',      'data-driven',          "vml's",
+  'ten-week',             'hands-on',             'real-life',
+  'hlr',                  'helen',                'lansdowne',
+  'resor',                'industrys',            '1908',
+  'non-binary',           'detroit',              '10-week',
+  'immersive',            'employee-funded',      'employee-led',
+  'agencys',              'all-inclusive',        'career-forward',
+  'organizationcreators', 'thinkerswho',          'militaryveteran',
+  'eeo',                  '212',                  '210',
+  '7000',                 'accommodationsvmlcom', 'non-disability',
+  'ccpa'
+]
+Error checking link https://www.vml.com/careers: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 46

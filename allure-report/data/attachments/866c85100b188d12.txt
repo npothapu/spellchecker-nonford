@@ -1,0 +1,28 @@
+Distinct misspelled words on https://www.vml.com/news/vml-roars-at-cannes-2024: [
+  'cannes',        '21',           "vml's",      'award-winning',
+  '57',            'prix',         'vmlyr',      'wunderman',
+  'thompson',      '19',           '30',         '151',
+  'shortlists',    '29',           "states'",    '65',
+  '54',            '32',           'debbi',      'vandeven',
+  'vmls',          'coca-cola',    'real-time',  'monday',
+  'june',          '17',           'tuesday',    '18',
+  'wednesday',     'thursday',     '20',         'friday',
+  'scholz',        'germany',      'allgemeine', 'zeitung',
+  'coke-creating', 'mediacom',     'ogilvy',     'mexico',
+  'movistar',      'argentina',    'asdra',      'oreo',
+  'mondelez',      "wendy's",      'baileys',    'fitchix',
+  'australia',     'nhs',          'glenn',      'belgium',
+  'india',         'charmology',   'btico',      'spain',
+  'betis',         'unravelled',   'canada',     'egale',
+  'adscan',        'colombia',     'makro',      'kambya',
+  'yoshinaga',     'iwc',          'ingenieur',  'und',
+  'technik',       'schaffhausen', 'florida',    'italy',
+  'biogen',        'fundame',      'pharma',     'sunitizer',
+  'indonesia',     'vaseline',     'beko',       'singapore',
+  'lux',           'hungary',      'unsilence',  'terre',
+  'des',           'aws',          'creatives',  'ccpa'
+]
+Error checking link https://www.vml.com/news/vml-roars-at-cannes-2024: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 88

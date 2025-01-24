@@ -1,0 +1,19 @@
+Distinct misspelled words on https://www.vml.com/expertise/consulting: [
+  'humanised',
+  'personalised',
+  '-',
+  'multi-disciplinary',
+  'long-term',
+  'short-term',
+  'organisational',
+  'go-to-market',
+  'danone',
+  'adecco',
+  'enablement',
+  'roi',
+  'ccpa'
+]
+Error checking link https://www.vml.com/expertise/consulting: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 13

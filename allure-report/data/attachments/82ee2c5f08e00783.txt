@@ -1,0 +1,48 @@
+Executing link 10 of 78: https://www.vml.com/offices
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+Our Offices
+NEAREST OFFICE
+
+Detroit
+
+Marquette Building
+243 West Congress St
+Detroit, MI 48226
+United States
+
+View Map 
+CONTACT US
+ALL OFFICES
+Asia Pacific
+Europe, Middle East & Africa
+Latin America
+North America
+NETWORK COMPANIES
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'detroit', 'marquette',
+  '243',     '48226',
+  'asia',    'europe',
+  'africa',  'latin',
+  'america', 'ccpa'
+]

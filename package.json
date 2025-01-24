@@ -1,0 +1,30 @@
+{
+  "name": "asa",
+  "version": "1.0.0",
+  "description": "This repository contains the automated functional test scripts for ASA.",
+  "main": "/tests",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.10.5"
+  },
+  "dependencies": {
+    "allure-playwright": "^3.0.9",
+    "backstopjs": "^6.3.25",
+    "csv-parser": "^3.1.0",
+    "dotenv": "^16.4.7",
+    "playwright": "^1.50.0",
+    "playwright-html-reporter": "^0.1.11",
+    "typo-js": "^1.2.5"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket-ssh.uhub.biz:7999/vmlnaiqa/asa.git"
+  }
+}

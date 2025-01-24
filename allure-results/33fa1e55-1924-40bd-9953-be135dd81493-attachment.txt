@@ -1,0 +1,16 @@
+Distinct misspelled words on https://www.vml.com/expertise/crm: [
+  'crm',              'omnichannel',
+  'customer-centric', 'data-driven',
+  "'operational",     "quicksand'",
+  'one-to-one',       'dont',
+  'jetblue',          'app',
+  'drmax',            'subclubs',
+  'drmaxs',           '2023',
+  '2023-24',          'metaverse',
+  'apps',             'web3',
+  'ccpa'
+]
+Error checking link https://www.vml.com/expertise/crm: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 19

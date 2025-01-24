@@ -1,0 +1,71 @@
+Executing link 48 of 78: https://www.vml.com/work/xbox-design-lab
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+Our Work
+Xbox Design Lab
+Customizing Adobe Commerce to enable interactive, made-to-order commerce experiences globally
+
+CLIENT
+
+Microsoft
+
+OFFICE
+
+United States
+Challenge
+Idea
+Inspiration
+Growth
+AT A GLANCE
+27 countries
+
+including 11 markets
+
+AT A GLANCE
+Billions
+
+of possible combinations for users globally
+
+AT A GLANCE
+750k
+
+visitors and 150k unique designs on day 1!
+
+RELATED CONTENT
+WENDY'S
+Spicing Up the Holidays
+A festive, spicy twist on the OG spicy chicken sandwich, reimagined as a holiday ornament
+READ CASE STUDY
+CONAGRA
+Delicious Success
+Hungry for more traffic, VML satisfies Conagra’s recipe website woes
+READ CASE STUDY
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'xbox',      'made-to-order',
+  'microsoft', '27',
+  '11',        '750k',
+  '150k',      "wendy's",
+  'og',        'reimagined',
+  'conagra',   'conagras',
+  'ccpa'
+]

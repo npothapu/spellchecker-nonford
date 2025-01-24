@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.vml.com/insights: [
+  'ces',          'malay',        'muslims',
+  'disneys',      'jon',          'ceo',
+  'disney',       'emea',         'webinar',
+  'ai',           'friday-cyber', 'monday',
+  'coca-cola',    'latam',        "apac's",
+  'six-nation',   'apac',         'claire',
+  'gillis',       'healthcare',   'godsey',
+  'american',     'cco',          'creatives',
+  'mobile-first', 'asia',         'transformative',
+  'loebner',      'phd',          'mbc',
+  'ccpa'
+]
+Error checking link https://www.vml.com/insights: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 31

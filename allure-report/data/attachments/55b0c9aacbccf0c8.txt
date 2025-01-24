@@ -1,0 +1,23 @@
+Distinct misspelled words on https://www.vml.com/expertise/connected-media: [
+  'omnichannel',     '500',           '30',              'crm',
+  'end-to-end',      'youre',         'outcome-first',   'audience-led',
+  'channel-fluid',   'low-cost',      'commoditized',    'roadmaps',
+  'kpi',             'long-term',     'in-housing',      'in-house',
+  'hyper-local',     'tailor-made',   'podcast',         'simon',
+  'vp',              'coca-cola',     'rmns',            'centricity',
+  'kiess',           'lamour',        'buzzsprout',      'podcasts',
+  'connectedmedia',  'wppopenx',      'discoverability', '-',
+  'tv',              '23',            'roi',             '12',
+  'edrington',       'uk',            'castrol',         'fiba',
+  'impactful',       "fiba's",        'fifa',            'futsal',
+  'unhide',          'googles',       'ai-driven',       "vml's",
+  'tarik',           'windle',        'emeaglobal',      'denmark',
+  'anna',            'ketting',       'netherlands',     'jeremy',
+  'na',              'leadpresident', 'aadit',           'bimbhet',
+  'apac',            'leadregional',  'singapore',       'healthcare',
+  'culture-shaping', 'ccpa'
+]
+Error checking link https://www.vml.com/expertise/connected-media: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 66

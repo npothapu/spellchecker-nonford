@@ -1,0 +1,21 @@
+Distinct misspelled words on https://www.vml.com/news/gartner-magic-quadrant-for-digital-experience-services-names-vml-a-visionary: [
+  'gartner',     'dec',
+  '16',          '14',
+  'industrys',   'dx',
+  "vml's",       'jeff',
+  'geheb',       'mach',
+  'vtex',        'optimizely',
+  'vmls',        'journey-driven',
+  'brett',       'sundar',
+  'viswanathan', 'alan',
+  'stanley',     'danellie',
+  '26',          'november',
+  'andor',       'gartners',
+  '31',          'cx',
+  'q2',          'q4',
+  'ccpa'
+]
+Error checking link https://www.vml.com/news/gartner-magic-quadrant-for-digital-experience-services-names-vml-a-visionary: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 29

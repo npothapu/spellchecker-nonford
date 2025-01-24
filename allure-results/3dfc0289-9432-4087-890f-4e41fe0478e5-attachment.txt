@@ -1,0 +1,141 @@
+Executing link 4 of 78: https://www.vml.com/work
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+slide 2 of 6
+BAILEYS
+Sound Scales
+READ CASE STUDY
+     
+CHILE MINISTRY OF TRANSPORT
+Social Wreaths
+READ CASE STUDY
+     
+ 
+COCA-COLA
+Thanks for Coke-Creating
+READ CASE STUDY
+     
+ 
+MOVISTAR
+This Is Not a Game
+READ CASE STUDY
+     
+ 
+FRANKFURTER ALLGEMEINE ZEITUNG
+The 100th Edition
+READ CASE STUDY
+     
+ 
+MONDELEZ
+OREO Menu
+READ CASE STUDY
+     
+ 
+BAILEYS
+Sound Scales
+READ CASE STUDY
+     
+CHILE MINISTRY OF TRANSPORT
+Social Wreaths
+READ CASE STUDY
+     
+Our Work
+WHAT WE DO
+OFFICES
+WENDY'S
+Spicing Up the Holidays
+A festive, spicy twist on the OG spicy chicken sandwich, reimagined as a holiday ornament
+READ CASE STUDY
+CHILE MINISTRY OF TRANSPORT
+Social Wreaths
+A culturally resonant campaign reducing road deaths in Chile by 17% through innovative and impactful roadside memorials
+READ CASE STUDY
+BOOTS
+The Christmas Makeover
+Boots unleashes the magic of beauty this Christmas with the launch of festive campaign featuring Adjoa Andoh in Mrs. Claus’ “werkshop”
+READ CASE STUDY
+IKEA
+IKEA: For the Holidays and Every Day
+Celebrating the special atmosphere of the holidays and the joy of spending time with family and friends
+READ CASE STUDY
+COCA-COLA
+The Bestie Mode Experience
+Coca-Cola and OREO celebrate their iconic collaboration with an epic launch event
+READ CASE STUDY
+CON EDISON
+Transforming Energy Self Sufficiency in The Big Apple for 10m New Yorkers
+Con Edison partner with VML to transform its digital experiences
+READ CASE STUDY
+CLARKS
+Clarks – Addressing Complex Legacy Tech Issues with MACH to Deliver Operational Excellence
+Clarks faced significant challenges due to their outdated, overly customized monolithic platform
+READ CASE STUDY
+COCA-COLA
+Thanks for Coke-Creating
+Embracing local culture and creativity through iconic branding
+READ CASE STUDY
+FORD
+SupportBelt
+The first seat belt accessory designed to keep breast cancer patients safe after a mastectomy
+READ CASE STUDY
+HELLMANN'S
+Mayo Cat
+The cat on a mission to save human food
+READ CASE STUDY
+COLGATE
+My Smile Is My Superpower
+Colgate celebrates the power of individual smiles with award-winning actress Uzo Aduba in "My Smile Is My Superpower" campaign
+READ CASE STUDY
+INTEL
+The Font that Saves Eyes
+The only monospace font designed to reduce eyestrain for computer programmers
+READ CASE STUDY
+MONDELEZ
+OREO Menu
+Turning any website's hamburger menu into a menu for OREOs
+READ CASE STUDY
+MOVISTAR
+This Is Not a Game
+Alerting young gamers and parents about the dangers of online gaming and real-life criminal grooming
+READ CASE STUDY
+GENERAL MILLS
+Charmology
+Turning every bowl into a magical fortune
+READ CASE STUDY
+SEE MORE WORK
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2024 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'baileys',       'chile',     'coca-cola',
+  'coke-creating', 'movistar',  'allgemeine',
+  'zeitung',       'mondelez',  'oreo',
+  "wendy's",       'og',        'reimagined',
+  '17',            'impactful', 'christmas',
+  'adjoa',         'andoh',     'mrs',
+  'claus',         'werkshop',  'ikea',
+  'bestie',        'edison',    '10m',
+  'clarks',        'mach',      'supportbelt',
+  "hellmann's",    'colgate',   'award-winning',
+  'uzo',           'aduba',     'intel',
+  'monospace',     "website's", 'oreos',
+  'online',        'real-life', 'charmology',
+  'ccpa'
+]

@@ -1,0 +1,25 @@
+Distinct misspelled words on https://www.vml.com/news/vml-secures-multiple-finalist-spots-at-campaign-us-agency-of-the-year-awards: [
+  'jan',             '21',          'wunderman',
+  'thompson',        'vmlyr',       'october',
+  '2023',            'january',     'cx',
+  '5500',            '24',          'cannes',
+  'data-driven',     'jon',         'ceo',
+  '28',              'inclusivity', "vml'ers",
+  'transformative',  "jon's",       'rafael',
+  'pitanguy',        'coca-cola',   'coke-creating',
+  'first-ever',      "rafael's",    'rene',
+  'lavecchia',       'miami',       'purpose-driven',
+  'people-centered', 'm-powered',   'vmls',
+  'wendys',          "vml's",       'dei',
+  'nejah',           'jemmott',     'america',
+  "nejah's",         'american',    'michelle',
+  'baumann',         'york',        'brian',
+  'yamada',          'tasha',       'gilroy',
+  'tuesday',         'epica',       '35',
+  'prix',            '10',          '11',
+  'ccpa'
+]
+Error checking link https://www.vml.com/news/vml-secures-multiple-finalist-spots-at-campaign-us-agency-of-the-year-awards: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 55

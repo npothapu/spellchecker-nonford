@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.vml.com/insight/the-future-shopper-2024-has-landed: [
+  'english',     'espaol',
+  'franais',     'long-term',
+  '31000',       '20',
+  'online',      're-normalization',
+  'd2c',         'infographic',
+  "vml's",       'omnichannel',
+  'uni-channel', 'ai',
+  '32',          '2030',
+  '1065',        '2032',
+  'ann',         'kaminkow',
+  'co-ceo',      'ny',
+  'hugh',        'naji',
+  'el-arifi',    'weve',
+  "apac's",      'six-nation',
+  'apac',        'latam',
+  'ccpa'
+]
+Error checking link https://www.vml.com/insight/the-future-shopper-2024-has-landed: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 31

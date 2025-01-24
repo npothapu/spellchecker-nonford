@@ -1,0 +1,21 @@
+Distinct misspelled words on https://www.vml.com/expertise/studios: [
+  'borderless',       'touchpoint',      '2007',
+  'tailor-made',      "clients'",        'martech',
+  'industry-leading', 'workflow',        'dco',
+  'transcreation',    'rpa',             'ai',
+  'janssen',          'onsite',          'montevideo',
+  '247',              'saas',            '3000',
+  'multi-channel',    'concierge-level', '365',
+  'multi-audiences',  '-',               'uk',
+  'adecco',           'vassilopoulos',   'vodafone',
+  'womeninbusiness',  'purpose-led',     'e-waste',
+  'andrew',           'rutberg',         'ceo',
+  'mitch',            'thornburgh',      'boston',
+  'roulston-bates',   'austin',          'lav',
+  'singh',            'apac',            'india',
+  'weve',             'roi',             'ccpa'
+]
+Error checking link https://www.vml.com/expertise/studios: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 45

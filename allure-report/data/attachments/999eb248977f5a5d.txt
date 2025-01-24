@@ -1,0 +1,21 @@
+Distinct misspelled words on https://www.vml.com/expertise/brand-experience: [
+  'english',      'franais',   'allgemeine',
+  'zeitung',      'coca-cola', 'coke-creating',
+  "hellmann's",   "wendy's",   'movistar',
+  'vaseline',     'sunitizer', 'culture-shaping',
+  '-',            'dont',      'always-on',
+  'go-to-market', 'cannes',    '2023',
+  'right-wing',   'germany',   'mondelez',
+  'oreo',         'shoppable', 'og',
+  'reimagined',   'latam',     'rom-com',
+  "katz's",       'mindshare', 'edelman',
+  'menarini',     'italy',     'herpmed',
+  'labiale',      'scholz',    "vml's",
+  'talk-to-tech', "'o-re-o'",  'audrey',
+  'melofchik',    'york',      'enablement',
+  'ccpa'
+]
+Error checking link https://www.vml.com/expertise/brand-experience: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 43

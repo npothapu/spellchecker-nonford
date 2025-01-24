@@ -1,0 +1,137 @@
+Executing link 71 of 78: https://www.vml.com/news/wpp-recognized-as-a-leader-in-commerce-services
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+News
+WPP Recognized as a Leader in Commerce Services
+May 16, 2024
+WPP and VML lead in commerce services, earning top marks from Forrester for innovative strategies and exceptional creative and technology integration
+
+Click below to access a complimentary version of the full report.
+
+VIEW THE REPORT
+
+WPP has been named a Leader among commerce service providers in The Forrester Wave™: Commerce Services, Q2 2024 report. According to Forrester, WPP shines with flexible creativity in its commerce strategy anchored by WPP Open, the company’s intelligent marketing operating system.
+
+The study assessed ten providers of commerce services based on their current offering, strategy and market presence, measuring providers against 24 criteria.
+
+Among those evaluated, the research finds that WPP had the highest score in the current offering category and excels in overall commerce strategic strength, with additional strength in content production and in retail media. The Forrester report states that WPP uses "GroupM’s scale as a global media buyer and its own extensive retailer and marketplace relationships with Amazon and others to help brands and retailers optimize media and transactions.”
+
+
+The marriage of creative and technology has always been at the heart of what we deliver for our clients. It’s inspiring to see Forrester rank WPP as a Leader in commerce services and recognize WPP as a provider with ‘flexible creativity in commerce.’ We’re focused on ensuring the total commerce experience is at the forefront for today’s modern marketers. It’s paramount to VML’s positioning and our trilogy of practices across brand experience, commerce, and customer experience which we leverage to create connected brands for our client partners.
+Jon Cook
+Global CEO, VML
+
+The company received the highest score attainable in data, analytics and AI criterion. The report noted that “WPP excels in overall commerce strategic strength, hitting on all cylinders, leading with genAI innovation in its Open platform, and rocking the technology and marketplace partner ecosystem”. WPP also received top scores possible in the social commerce, CRM services, talent strategy and global delivery strategy criteria. Additionally, Forrester noted the simplification of WPP’s commerce structure, with the company aggregating its commerce services under the VML brand following the merger of VMLY&R and Wunderman Thompson.
+
+
+Forrester’s recognition of the commerce offer that now sits within VML is incredibly validating. We’re proud of the world-class team we’ve assembled to deliver leading-edge creative, media and technology expertise for clients at a time of unprecedented growth in the space. From shaping commerce strategy to galvanizing engagement and conversion across all channels, we’re ensuring brands are delivering memorable, discoverable, and ultimately frictionless commerce experiences to its consumers. Our partnership with GroupM makes WPP truly an end-to-end leader in Commerce for our clients.
+Beth Ann Kaminkow
+Global Chief Commerce Officer, VML
+VML's Creative Commerce in Action
+
+"I See Coke" by VML UAE and U.S. for The Coca-Cola Company
+
+A built-in Alexa skill that rewards viewers every time a Coke pops on screen
+
+READ MORE
+
+OREOCodes by VML U.S. for Mondelez
+
+Creating a commerce experience that turns milk barcodes into OREO offers
+
+READ MORE
+
+The Subconscious Order by VML Saudi Arabia for HungerStation
+
+AI can do a lot of things – including help you decide what to have for dinner
+
+READ MORE
+
+"Xbox Design Lab" by VML U.S. for Microsoft
+
+Customizing Adobe Commerce to enable interactive, made-to-order commerce experiences on a globally
+
+READ MORE
+
+"KFC App" by VML Malaysia for KFC
+
+KFC, a much-loved brand in Malaysia, transformed its online ordering experience to connect 700 restaurants to homes around the country
+
+READ MORE
+
+"Digital Transformation" by VML U.S. for Univar
+
+Jumpstarting Univar's digital transformation by aligning their current digital properties
+
+READ MORE
+VML's Commerce Insights
+
+The Future Shopper 2024
+
+Our biggest report yet explores the evolving shopper landscape globally and new opportunities for brands to drive long-term success
+
+READ MORE
+
+Tomorrow's Commerce 2024
+
+20 future trends to pique the interest and shape the plans of business leaders today
+
+READ MORE
+
+Trailblazers of Tomorrow
+
+Decoding Generation Alpha and the social commerce opportunity
+
+READ MORE
+
+The Brave New World of Creative Commerce
+
+From subconscious ordering to Gen Z banking on Twitch
+
+READ MORE
+RELATED CONTENT
+INSIGHT
+Shoptalk US: VML’s 2024 Recap
+Leading marketers and brands hit Las Vegas to explore channel integration, AI innovation, the re-emergence of brand and more.
+READ ARTICLE
+NEWS
+VML Commerce's Michelle Baumann Wins Strategist of the Year
+VML's Brian Yamada and Tasha Gilroy also honored — recognizing excellence in advertising and marketing leadership and innovation
+READ ARTICLE
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2024 VML. A WPP Company.
+Distinct Misspelled Words: [
+  '16',          'q2',            'companys',      '24',
+  'groupms',     'vmls',          'jon',           'ceo',
+  'ai',          'genai',         'crm',           'wpps',
+  'vmlyr',       'wunderman',     'thompson',      'forresters',
+  'world-class', 'weve',          'leading-edge',  'groupm',
+  'end-to-end',  'ann',           'kaminkow',      "vml's",
+  'uae',         'coca-cola',     'built-in',      'alexa',
+  'oreocodes',   'mondelez',      'barcodes',      'oreo',
+  'saudi',       'arabia',        'hungerstation', 'xbox',
+  'microsoft',   'made-to-order', 'kfc',           'app',
+  'malaysia',    'much-loved',    'online',        '700',
+  'univar',      'jumpstarting',  "univar's",      'long-term',
+  '20',          'vegas',         're-emergence',  'michelle',
+  'baumann',     'brian',         'yamada',        'tasha',
+  'gilroy',      'ccpa'
+]

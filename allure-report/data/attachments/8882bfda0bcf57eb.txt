@@ -1,0 +1,76 @@
+Executing link 32 of 78: https://www.vml.com/news/vmls-new-campaign-discovers-the-origins-of-the-name-oreo
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+News
+VML's New Campaign Discovers the Origins of the Name OREO
+Jan 15, 2025
+VML talk-to-tech experience invites OREO fans to embrace the language of 'O-RE-O'
+
+OFFICE
+
+New York
+United States
+
+OREO has always been synonymous with fun—from the iconic twist, lick, and dunk to creating playful experiences across shopping, sports, social media, and cultural moments. Now, as the OREO audience evolves, so does the meaning of Stay Playful.
+
+With that in mind, VML is using a language code inspired by the cookie itself—one that’s just as playful and creative as its young consumers.
+
+Introducing Name This OREO, the latest interactive activation from Mondelēz International and VML. This mobile audio experience invites fans to decode and name OREO cookie combinations with fun and simple language. Consumers use “O” to represent the cookie, and “RE” to represent creme. Fans who master this language can unlock exclusive rewards, making the experience as delightful as the cookie itself.
+
+For example, if you’ve got Cookie, Creme, Creme, Cookie, you should say O-RE-RE-O. Or if you’ve got Cookie, Creme, Cookie, Creme, Cookie, you say O-RE-O-RE-O.
+
+Fans simply visit NameThisOREO.com, where they’re tasked with reading the OREO combinations aloud using their phone’s microphone. The catch? They must get it right before the timer runs out to show off their OREO skills and win exclusive offers!
+
+This playful experience blends creativity and commerce while staying true to the brand’s essence. Launched globally across social media, OOH campaigns, and retail partnerships, Name This OREO brings a fresh and engaging way for fans to connect with the brand.
+
+Read about it in AdAge, RoastBrief, and Little Black Book.
+
+We’re always looking for new ways to connect with our audience, who know and love our ‘Stay Playful’ spirit. Tapping into culture and remaining engaging on social platforms is essential for OREO. This campaign perfectly embodies our ethos by delivering a commerce experience that’s not only fun but deeply representative of our brand.
+Anne Martin
+Director Shopper Marketing, Mondelez
+‘Name This OREO’ is a prime example of what a great campaign should deliver—an engaging dose of entertainment, a social experience rooted in culture, and an innovative, creative approach to driving conversion. Our consumers are incredibly fun and imaginative, and this initiative perfectly captures the playfulness that has always defined OREO.
+Manuel Borde
+Global Chief Creative Officer, Commerce
+RELATED CONTENT
+MONDELEZ
+Name This OREO
+An interactive mobile audio experience that lets fans decode and name OREO cookie combinations
+READ CASE STUDY
+MONDELEZ
+OREO Calls
+Turning referee signals into shoppable moments, Oreo redefines advertising with creativity and innovation
+READ CASE STUDY
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  "vml's",        'oreo',
+  'jan',          '15',
+  'talk-to-tech', "'o-re-o'",
+  'york',         'funfrom',
+  'itselfone',    'mondelz',
+  'youve',        'o-re-re-o',
+  'o-re-o-re-o',  'namethisoreocom',
+  'theyre',       'roastbrief',
+  'anne',         'mondelez',
+  'deliveran',    'manuel',
+  'borde',        'shoppable',
+  'ccpa'
+]

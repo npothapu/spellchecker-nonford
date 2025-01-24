@@ -1,0 +1,20 @@
+Distinct misspelled words on https://www.vml.com/work: [
+  'baileys',       'chile',     'coca-cola',
+  'coke-creating', 'movistar',  'allgemeine',
+  'zeitung',       'mondelez',  'oreo',
+  "wendy's",       'og',        'reimagined',
+  '17',            'impactful', 'christmas',
+  'adjoa',         'andoh',     'mrs',
+  'claus',         'werkshop',  'ikea',
+  'bestie',        'edison',    '10m',
+  'clarks',        'mach',      'supportbelt',
+  "hellmann's",    'colgate',   'award-winning',
+  'uzo',           'aduba',     'intel',
+  'monospace',     "website's", 'oreos',
+  'online',        'real-life', 'charmology',
+  'ccpa'
+]
+Error checking link https://www.vml.com/work: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 40

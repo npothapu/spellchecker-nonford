@@ -1,0 +1,15 @@
+Distinct misspelled words on https://www.vml.com/expertise/data: [
+  'operationalizing', 'people-based',
+  '-',                'ai-powered',
+  'walgreens',        'ai',
+  'decision-making',  '1000',
+  '23',               'roi',
+  '350',              'optimise',
+  'data-driven',      'crm',
+  'customised',       'optomizing',
+  'healthcare',       'ccpa'
+]
+Error checking link https://www.vml.com/expertise/data: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 18

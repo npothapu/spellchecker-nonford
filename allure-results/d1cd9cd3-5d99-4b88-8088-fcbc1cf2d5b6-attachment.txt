@@ -1,0 +1,66 @@
+Executing link 5 of 78: https://www.vml.com/expertise
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+BRAND EXPERIENCE COMMERCE CUSTOMER EXPERIENCE ENTERPRISE SOLUTIONS HEALTH
+What We Do
+Only through the integration of Brand Experience, Commerce and Customer Experience can you thrill consumers, drive growth, and build a relationship of trust.
+WHAT WE DO
+Brand Experience
+We create culture-shaping brands that connect emotionally and drive growth for our client partners.
+FIND OUT MORE
+WHAT WE DO
+Commerce
+A practice focused on driving conversion and sales through creativity, consulting and technology enablement
+FIND OUT MORE
+WHAT WE DO
+Customer Experience
+Inspiring innovation, growth, and customer loyalty through connected experiences
+FIND OUT MORE
+WHAT WE DO
+Enterprise Solutions
+Transforming companies using technology, data, and AI solutions across the complex customer ecosystem
+FIND OUT MORE
+WHAT WE DO
+Health
+We are a global healthcare communications network that creates connected brands for life
+FIND OUT MORE
+Apps
+B2B
+Consulting
+CRM
+Data
+Inclusion Experience Consultancy
+Influencer Marketing
+Intelligence
+Connected Media
+Social Media
+Studios
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'culture-shaping',
+  'enablement',
+  'ai',
+  'healthcare',
+  'apps',
+  'crm',
+  'ccpa'
+]

@@ -1,0 +1,11 @@
+Distinct misspelled words on https://www.vml.com/offices: [
+  'detroit', 'marquette',
+  '243',     '48226',
+  'asia',    'europe',
+  'africa',  'latin',
+  'america', 'ccpa'
+]
+Error checking link https://www.vml.com/offices: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 10

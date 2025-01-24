@@ -1,0 +1,16 @@
+Distinct misspelled words on https://www.vml.com/ccpa-policy: [
+  'ccpa',               '31122023',
+  'california',         'cpra',
+  'opt-out',            'exceptionsthe',
+  '12',                 'ip',
+  '179880',             'internet',
+  'employment-related', 'whitepapers',
+  'ie',                 '16',
+  'civ',                '1798121a',
+  'dpovmlcom',          '844',
+  '496',                '1443'
+]
+Error checking link https://www.vml.com/ccpa-policy: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 20

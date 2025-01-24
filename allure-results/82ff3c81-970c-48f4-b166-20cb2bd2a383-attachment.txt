@@ -1,0 +1,19 @@
+Distinct misspelled words on https://www.vml.com/work/every-coca-cola-is-welcome: [
+  'coke-creating', 'coca-cola',
+  "coca-cola's",   'mediacom',
+  'ogilvy',        'impactful',
+  'islam',         'eldessouky',
+  'rafael',        'pitanguy',
+  'ojo',           'prix',
+  'mexico',        'london',
+  'cannes',        'cross-channel',
+  'co-creation',   'user-generated',
+  'small-scale',   'street-art',
+  'reimagined',    'america',
+  'built-in',      'alexa',
+  'ccpa'
+]
+Error checking link https://www.vml.com/work/every-coca-cola-is-welcome: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 25

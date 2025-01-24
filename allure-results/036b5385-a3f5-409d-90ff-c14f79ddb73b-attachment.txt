@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.vml.com/expertise/influencer-marketing: [
+  'walmart',          'over-delivers',
+  'roi',              '500',
+  'hand-picked',      'instagram',
+  'tiktok',           'youtube',
+  'front-and-center', 'end-to-end',
+  'ai',               'real-time',
+  'on-brand',         'always-on',
+  'sara',             'google',
+  '152562',           '5175687487',
+  '425634',           'quick-turn',
+  'ceo',              'mae',
+  'karwowski',        'agencys',
+  'whitepaper',       "vml's",
+  'ai-powered',       'navys',
+  'z-focused',        'web3',
+  'ccpa'
+]
+Error checking link https://www.vml.com/expertise/influencer-marketing: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 31

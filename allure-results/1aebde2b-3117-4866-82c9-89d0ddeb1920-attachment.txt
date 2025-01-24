@@ -1,0 +1,21 @@
+Distinct misspelled words on https://www.vml.com/insight/the-future-100-2025: [
+  'english',           'espaol',         'franais',
+  'portugus',          'game-changing',  '10',
+  'future-ready',      '14',             'trillionaire',
+  'cost-cutting',      'cost-of-living', 'realitiesby',
+  'next-level',        'proactively',    'themone',
+  '01',                'redux',          '22',
+  '36',                '44',             'reality-defying',
+  'out-of-this-world', '52',             'ai',
+  '61',                'awesperiential', 'asia',
+  '71',                'five-star',      'toyspets',
+  'all-round',         '87',             'ozempic',
+  'weight-loss',       '97',             'world-conjuring',
+  'cocreate',          'emma',           'chiu',
+  'marie',             'stafford',       "vml's",
+  'nastplas',          'ccpa'
+]
+Error checking link https://www.vml.com/insight/the-future-100-2025: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 44

@@ -1,0 +1,13 @@
+Distinct misspelled words on https://www.vml.com/expertise: [
+  'culture-shaping',
+  'enablement',
+  'ai',
+  'healthcare',
+  'apps',
+  'crm',
+  'ccpa'
+]
+Error checking link https://www.vml.com/expertise: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 7

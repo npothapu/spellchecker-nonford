@@ -1,0 +1,19 @@
+Distinct misspelled words on https://www.vml.com/privacy-policy: [
+  '31122023',        'dpovmlcom',        'online',
+  'enquire',         'linkedin',         'facebook',
+  'in-person',       'ip',               'url',
+  'cctv',            'ie',               'eg',
+  'opt-out',         'organiser',        'uk',
+  'europe',          'organisational',   'childrens',
+  '16',              'commonly-used',    'machine-readable',
+  'dont',            'youre',            'weve',
+  'httpwwwicoorguk', 'well-intentioned', 'california',
+  'wunderman',       'thompson',         'llc',
+  'dba',             '175',              'greenwich',
+  'york',            'ny',               '10007',
+  'up-to-date',      'ccpa'
+]
+Error checking link https://www.vml.com/privacy-policy: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 38

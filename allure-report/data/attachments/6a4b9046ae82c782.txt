@@ -1,0 +1,25 @@
+Distinct misspelled words on https://www.vml.com/expertise/health: [
+  'biogen',           'fundame',     'claire',
+  'gillis',           'humanising',  'healthcare',
+  'esmo',             'behaviours',  'weve',
+  'lifecycle',        'shouldnt',    'commercialisation',
+  'pharma',           'otc',         'kol',
+  'america',          'sydney',      'tokyo',
+  'london',           'manchester',  'uk',
+  'madrid',           'barcelona',   'spain',
+  'milan',            'paris',       'frankfurt',
+  'zurich',           '124',         'horaios',
+  'diagnosticookies', 'gilead',      'ai',
+  'chile',            '17',          'impactful',
+  'game-changing',    'gamechanger', 'ceo',
+  'nichole',          'davies',      'mega-merger',
+  'comms',            'chiles',      "'social",
+  "wreaths'",         'matt',        'hyde',
+  'jason',            'gloye',       'york',
+  'mel',              'routhier',    'chicago',
+  'crm',              'roi',         'ccpa'
+]
+Error checking link https://www.vml.com/expertise/health: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 57

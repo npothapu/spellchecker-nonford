@@ -1,0 +1,11 @@
+Distinct misspelled words on https://www.vml.com/work/adscan-by-makro: [
+  'adscan',   'makro',
+  'colombia', '157',
+  "brands'",  '20000',
+  'cannes',   'carro',
+  'ccpa'
+]
+Error checking link https://www.vml.com/work/adscan-by-makro: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 9

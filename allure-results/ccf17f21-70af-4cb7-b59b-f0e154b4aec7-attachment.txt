@@ -1,0 +1,178 @@
+Executing link 43 of 78: https://www.vml.com/work/the-font-that-saves-eyes
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+Our Work
+The Font that Saves Eyes
+The only monospace font designed to reduce eyestrain for computer programmers
+
+CLIENT
+
+Intel
+
+OFFICE
+
+Kansas City
+United States
+
+Intel’s commitment to accessibility and open-source initiatives led VML’s research team to discover that developer eye strain was a significant issue, with no typefaces specifically addressing it. To strengthen connections with the developer community, VML and Frere-Jones Type collaborated with low-vision and legally blind developers, focusing on legibility and gathering feedback to refine the design. By releasing the typeface as open-source on GitHub, Intel built trust with developers. The project resulted in many awards, positive feedback on inclusivity, reduced eye strain, improved coding accuracy and enhanced brand affinity, with many devs adopting it as their default coding typeface.
+
+The Intel One Mono font is a game-changer in the world of digital typography. Designed for optimal readability on any screen, it marries form and function, setting a new standard for user interfaces. This innovation is not just about looks; it's about enhancing the way we interact with technology daily.
+Intel Corporation
+Challenge
+Inspiration
+Idea
+Growth
+AT A GLANCE
+12
+
+Prestigious Awards
+
+AT A GLANCE
+11.11%
+
+Faster to read than Menlo, a popular monospace font
+
+AT A GLANCE
+80K+
+
+Downloads on GitHub
+
+Subjective ideas about what might be considered beautiful at 160 points on a poster doesn’t mean a whole lot when you’re reading at 13 pixels on screen and can’t tell why your code is throwing an error. Intel One Mono is designed to be at its best in those circumstances.
+Fred Shallcrass
+Frere-Jones Type
+slide 2 of 7
+      
+AWARDS
+
+2024 FAST COMPANY INNOVATION BY DESIGN
+
+Type Design
+
+WINNER
+
+2024 FAST COMPANY INNOVATION BY DESIGN
+
+Accessible Design
+
+HONORABLE MENTION
+
+2023 CANNES LIONS
+
+Typography - Brand & Communications Design
+
+SHORTLIST
+
+2024 D&AD
+
+Type Design & Lettering - Typeface Family
+
+SHORTLIST
+
+2024 ANDY AWARDS
+
+Craft
+
+GOLD
+
+2024 TDC AWARDS
+
+Single Axis Type Family
+
+GOLD
+
+2024 ONE SHOW
+
+Design For Good
+
+MERIT
+
+2024 NEW YORK FESTIVALS
+
+Typography
+
+SILVER
+
+2024 NEW YORK FESTIVALS
+
+Product Design
+
+BRONZE
+
+2024 NEW YORK FESTIVALS
+
+Social/Environmental Good
+
+FINALIST
+
+2024 GERETY AWARDS
+
+B2B
+
+SILVER
+
+2024 ADVERTISING RESEARCH FOUNDATION AWARDS
+
+Best Consumer Experience
+
+WINNER
+
+PRESS
+Intel's new font for developers is causing drama for coders
+Fast Company 
+Intel One Mono is a new open-source typeface for visually impaired developers
+TechSpot 
+Intel’s New Open Source Mono Font is Pretty Decent
+OMG Ubuntu 
+Night and Day: Creating the Intel One Mono Typeface
+SXSW 
+RELATED CONTENT
+WENDY'S
+Spicing Up the Holidays
+A festive, spicy twist on the OG spicy chicken sandwich, reimagined as a holiday ornament
+READ CASE STUDY
+CONAGRA
+Delicious Success
+Hungry for more traffic, VML satisfies Conagra’s recipe website woes
+READ CASE STUDY
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2024 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'monospace',   'intel',
+  'kansas',      'intels',
+  'open-source', 'vmls',
+  'frere-jones', 'low-vision',
+  'github',      'inclusivity',
+  'devs',        'game-changer',
+  '12',          '1111',
+  'menlo',       '80k',
+  '160',         'doesnt',
+  'youre',       'fred',
+  'shallcrass',  '2023',
+  'cannes',      '-',
+  'andy',        'tdc',
+  'york',        'socialenvironmental',
+  'gerety',      "intel's",
+  'techspot',    'omg',
+  'ubuntu',      'sxsw',
+  "wendy's",     'og',
+  'reimagined',  'conagra',
+  'conagras',    'ccpa'
+]
