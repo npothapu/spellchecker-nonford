@@ -1,3 +1,9 @@
+/**
+ * Author: Nandakumar Pothapu Reddy
+ * Title: Associate Director of Technology
+ * Date: January 24, 2025
+ */
+
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
