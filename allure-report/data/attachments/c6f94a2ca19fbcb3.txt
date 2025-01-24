@@ -1,0 +1,81 @@
+Executing link 15 of 32: https://unitedsoybean.org/industry-partner-sites/
+Extracted Page Text: Skip to content
+OPEN THE SOY HOPPER
+ABOUT USB
+ABOUT THE CHECKOFF
+STRATEGIC PLAN
+DIRECTORY
+COMPLIANCE
+REPORTS & DOCUMENTATION
+CAREER OPPORTUNITIES
+TOOLS & RESOURCES
+HIGH OLEIC SOYBEANS
+USB CARBON TOOLBOX
+TOOLS & CALCULATORS
+RESEARCH DATABASE
+INDUSTRY PARTNER SITES
+EVENTS
+MEDIA
+PRESS RELEASES
+BRAND & LOGO
+ISSUE BRIEFS
+COMMUNICATION STANDARDS MANUAL
+PARTNER MENU
+INDUSTRY PARTNER SITES
+CHECKOFF INITIATIVES
+Soy Aquaculture Alliance – Works to create new opportunities for soybean farmers within a growing domestic market: aquaculture.
+Soy Connection – Features information on soy foods, soy oil, soybean nutrition, soybean recipes and soybean research.
+Soy New Uses – Targets the industrial product sector, promoting opportunities to use U.S. soy in industrial applications.
+Soy Transportation Coalition – Positions the soybean industry stakeholders to benefit from a transportation system that delivers cost effective, reliable, and competitive service.
+Soybean Meal Info Center – Provides a comprehensive resource for feed manufacturers, animal nutritionists, feed formulators and livestock and poultry producers.
+Soybean Research Information Network (SRIN) – Curated summaries and highlights of the latest soy checkoff research in diseases, pests, diagnostic tools and more.
+Soy Value – Show farmers the value of their soybeans with a combination of high yield and quality.
+Take Action – Helps farmers manage herbicide, fungicide and insect resistance to reduce the impacts of resistant pests and preserve current and future crop protection technology.
+USSOY – Promotes U.S. Soy for a growing world.
+CHECKOFF PARTNERS
+American Soybean Association (ASA)* – The membership-based domestic and international policy advocate for U.S. soybean growers and the soybean industry.
+Animal Ag Alliance – Brings together farmers, ranchers and others involved in getting food from farm to fork.
+Center for Food Integrity (CFI) – Dedicated to building consumer trust and confidence in today’s food system by addressing critical issues with balanced information to make informed food choices.
+Center for Integrated Pest Management (CIPM) – Fosters the development and implementation of pest-management programs and sociologically responsible pest management in diverse systems.
+Clean Fuels Alliance America – The national trade association, in part funded by the checkoff, representing the biodiesel industry in the United States.
+Council for Agricultural Science and Technology (CAST) – Through its network of experts, CAST assembles, interprets, and communicates credible, balanced, science-based information to policymakers, the media, the private sector, and the public.
+Crop Protection Network (CPN) – Produces unbiased, collaborative outputs on important issues affecting field crops in the United States and Canada. The CPN is a product of Land Grant Universities.
+Soybean Cyst Nematode (SCN) Coalition – Information about controlling SCN from a diverse group of university researchers, extension specialists and industry experts concerned about the pest’s evolving resistance.
+SNI Global* – SNI Global leads the way in soy human health and nutrition research, and then communicates the scientific evidence to its members, targeted food and nutrition influencers, policymakers and the soy industry at large.
+U.S.A. Poultry and Egg Export Council (USAPEEC) – Works to build demand for the poultry and egg export industry.
+U.S. Department of Agriculture (USDA) – The official website of the U.S. Department of Agriculture.
+U.S. Farmers and Ranchers in Action (USFRA) – Representing all aspects of agriculture and working to engage in dialogues with consumers.
+U.S. Meat Export Federation (USMEF) – Trade association working to put U.S. meat on the world’s table by developing international markets for U.S. meat.
+U.S. Soybean Export Council (USSEC) – The soy checkoff’s primary international marketing contractor, USSEC, creates a preference for U.S. soy by building and maintaining relationships through trade and technical services.
+World Initiative for Soy in Human Health (WISHH) – Connects trade and development across global market systems, improving food security.
+
+*As a checkoff organization, the United Soybean Board does not and cannot influence legislation or government policy.
+
+CONTACT US
+MEDIA CENTER
+REQUEST FOR PROPOSALS
+PARTNER LOGIN
+EXPENSE REPORTING
+CAREER OPPORTUNITIES
+
+© 2025 United Soybean Board 16305 Swingley Ridge Rd. Suite 150, Chesterfield, MO, 63017
+
+ Privacy Policy
+Distinct Misspelled Words: [
+  'usb',              'oleic',
+  'srin',             'ussoy',
+  'american',         'asa',
+  'membership-based', 'ag',
+  'cfi',              'cipm',
+  'pest-management',  'america',
+  'biodiesel',        'science-based',
+  'cpn',              'canada',
+  'scn',              'sni',
+  'influencers',      'usa',
+  'usapeec',          'usda',
+  'usfra',            'dialogues',
+  'usmef',            'ussec',
+  'wishh',            '16305',
+  'swingley',         '150',
+  '63017'
+]

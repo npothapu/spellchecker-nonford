@@ -1,0 +1,22 @@
+Distinct misspelled words on https://unitedsoybean.org/hopper/tag/press-releases/: [
+  'usb',        'oleic',            'friday',
+  'january',    '24',               '130',
+  '02',         'december',         '12',
+  'philip',     '04',               'roi',
+  'november',   '18',               'farmer-leaders',
+  'october',    '23',               '2030enrollment',
+  '14',         'oswald',           'july',
+  'greenlight', 'forward-thinking', 'fy25',
+  'june',       '20',               '19',
+  '17',         '16',               '30',
+  '27',         'nextile',          '21',
+  'dewalt',     'soy-based',        'anderson',
+  '01',         'february',         '398',
+  '2223',       'youre',            '-',
+  '16305',      'swingley',         '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/hopper/tag/press-releases/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 46

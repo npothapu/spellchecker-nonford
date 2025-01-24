@@ -1,0 +1,25 @@
+Distinct misspelled words on https://unitedsoybean.org/about-the-checkoff/: [
+  'usb',
+  'oleic',
+  '77',
+  'farmer-leaders',
+  'roi',
+  'goodyear',
+  'isnt',
+  'american',
+  'asa',
+  'ussec',
+  'state-by-state',
+  'innovation-by-innovation',
+  'around-the-clock',
+  'farmer-directors',
+  'five-year',
+  '16305',
+  'swingley',
+  '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/about-the-checkoff/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 19

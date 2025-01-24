@@ -1,0 +1,2 @@
+folderpath:C:\2025Playwright-Projects\spellchecker-nonford\data\url_batches
+Dirname:C:\2025Playwright-Projects\spellchecker-nonford\tests

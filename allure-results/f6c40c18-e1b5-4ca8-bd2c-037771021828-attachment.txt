@@ -1,0 +1,22 @@
+Distinct misspelled words on https://unitedsoybean.org/hopper/united-soybean-board-announces-management-team/: [
+  'usb',              'oleic',              'friday',
+  'january',          '24',                 'june',
+  '19',               'keenan',             'mcroberts',
+  'darryl',           'chatman',            'sandi',
+  'schwarzen',        'jansen',             'doug',
+  'ackerman',         'regina',             'cleary',
+  'usbs',             'louis',              'half-million',
+  'ceo',              'lucas',              'lentschs',
+  'phd',              'usdas',              'cpa',
+  'cpg',              'reputation-related', '17',
+  '77',               'farmer-leaders',     'usda',
+  'unitedsoybeanorg', 'paul',               'murphy-spooner',
+  '515-975-6584',     '14',                 'july',
+  '18',               'greenlight',         'forward-thinking',
+  'fy25',             '20',                 '16305',
+  'swingley',         '150',                '63017'
+]
+Error checking link https://unitedsoybean.org/hopper/united-soybean-board-announces-management-team/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 48

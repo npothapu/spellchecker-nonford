@@ -1,0 +1,203 @@
+Executing link 6 of 32: https://unitedsoybean.org/strategic-plan/
+Extracted Page Text: Skip to content
+OPEN THE SOY HOPPER
+ABOUT USB
+ABOUT THE CHECKOFF
+STRATEGIC PLAN
+DIRECTORY
+COMPLIANCE
+REPORTS & DOCUMENTATION
+CAREER OPPORTUNITIES
+TOOLS & RESOURCES
+HIGH OLEIC SOYBEANS
+USB CARBON TOOLBOX
+TOOLS & CALCULATORS
+RESEARCH DATABASE
+INDUSTRY PARTNER SITES
+EVENTS
+MEDIA
+PRESS RELEASES
+BRAND & LOGO
+ISSUE BRIEFS
+COMMUNICATION STANDARDS MANUAL
+PARTNER MENU
+STRATEGIC PLAN
+
+To accomplish its farmer profit mission, the soy checkoff is dedicated to growing the preference for U.S. Soy. Setting market-focused objectives with a clear plan of action is how we get there.
+
+USB STRATEGIC PLAN
+
+VISION
+
+Partner to deliver sustainable soy solutions to every life, every day.
+
+ 
+
+MISSION
+
+Create value for U.S. soy farmers by investing in research, education and promotion of U.S. soy.
+
+PRIORITY AREAS
+INFRASTRUCTURE & CONNECTIVITY
+
+SUPPLY
+Investing in the ability of farmers to connect to markets, information and each other.
+
+Strengthening the interconnected systems bringing U.S. soy products to market through road/rail/river as well as broadband.
+
+EX: Connecting farms with new market opportunities, direct marketing infrastructure needs, blockchain.
+
+DEMAND
+Investing in the necessary infrastructure to connect soy users to the market.
+
+Improving connection to markets and market intelligence.
+
+Innovating in supply chain, cold chain and other delivery infrastructure.
+
+EX: Access to biodiesel, cold chain.
+
+HEALTH & NUTRITION
+
+SUPPLY
+Plant Health & Nutrition – Investing in growing soybeans to meet the future needs of plant (and soil) health and nutrition.
+
+Improve plant nutrition by utilizing the tools necessary to produce a healthier, more resilient plant.
+
+Gain access to data about how to make plants better and grow a more sustainable bean.
+
+EX: Weed control, drought and flood resistance.
+
+DEMAND
+Animal & Human Health & Nutrition – Investing in the benefits soybeans deliver for animal and human health and nutrition.
+
+Discovery of new bundles — and the measurements/metrics to demonstrate their benefits.
+
+Differentiate the benefits of U.S. soy by focusing on the nutritional value and its ability to improve human and animal health.
+
+Anticipate future needs in health and nutrition.
+
+EX: Feed trials, nutrition bundles.
+
+INNOVATION & TECHNOLOGY
+
+SUPPLY
+Investing in the production of soybeans to meet the demands of the future through improvements, new uses and technology.
+
+Produce and expand opportunities for use based on market need — from feed and food to industrial products.
+
+Technological innovation for survivability of farmers.
+
+EX: High oleic, amino acid measurement, robotics, drones.
+
+DEMAND
+Investing in soy-based solutions to meet the demands of the future.
+
+Listening to the demands of the markets — from nutrition to industrial.
+
+Driving the formulation of new uses and technologies to meet the demands of these markets.
+
+EX: Biodiesel, Bioheat, coproducts (IKEA® paint).
+
+STRATEGIES
+
+(S1) Enable farmer-led pathways to tighten the U.S. soy value chain, bridging innovations across supply and demand.
+
+(S2) Create and promote the unique identity, value and versatility of U.S. soybeans and soy products through traditional and new opportunities.
+
+(S3) Position and empower farmers to capture value potential.
+
+(S4) Grow USB as a primary industry resource and voice that is trusted, strategic and effective.
+
+MEASURABLE GOALS
+
+S.M.A.R.T. GOAL A: “VALUE THROUGH RESILIENCE”
+
+By 2027, create more economically and environmentally resilient soy farming systems through activating market signals to:
+
+Increase revenue streams where it is the biggest opportunity for farmers.
+KPI: # of new revenue streams created or enabled
+
+Optimize farmer control of risk.
+KPI: revenue stream diversification
+KPI: improvement of on-farm practices
+
+Enhance value capture opportunities.
+KPI: % share accruing to farm level
+
+S.M.A.R.T. GOAL B: “VALUE THROUGH DIFFERENTIATION”
+
+By 2027, strengthen and differentiate the utilization of U.S. Soy by building farmer-led partnerships that harness the unique attributes of the U.S. Soy brand through:
+
+The creation of sustainable farming system options that empower farmer decisions.
+KPI: establishment of system
+
+Activation of market signals informed by strategic research to improve the quality and sustainability of U.S. Soy.
+KPI: intrinsic qualities (e.g., nutrient profile)
+
+Targeted research to remove/reduce barriers to increased use and value of soy in human and animal applications.
+KPI: # of barriers removed or reduced/value targets
+
+Catalyze three to five innovations pathways for U.S. Soy by 2027.
+KPI: # of new pathways generated/incremental demand generated
+
+S.M.A.R.T. GOAL C: “VALUE THROUGH REPUTATION”
+
+Across the current period of the strategic plan, build trust in and elevate reputation of U.S. soy to drive new and increased value back to farmers through:
+
+Increased share of voice.
+KPI: voice share
+
+Greater USB influence among end users and strategic partners.
+KPI: influence score
+
+Enhanced perception of the U.S. Soy brand.
+KPI: reputation score
+
+OBJECTIVES
+
+ACTION TEAMS
+
+The farmer-leaders who serve on the United Soybean Board are organized into action teams responsible for investments related to each section of the value chain — supply and demand.
+
+Supply
+Demand
+Communication and Education
+COMMITTEES
+
+USB committees are responsible for funding and overseeing projects that pertain to the development of future and long-ranging strategy of the board, including market intelligence projects.
+
+Previous
+Next
+REPORTS & DOCUMENTATION
+LEARN MORE
+DIRECTORY
+LEARN MORE
+NEWSLETTER
+SUBSCRIBE
+CONTACT US
+MEDIA CENTER
+REQUEST FOR PROPOSALS
+PARTNER LOGIN
+EXPENSE REPORTING
+CAREER OPPORTUNITIES
+
+© 2025 United Soybean Board 16305 Swingley Ridge Rd. Suite 150, Chesterfield, MO, 63017
+
+ Privacy Policy
+Distinct Misspelled Words: [
+  'usb',                  'oleic',
+  'market-focused',       'roadrailriver',
+  'blockchain',           'biodiesel',
+  'measurementsmetrics',  'soy-based',
+  'bioheat',              'coproducts',
+  'ikea',                 's1',
+  'farmer-led',           's2',
+  's3',                   's4',
+  '2027',                 'kpi',
+  'on-farm',              'eg',
+  'removereduce',         'reducedvalue',
+  'generatedincremental', 'farmer-leaders',
+  'long-ranging',         '16305',
+  'swingley',             '150',
+  '63017'
+]

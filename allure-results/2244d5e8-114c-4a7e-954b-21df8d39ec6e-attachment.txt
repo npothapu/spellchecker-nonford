@@ -1,0 +1,22 @@
+Distinct misspelled words on https://unitedsoybean.org/industry-partner-sites/: [
+  'usb',              'oleic',
+  'srin',             'ussoy',
+  'american',         'asa',
+  'membership-based', 'ag',
+  'cfi',              'cipm',
+  'pest-management',  'america',
+  'biodiesel',        'science-based',
+  'cpn',              'canada',
+  'scn',              'sni',
+  'influencers',      'usa',
+  'usapeec',          'usda',
+  'usfra',            'dialogues',
+  'usmef',            'ussec',
+  'wishh',            '16305',
+  'swingley',         '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/industry-partner-sites/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 31

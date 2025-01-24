@@ -1,0 +1,24 @@
+folderpath:C:\2025Playwright-Projects\spellchecker-nonford\data\url_batches\unitedsoybean
+Dirname:C:\2025Playwright-Projects\spellchecker-nonford\tests
+Checking https://unitedsoybean.org/ - Status: 200
+Checking https://unitedsoybean.org/hopper/ - Status: 200
+Checking https://unitedsoybean.org/about-usb/ - Status: 200
+Checking https://unitedsoybean.org/about-the-checkoff/ - Status: 200
+Checking https://unitedsoybean.org/strategic-plan/ - Status: 200
+Checking https://unitedsoybean.org/directory/ - Status: 200
+Checking https://unitedsoybean.org/compliance/ - Status: 200
+Checking https://unitedsoybean.org/reports-documentation/ - Status: 200
+Checking https://unitedsoybean.org/career-opportunities/ - Status: 200
+Checking https://unitedsoybean.org/tools-resources/ - Status: 200
+Checking https://unitedsoybean.org/high-oleic-soybeans/ - Status: 200
+Checking https://unitedsoybean.org/usb-carbon-toolbox/ - Status: 200
+Checking https://unitedsoybean.org/tools-calculators/ - Status: 200
+Checking https://unitedsoybean.org/industry-partner-sites/ - Status: 200
+Checking https://unitedsoybean.org/events/ - Status: 200
+Checking https://unitedsoybean.org/media-center/ - Status: 200
+Checking https://unitedsoybean.org/hopper/tag/press-releases/ - Status: 200
+Checking https://unitedsoybean.org/brand-logo/ - Status: 200
+Checking https://unitedsoybean.org/issue-briefs/ - Status: 200
+Checking https://unitedsoybean.org/communication-guidelines/ - Status: 200
+Checking https://unitedsoybean.org/request-for-proposals/ - Status: 200
+Checking https://unitedsoybean.org/contact-us/ - Status: 200

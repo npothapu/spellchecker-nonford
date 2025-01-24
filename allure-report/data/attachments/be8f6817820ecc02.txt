@@ -1,0 +1,20 @@
+Distinct misspelled words on https://www.vml.com/work/comic-can: [
+  'comic-can',       'story-building',
+  'coca-cola',       'atlanta',
+  'detroit',         'well-known',
+  'limited-edition', '38',
+  'immersive',       'ar',
+  'disney',          'mindy',
+  'hamilton',        'walt',
+  '195',             '529',
+  '50',              "marvel's",
+  'collab',          'adweek',
+  'marvel-themed',   '30',
+  "wendy's",         'og',
+  'reimagined',      'conagra',
+  'conagras'
+]
+Error checking link https://www.vml.com/work/comic-can: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 27

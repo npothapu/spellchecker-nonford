@@ -1,0 +1,26 @@
+Distinct misspelled words on https://unitedsoybean.org/privacy-policy/: [
+  'usb',                 'oleic',
+  '26',                  '2019',
+  'usda',                'european',
+  'eu',                  'gdpr',
+  'weve',                'english',
+  'unitedsoybeanorg',    'wwwiwilltakeactioncom',
+  'wwwsoyinnovationcom', 'wwwsoynewusesorg',
+  'usbs',                'andor',
+  'anonymized',          'internet',
+  'ip',                  'webpages',
+  'webpage',             'third-party',
+  'flyers',              'url',
+  'plug-insadd-ons',     'usb-sponsored',
+  'american',            'infounitedsoybeanorg',
+  'so-called',           'remediate',
+  'signup',              'opt-out',
+  'unsubscribe',         'privacy-related',
+  '13',                  '16305',
+  'swingley',            '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/privacy-policy/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 39

@@ -1,0 +1,19 @@
+Distinct misspelled words on https://unitedsoybean.org/about-usb/: [
+  'usb',
+  'oleic',
+  'farmer-led',
+  'state-by-state',
+  'innovation-by-innovation',
+  'around-the-clock',
+  'farmer-directors',
+  'five-year',
+  'roi',
+  '16305',
+  'swingley',
+  '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/about-usb/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 13

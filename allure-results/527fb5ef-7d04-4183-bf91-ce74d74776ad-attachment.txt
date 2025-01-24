@@ -1,0 +1,20 @@
+Distinct misspelled words on https://unitedsoybean.org/expense-report/: [
+  'usb',
+  'oleic',
+  'online',
+  'nexonia',
+  'cost-effective',
+  'weve',
+  'app',
+  'webpage',
+  'youre',
+  'financeunitedsoybeanorg',
+  '16305',
+  'swingley',
+  '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/expense-report/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 14

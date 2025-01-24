@@ -1,0 +1,27 @@
+Distinct misspelled words on https://unitedsoybean.org/media-center/: [
+  'usb',
+  'oleic',
+  'january',
+  '02',
+  'december',
+  '12',
+  'philip',
+  '04',
+  'roi',
+  'november',
+  '18',
+  'farmer-leaders',
+  'checkoff-related',
+  'ag',
+  'paul',
+  'murphy-spooner',
+  'pmurphyspoonerunitedsoybeanorg',
+  '16305',
+  'swingley',
+  '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/media-center/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 21

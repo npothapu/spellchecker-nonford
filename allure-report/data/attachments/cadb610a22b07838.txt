@@ -1,0 +1,21 @@
+Distinct misspelled words on https://unitedsoybean.org/hopper/: [
+  'usb',           'oleic',            'friday',
+  'january',       '24',               '14',
+  'july',          '18',               'farmer-leaders',
+  'greenlight',    'forward-thinking', 'fy25',
+  'june',          '20',               '19',
+  '17',            'september',        '10',
+  'rfd-tvs',       '1915m',            'fy24',
+  'aug',           'missouri',         'december',
+  '12',            'philip',           '27',
+  '2019',          'feminization',     '29',
+  '2020',          'podcasts',         '08',
+  'african',       '21',               'ag',
+  'farmer-leader', 'tim',              'bardole',
+  '11',            '16305',            'swingley',
+  '150',           '63017'
+]
+Error checking link https://unitedsoybean.org/hopper/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 44

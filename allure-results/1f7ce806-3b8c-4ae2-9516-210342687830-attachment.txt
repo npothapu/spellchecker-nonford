@@ -1,0 +1,13 @@
+Distinct misspelled words on https://unitedsoybean.org/events/: [
+  'usb',      'oleic',    'february',
+  '17-21',    'orleans',  'july',
+  '13-17',    'norfolk',  'virginia',
+  'december', '7-11',     'charles',
+  '8-12',     '2026',     'biloxi',
+  '16305',    'swingley', '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/events/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 19

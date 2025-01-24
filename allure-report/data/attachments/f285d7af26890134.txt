@@ -1,0 +1,37 @@
+Distinct misspelled words on https://unitedsoybean.org/hopper/united-soybean-board-farmer-leaders-greenlight-forward-thinking-fy25-budget/: [
+  'usb',            'oleic',             'friday',
+  'january',        '24',                'farmer-leaders',
+  'greenlight',     'forward-thinking',  'fy25',
+  'july',           '18',                'wednesday',
+  '10',             'baltimore',         'maryland',
+  'joseph',         'murphyunited',      'md',
+  '77',             '1738',              'usbs',
+  'steve',          'reinhard',          'ohio',
+  'farmer-led',     'ive',               'ag',
+  'biofuels',       '8-11',              'mid-atlantic',
+  'biotech',        '0-7',               'kurt',
+  'maurath',        'kansas',            '27',
+  'billion-gallon', 'biofuel',           'soy-based',
+  'pfas1',          'neal',              'bredehoeft',
+  'missouri',       'hn',                'wider-lens',
+  'consortiums',    'laurie',            'isley',
+  'michigan',       'anti-inflammatory', 'scheier',
+  'dakota',         'ic',                'monday',
+  'robb',           'ewoldt',            'iowa',
+  'post-secondary', 'biobased',          'dewalt',
+  'fire-resistant', 'frisch',            'minnesota',
+  'hands-on',       'biodiesel',         'half-million',
+  'matt',           'gast',              'egg-laying',
+  'value-added',    'high-quality',      'tempeh',
+  'soymilk',        'natto',             'miso',
+  'april',          'hemmes',            'nebraska',
+  'lammers',        'long-term',         '1pfas',
+  'per-',           'polyfluoroalkyl',   '14',
+  'june',           '20',                '19',
+  '16305',          'swingley',          '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/hopper/united-soybean-board-farmer-leaders-greenlight-forward-thinking-fy25-budget/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 91

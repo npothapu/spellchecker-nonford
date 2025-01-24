@@ -1,0 +1,75 @@
+Skipping URL with fragment identifier: https://unitedsoybean.org/#content
+Error navigating to https://unitedsoybean.org/expense-report/ on attempt 1: page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "https://unitedsoybean.org/expense-report/", waiting until "load"
+
+    at C:\2025Playwright-Projects\spellchecker-nonford\tests\linkCheckTest.js:42:43 {
+  name: 'Error',
+  [Symbol(step)]: {
+    stepId: 'pw:api@75',
+    location: {
+      file: 'C:\\2025Playwright-Projects\\spellchecker-nonford\\tests\\linkCheckTest.js',
+      line: 42,
+      column: 43,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'page.goto(https://unitedsoybean.org/expense-report/)',
+    apiName: 'page.goto',
+    params: {
+      url: 'https://unitedsoybean.org/expense-report/',
+      timeout: 60000,
+      waitUntil: 'load'
+    },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    complete: [Function: complete],
+    endWallTime: 1737746546007,
+    error: {
+      message: 'Error: page.goto: net::ERR_ABORTED; maybe frame was detached?\n' +
+        'Call log:\n' +
+        '\x1B[2m  - navigating to "https://unitedsoybean.org/expense-report/", waiting until "load"\x1B[22m\n',
+      stack: 'Error: page.goto: net::ERR_ABORTED; maybe frame was detached?\n' +
+        'Call log:\n' +
+        '\x1B[2m  - navigating to "https://unitedsoybean.org/expense-report/", waiting until "load"\x1B[22m\n' +
+        '\n' +
+        '    at C:\\2025Playwright-Projects\\spellchecker-nonford\\tests\\linkCheckTest.js:42:43',
+      cause: undefined
+    }
+  }
+}
+Error navigating to https://unitedsoybean.org/expense-report/ on attempt 2: page.goto: Target page, context or browser has been closed
+    at C:\2025Playwright-Projects\spellchecker-nonford\tests\linkCheckTest.js:42:43 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@79',
+    location: {
+      file: 'C:\\2025Playwright-Projects\\spellchecker-nonford\\tests\\linkCheckTest.js',
+      line: 42,
+      column: 43,
+      function: undefined
+    },
+    category: 'pw:api',
+    title: 'page.goto(https://unitedsoybean.org/expense-report/)',
+    apiName: 'page.goto',
+    params: {
+      url: 'https://unitedsoybean.org/expense-report/',
+      timeout: 60000,
+      waitUntil: 'load'
+    },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    complete: [Function: complete],
+    endWallTime: 1737746546028,
+    error: {
+      message: 'Error: page.goto: Target page, context or browser has been closed',
+      stack: 'Error: page.goto: Target page, context or browser has been closed\n' +
+        '    at C:\\2025Playwright-Projects\\spellchecker-nonford\\tests\\linkCheckTest.js:42:43',
+      cause: undefined
+    }
+  }
+}
+Error navigating to https://unitedsoybean.org/expense-report/ on attempt 3: page.goto: Target page, context or browser has been closed
+    at C:\2025Playwright-Projects\spellchecker-nonford\tests\linkCheckTest.js:42:43
+Failed to navigate to https://unitedsoybean.org/expense-report/ after multiple attempts.

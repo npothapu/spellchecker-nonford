@@ -1,0 +1,88 @@
+Executing link 63 of 78: https://www.vml.com/work/heinz-ai-cookbook
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+EN
+ENGLISH
+ESPAÑOL
+Our Work
+Heinz AI Cookbook
+Heinz cookbook helps everyone improve their tomato-based cooking – even AI
+
+CLIENT
+
+The Kraft Heinz Company
+
+OFFICE
+
+Spain
+VML Spain has captured the world’s attention with the launch of the first-ever Heinz AI Cookbook.
+
+An innovative new AI Cookbook bridges the gap between food and technology by creating recipes that can teach both humans and AI how to cook.
+
+It's not easy to simmer an AI prompt. For that reason, and with the purpose of inspiring people, we think it's time to share how good AI chefs cook their recipes using generative AI. We think it's a great idea to give open access to the magic of prompting to anyone who wants to create the best recipes and images with the Heinz standard using the latest and most advanced Gen AI models.
+Oscar Peña
+Chief Innovation & Technology Officer, VML Spain
+Challenge
+Inspiration
+Idea
+Growth
+AT A GLANCE
+5000 +
+
+Images generated using cookbook’s prompts
+
+AT A GLANCE
+6.5%
+
+Paid social CTR vs 2-3% benchmark
+
+AT A GLANCE
++4.2pp
+
+Improved Heinz Masterbrand “is a modern brand” key attributes
+
+slide 2 of 4
+   
+PRESS
+Food and retail technology: Heinz launches artificial intelligence cookbook in partnership with VML Spain
+Retail Technology Innovation Hub 
+RELATED CONTENT
+COCA-COLA
+The Afterlife Train
+Fanta & 'Beetlejuice Beetlejuice' summon the spookiest Halloween experience ever
+READ CASE STUDY
+BURGER KING
+Long Live the King
+The power of a universal insight to connect Burger King to real families.
+READ CASE STUDY
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'english',      'espaol',
+  'heinz',        'ai',
+  'tomato-based', 'spain',
+  'first-ever',   'oscar',
+  '5000',         '65',
+  '2-3',          '42pp',
+  'masterbrand',  'coca-cola',
+  'fanta',        "'beetlejuice",
+  "beetlejuice'", 'halloween'
+]

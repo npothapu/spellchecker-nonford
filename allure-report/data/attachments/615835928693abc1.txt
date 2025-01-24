@@ -1,0 +1,146 @@
+Executing link 66 of 78: https://www.vml.com/work/dont-delete-menu
+Extracted Page Text: SKIP TO MAIN CONTENT
+ABOUT US
+WORK
+WHAT WE DO
+INSIGHTS
+NEWS
+CAREERS
+CONTACT US
+EN
+ENGLISH
+ESPAÑOL
+Our Work
+Don't Delete Menu
+Unexpected offers made people think twice before deleting us
+
+CLIENT
+
+Wendy's
+
+OFFICE
+
+Argentina
+United States
+
+When 1 out of 2 apps, on average, is deleted in Argentina, Wendy's is stepping up to encourage users to keep the app. Hidden in the app's shortcut menu, users will find a secret 'don't delete' menu with special offers to encourage them to stay.
+
+We realized there was a window to hack users' logic. To prevent them from uninstalling the app, we created an irresistible offer in a secret menu located in the same place where people usually delete the app.
+Karina Aiello
+General Manager - VML Argentina
+Challenge
+Inspiration
+Idea
+Growth
+AT A GLANCE
+138%
+
+Increase in app usage
+
+AT A GLANCE
+14%
+
+Decrease in app deletion
+
+AT A GLANCE
+12%
+
+Increase in sales
+
+AWARDS
+
+2024 CANNES LIONS
+
+Direct — Breakthrough on a Budget
+
+SILVER LION
+
+2024 CANNES LIONS
+
+Media — Breakthrough on a Budget
+
+SILVER LION
+
+D&AD AWARDS
+
+2024
+
+3 GRAPHITE PENCILS
+
+THE ONE SHOW
+
+2024
+
+3 GOLD, 3 SILVER, 3 BRONZE
+
+ADC AWARDS
+
+2024
+
+SILVER
+
+THE CLIO AWARDS
+
+2024
+
+GOLD & 3 BRONZE
+
+THE ANDY AWARDS
+
+2024
+
+IDEA CATEGORY
+
+NEW YORK FESTIVALS
+
+2023
+
+2 GOLD, SILVER, BRONZE
+
+EL OJO DE IBEROAMÉRICA
+
+2023
+
+3 SILVER, 6 BRONZE
+
+2023 LONDON INTERNATIONAL AWARDS
+
+Digital - Mobile Advertising
+
+BRONZE
+
+RELATED CONTENT
+WENDY'S
+Spicing Up the Holidays
+A festive, spicy twist on the OG spicy chicken sandwich, reimagined as a holiday ornament
+READ CASE STUDY
+WENDY'S
+Wendy's Enters the Chat
+How Wendy's changed the narrative of organic reach on the world's biggest platform
+READ CASE STUDY
+CONTACT US
+NEWSLETTER
+PRESS CENTER
+Cookie Settings
+Cookie Policy
+Privacy
+Terms
+Modern Slavery Act Statement
+CCPA Policy
+Accessibility
+
+CONNECT WITH US
+
+© 2025 VML. A WPP Company.
+Distinct Misspelled Words: [
+  'english',     'espaol',       "wendy's",
+  'argentina',   'apps',         'app',
+  "app's",       "'don't",       "delete'",
+  "users'",      'uninstalling', 'karina',
+  'aiello',      '-',            '138',
+  '14',          '12',           'cannes',
+  'adc',         'clio',         'andy',
+  'york',        'ojo',          'de',
+  'iberoamrica', 'london',       'og',
+  'reimagined'
+]

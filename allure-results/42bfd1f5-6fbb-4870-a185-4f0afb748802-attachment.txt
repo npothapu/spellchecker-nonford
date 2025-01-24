@@ -1,0 +1,12 @@
+Distinct misspelled words on https://unitedsoybean.org/issue-briefs/: [
+  'usb',       'oleic',
+  '12',        'ag',
+  'biodiesel', 'soyfoods',
+  'youre',     '-',
+  '16305',     'swingley',
+  '150',       '63017'
+]
+Error checking link https://unitedsoybean.org/issue-briefs/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 12

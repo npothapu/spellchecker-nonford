@@ -1,0 +1,30 @@
+Distinct misspelled words on https://unitedsoybean.org/hopper/soy-innovation-challenge-winner-offers-more-sustainable-ingredient-allowing-cattle-to-digest-30-more-soy-protein/: [
+  'usb',              'oleic',           'friday',          'january',
+  '24',               '30',              '16',              'shannon',
+  'tignor',           'ellis',           'marshall',        'brandon',
+  'dayalong',         'ceo',             'dr',              'mohammad',
+  'arshadi',          'runners-up',      'scott',           'loethen',
+  'cellyfill',        'nancy',           'levens',          'neuesse',
+  'joseph',           'connell',         '75000',           'louis',
+  '15',               'aws',             'high-value',      'high-quality',
+  'eco-friendly',     'bi-pass',         'soy-based',       'biofuels',
+  'decarbonize',      '70',              'us-grown',        'farmer-leader',
+  'virginia',         'petroleum-based', 'cellulose-based', 'lower-cost',
+  'runner-up',        '50000',           'omegaskin',       'cost-effective',
+  '25000',            'non-durable',     '20000',           'cpgs',
+  '77',               'farmer-leaders',  'usda',            'unitedsoybeanorg',
+  'non-profit',       'agtech',          'eg',              'rosario',
+  'argentina',        'piracicaba',      'brazil',          'africa',
+  'soilless',         'ag',              'september',       '29',
+  '200',              'georgia',         'alex',            'harrell',
+  '206',              '10',              'rfd-tvs',         '1915m',
+  'fy24',             'meagan',          'july',            'aug',
+  'philip',           '14',              '18',              'greenlight',
+  'forward-thinking', 'fy25',            'june',            '20',
+  '19',               '16305',           'swingley',        '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/hopper/soy-innovation-challenge-winner-offers-more-sustainable-ingredient-allowing-cattle-to-digest-30-more-soy-protein/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 93

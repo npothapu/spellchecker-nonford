@@ -1,0 +1,36 @@
+Distinct misspelled words on https://unitedsoybean.org/hopper/groundbreaking-a-story-of-innovation-unearths-the-soybeans-hidden-potential-and-the-checkoff-investments-that-help-shape-the-future/: [
+  'usb',             'oleic',             'friday',
+  'january',         '24',                'june',
+  '17',              'biobased',          'decarbonize',
+  'american',        'humanitys',         'louis',
+  'ae',              'saturday',          '22',
+  'edt',             '150',               'astrobiologists',
+  'best-in-class',   'jim',               'douglas',
+  'indiana',         '15',                'skidway',
+  'georgia',         'america',           'samuel',
+  '1880s',           'dearborn',          '1941',
+  'soy-based',       'arkansas',          'mauna',
+  'loa',             'hawaii',            'martian',
+  'kansas',          'alabama',           'pennsylvania',
+  'michigan',        'kcbs',              'bbq',
+  'pittsburgh',      'detroit',           'prix',
+  'checkoff-funded', 'in-pond',           'dr',
+  'jesse',           'chappell',          'affordably',
+  'us-grown',        'first-of-its-kind', 'half-million',
+  'one-third',       '124',               '50',
+  '3000',            '800',               '10',
+  'semitruck',       'nyc',               'catch-all',
+  'lisa',            'humphreys',         'ussoyorg',
+  'louis-based',     'sam',               'pinkstone',
+  '100',             'app',               'aetvcom',
+  '20',              'september',         '28',
+  'hemmes',          'farmer-leader',     'april',
+  '14',              'july',              '18',
+  'farmer-leaders',  'greenlight',        'forward-thinking',
+  'fy25',            '19',                '16305',
+  'swingley',        '63017'
+]
+Error checking link https://unitedsoybean.org/hopper/groundbreaking-a-story-of-innovation-unearths-the-soybeans-hidden-potential-and-the-checkoff-investments-that-help-shape-the-future/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 89

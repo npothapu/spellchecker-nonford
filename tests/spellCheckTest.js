@@ -40,7 +40,7 @@ module.exports = function (test) {
     const url = process.env.URL || 'https://www.teenvoice.com'; // Dynamic URL
     const dictionaryFilename = process.env.DIC_FILENAME || 'teenvoice';
     const customDicPath = path.resolve(`./dictionaries/en_US/company-dictionaries/${dictionaryFilename}.dic`);
-    const folderName = process.env.FOLDER_NAME || 'teenvoice.com'; // Dynamic Folder Name
+    const folderName = process.env.FOLDER_NAME || 'teenvoice'; // Dynamic Folder Name
 
     let affContent, dicContent, customWords;
 

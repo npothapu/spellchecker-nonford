@@ -1,0 +1,21 @@
+Distinct misspelled words on https://unitedsoybean.org/strategic-plan/: [
+  'usb',                  'oleic',
+  'market-focused',       'roadrailriver',
+  'blockchain',           'biodiesel',
+  'measurementsmetrics',  'soy-based',
+  'bioheat',              'coproducts',
+  'ikea',                 's1',
+  'farmer-led',           's2',
+  's3',                   's4',
+  '2027',                 'kpi',
+  'on-farm',              'eg',
+  'removereduce',         'reducedvalue',
+  'generatedincremental', 'farmer-leaders',
+  'long-ranging',         '16305',
+  'swingley',             '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/strategic-plan/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 29

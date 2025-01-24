@@ -1,0 +1,31 @@
+Distinct misspelled words on https://unitedsoybean.org/newsletter/: [
+  'usb',
+  'oleic',
+  'e-newsletter',
+  'youll',
+  'retailerseedinput',
+  'processingtransportationtradedistribution',
+  'academiaresearcher',
+  'sustainabilty',
+  'biodieselbiofuels',
+  'recieve',
+  'enewsletter',
+  'january',
+  '02',
+  'december',
+  '12',
+  'philip',
+  '04',
+  'roi',
+  'november',
+  '18',
+  'farmer-leaders',
+  '16305',
+  'swingley',
+  '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/newsletter/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 25

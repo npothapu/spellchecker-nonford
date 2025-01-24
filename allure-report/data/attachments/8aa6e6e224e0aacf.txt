@@ -1,0 +1,32 @@
+Distinct misspelled words on https://unitedsoybean.org/directory/: [
+  'usb',          'oleic',      'farmer-directors', 'alabama',
+  'arkansas',     'delaware',   'georgia',          'illinois',
+  'indiana',      'iowa',       'kansas',           'kentucky',
+  'louisiana',    'maryland',   'michigan',         'minnesota',
+  'mississippi',  'missouri',   'nebraska',         'york',
+  'carolina',     'dakota',     'ohio',             'oklahoma',
+  'pennsylvania', 'tennessee',  'texas',            'virginia',
+  'wisconsin',    '86',         'barry',            'alexander',
+  'robert',       'alpers',     'dwayne',           'anderson',
+  'cory',         'atkins',     'charles',          'atkinson',
+  'tim',          'bardole',    'gary',             'bayliss',
+  'fitzhugh',     'bethea',     'bohuslavsky',      'boudreaux',
+  'neal',         'bredehoeft', 'sam',              'matthew',
+  'chapman',      'david',      'dotterer',         'jim',
+  'douglas',      'durham',     'shannon',          'tignor',
+  'ellis',        'robb',       'ewoldt',           'thomas',
+  'frisch',       'gregg',      'fujan',            'dennis',
+  'gardner',      'matt',       'gast',             'brent',
+  'gatton',       'patrick',    'giberson',         'philip',
+  'greg',         'greving',    'griffiths',        'guedon',
+  'hahn',         'todd',       'hanten',           'harrell',
+  'dustin',       'henson',     'aj',               'travis',
+  'hutchison',    'laurie',     'isley',            'justin',
+  'jones',        'meagan',     'nancy',            'kavazanjian',
+  'darren',       'kadlec',     'nicholas',         'kercheval',
+  ... 68 more items
+]
+Error checking link https://unitedsoybean.org/directory/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 168

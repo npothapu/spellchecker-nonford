@@ -1,0 +1,19 @@
+Distinct misspelled words on https://www.vml.com/work/baileys-sound-scales: [
+  'baileys',               'london',
+  "bailey's",              'guestimates',
+  'soundscalesbaileyscom', "listen'",
+  'french',                'much-loved',
+  'debbie',                'ellison',
+  'uk',                    '99',
+  '23',                    'off-season',
+  '93',                    'eurobest',
+  'cannes',                'mobile-led',
+  'app',                   'christmas',
+  'adjoa',                 'andoh',
+  'mrs',                   'claus',
+  'werkshop',              'diageo'
+]
+Error checking link https://www.vml.com/work/baileys-sound-scales: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 26

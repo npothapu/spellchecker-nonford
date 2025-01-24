@@ -1,0 +1,13 @@
+Distinct misspelled words on https://www.vml.com/work/we-agree-on: [
+  'america', 'coca-cola',
+  'kansas',  'top-notch',
+  'clio',    'andy',
+  "'best'",  'american',
+  'adweek',  'built-in',
+  'alexa',   'afropunk',
+  'bahia'
+]
+Error checking link https://www.vml.com/work/we-agree-on: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 13

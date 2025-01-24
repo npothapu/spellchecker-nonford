@@ -1,0 +1,10 @@
+Distinct misspelled words on https://unitedsoybean.org/request-for-proposals/: [
+  'usb',      'oleic',
+  'rfps',     '16305',
+  'swingley', '150',
+  '63017'
+]
+Error checking link https://unitedsoybean.org/request-for-proposals/: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 7
