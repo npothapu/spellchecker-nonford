@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/how-teens-explore-and-choose-careers-non-profit: [
+  '45000',
+  'excltax',
+  'dreamsproviding',
+  'real-world',
+  'impactful',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/how-teens-explore-and-choose-careers-non-profit: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 11

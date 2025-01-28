@@ -1,0 +1,13 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/what-exactly-are-teens-doing-on-social-media-anyway-general: [
+  '45000',          'excltax',
+  'experiementing', "teen's",
+  '71',             '64',
+  'tiktok',         'instagramand',
+  'teen-friendly',  'deep-dive',
+  '40',             'phds',
+  'evolveme',       'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/what-exactly-are-teens-doing-on-social-media-anyway-general: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 14

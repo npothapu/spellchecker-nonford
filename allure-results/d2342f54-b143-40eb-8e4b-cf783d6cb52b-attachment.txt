@@ -1,0 +1,19 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teen-voice-article-where-teens-talk-politics: [
+  'october',         '21',
+  'american',        '1790',
+  '62',              '13-year-old',
+  'arizona',         'california',
+  '52',              '14-year-old',
+  'asian',           'maryland',
+  '15-year-old',     'nonbinary',
+  'hispanic',        '23',
+  '18',              '15',
+  '14',              '40',
+  '28',              '35',
+  '22',              'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teen-voice-article-where-teens-talk-politics: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 25

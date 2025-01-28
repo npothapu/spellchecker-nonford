@@ -1,0 +1,69 @@
+Executing link 50 of 65: https://www.teenvoice.com/insights/teen-voice-article-chasing-the-dream-career-can-teens-balance-passion-and-practicality
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+FUTURE PREPAREDNESS
+
+Chasing the Dream Career: Can Teens Balance Passion and Practicality?
+
+PUBLISHED DATE: NOVEMBER 26, 2024
+
+For today’s teens, career ambitions are driven more by the heart than the wallet—but there’s a twist. When asked what matters most in a job, 43% chose "a job they would love to do," far outpacing the 28% who prioritized pay. Yet, most teens acknowledge that passion and pay go hand in hand, with 59% acknowledging that a job must pay well for them to love it.
+
+“I just want to have a job that I love that will provide for my future family,” says a 15-year-old male from California. Similarly, an 18-year-old female from Texas dreams of “being stable, doing what I love, and providing for myself and my family.”
+Dream Job Reality Check
+While teens hold high career aspirations, many doubt they’ll achieve their goals. The survey reveals significant gaps between what teens value and what they believe is attainable:
+
+- Job that I love: 71% rate it as important, but only 55% believe they’ll achieve it.
+Job that pays well: 68% value it, but just 54% expect it.
+Job that I’m good at: 68% prioritize it, but only 57% feel confident they’ll find it. Asian teens report the most significant gaps between aspirations and confidence. For example, 61% rate finding work they’re good at as important, but only 42% are confident they’ll succeed.
+
+Other notable differences include:
+
+- White teens are the most likely to prioritize finding a job they’re good at (73%).
+Black teens express the highest confidence in landing well-paying jobs (58%, compared to 54% overall).
+Better Grades, Brighter Future?
+Teens with higher academic achievement tend to be more optimistic about their career prospects. They express greater confidence in areas like finding work they love, work they’re good at, and work that pays well. This suggests that academic success plays a role in shaping a positive outlook for the future.
+Passion vs. Pay? Why Not Both?
+While many teens wrestle with doubts about achieving their career goals, some remain optimistic about finding balance. As one 14-year-old female from the South says, "When you do what you love, you'll love what you do, and the money will come after."
+
+Want direct insights from teens? Use our custom survey builder to define your target audience and connect with engaged teens to get the answers you need.
+
+**CONNECT WITH TEENS NOW **
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'november',   '26',
+  'walletbut',  '43',
+  'outpacing',  '28',
+  '59',         '15-year-old',
+  'california', '18-year-old',
+  'texas',      'theyll',
+  '71',         '55',
+  '68',         '54',
+  'im',         '57',
+  'asian',      '61',
+  'theyre',     '42',
+  '73',         'well-paying',
+  '58',         '14-year-old',
+  'evolveme',   'future-planning'
+]

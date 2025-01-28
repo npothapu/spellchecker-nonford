@@ -1,0 +1,26 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teens-love-of-fast-food-what-s-the-secret-sauce: [
+  "teens'",       'january',             'friesbut',
+  'drive-thru',   '245',                 'fast-food',
+  'arent',        '29',                  '24',
+  '27',           'cravingstheir',       'quick-service',
+  '65',           '61',                  '53',
+  '51',           '46',                  '45',
+  '44',           '37',                  'non-meat',
+  '36',           '55',                  'one-notebarbecue',
+  'chinese',      'mexican',             'theyre',
+  '47',           '35',                  'favoritesand',
+  'mcdonalds',    'kfc',                 'chick-fil-a',
+  'wendys',       '16-year-old',         'hispanic',
+  'california',   'louisiana',           'dont',
+  'baja',         '15-year-old',         'maryland',
+  '19-year-old',  'virginia',            '14-year-old',
+  'michigan',     'affordability',       '17-year-old',
+  'pennsylvania', 'kingrecommendations', '34',
+  '30',           'non-binary',          'theyd',
+  'hampshire',    'havent',              'im',
+  'evolveme',     'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teens-love-of-fast-food-what-s-the-secret-sauce: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 59

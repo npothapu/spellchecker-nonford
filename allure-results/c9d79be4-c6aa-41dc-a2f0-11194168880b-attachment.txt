@@ -1,0 +1,16 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/teens-online-implications-for-higher-ed: [
+  '150000',
+  'excltax',
+  'post-secondary',
+  'real-world',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/teens-online-implications-for-higher-ed: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 10

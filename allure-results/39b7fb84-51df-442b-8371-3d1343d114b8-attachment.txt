@@ -1,0 +1,18 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/what-exactly-are-teens-doing-on-social-media-anyway-non-profit: [
+  '45000',
+  'excltax',
+  'data-driven',
+  'safetycritical',
+  'impactful',
+  'impact-focused',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/what-exactly-are-teens-doing-on-social-media-anyway-non-profit: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 12

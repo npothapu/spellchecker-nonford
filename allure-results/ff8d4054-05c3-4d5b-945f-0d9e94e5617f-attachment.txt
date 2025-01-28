@@ -1,0 +1,13 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/understanding-today-s-teens: [
+  '99900',            'excltax',
+  '10',               'weve',
+  'self-perceptions', 'offline',
+  'decision-making',  'wishlist',
+  'teen-friendly',    'deep-dive',
+  '40',               'phds',
+  'evolveme',         'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/understanding-today-s-teens: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 14

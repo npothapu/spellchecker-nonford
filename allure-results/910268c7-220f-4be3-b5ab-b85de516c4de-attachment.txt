@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/how-teens-explore-and-choose-careers: [
+  '45000',
+  'excltax',
+  'endlessbut',
+  'go-to',
+  'hands-on',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/how-teens-explore-and-choose-careers: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 11

@@ -1,0 +1,32 @@
+Distinct misspelled words on https://www.teenvoice.com/insights: [
+  'dive-deep',        '13-19-year-olds', '10',               'weve',
+  'self-perceptions', 'offline',         'decision-making',  'wishlist',
+  'experiementing',   "teen's",          '71',               '64',
+  'tiktok',           'instagramand',    'non-profit',       'zs',
+  'incentivized',     'higher-quality',  'ever-growing',     'real-time',
+  '40',               "z's",             "teens'",           'stressors',
+  'evidence-based',   'self-images',     'present-day',      'mission-driven',
+  'self-concepts',    'ever-changing',   'impactful',        'post-secondary',
+  'real-world',       'decision-makers', 'real-life',        'technologys',
+  'in-depth',         'covid-19',        'theyre',           'four-year',
+  'modern-day',       'post-covid',      'non-college',      'in-person',
+  'millennials',      'arent',           'well-being',       'far-reaching',
+  'youre',            'edtech',          'data-driven',      'safetycritical',
+  'impact-focused',   'identitieskey',   'concernsacademic', 'worriesand',
+  'hands-on',         'pressuresfrom',   'uncertaintyand',   'student-centered',
+  'all-time',         'useand',          'endlessbut',       'go-to',
+  'googling',         'dreamsproviding', 'sunday',           'american',
+  'theyve',           '504',             '13',               '19',
+  '100',              'binge-worthy',    'tv',               '16-year-old',
+  'california',       '1004',            'eye-opening',      'friesbut',
+  'drive-thru',       '245',             'fast-food',        '29',
+  '24',               '27',              'cravingstheir',    'relatable',
+  '252',              '2025from',        'pull-ups',         '1000',
+  'hispanic',         'walletbut',       '43',               'outpacing',
+  '28',               '59',              'cringey',          'bic',
+  ... 20 more items
+]
+Error checking link https://www.teenvoice.com/insights: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 120

@@ -1,0 +1,23 @@
+Executing link 8 of 65: https://www.teenvoice.com/login#sign-up
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+Welcome back
+Let’s get you signed in.
+EMAIL ADDRESS
+PASSWORD
+SIGN IN
+CREATE AN ACCOUNT
+FORGOT YOUR PASSWORD?
+
+Let’s create your account.
+
+FIRST NAME*
+LAST NAME*
+WORK EMAIL*
+COMPANY/ORGANIZATION*
+CONTINUE
+Distinct Misspelled Words: [ 'companyorganization' ]

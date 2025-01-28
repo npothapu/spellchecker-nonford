@@ -1,0 +1,47 @@
+Executing link 52 of 65: https://www.teenvoice.com/insights/teen-voice-article-teens-and-social-media-its-complicated
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+DIGITAL LIFE
+
+Teens and Social Media: It’s Complicated
+
+PUBLISHED DATE: OCTOBER 23, 2024
+
+Constantly Checking, But…Whatever
+Feels Good–Most of the Time
+Negative Feelings Hit Some Groups Harder
+The Mental Health Paradox
+Both The Problem And The Solution
+A World Of Contradiction
+Key Takeaways
+Methodology
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'october',
+  '23',
+  'butwhatever',
+  'goodmost',
+  'evolveme',
+  'future-planning'
+]

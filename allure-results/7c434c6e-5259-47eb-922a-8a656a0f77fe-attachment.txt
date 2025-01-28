@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/how-teens-cope-with-stress-and-anxiety-highered: [
+  '45000',
+  'excltax',
+  'all-time',
+  'well-being',
+  'useand',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/how-teens-cope-with-stress-and-anxiety-highered: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 11

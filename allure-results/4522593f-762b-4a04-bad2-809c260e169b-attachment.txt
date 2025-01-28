@@ -1,0 +1,19 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teen-survey-design-part-1-planning-your-approach: [
+  'december',        '16',
+  'kaylee',          'johnson',
+  'phd',             'youre',
+  'after-school',    'dont',
+  '14-17',           '13-14',
+  'mid-teens',       '15-16',
+  '17-19',           'adult-level',
+  'decision-making', 'populationgeography',
+  'youll',           'pii',
+  'necessaryand',    'mobile-first',
+  'theyre',          'decision-makers',
+  'teen-friendly',   'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teen-survey-design-part-1-planning-your-approach: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 25

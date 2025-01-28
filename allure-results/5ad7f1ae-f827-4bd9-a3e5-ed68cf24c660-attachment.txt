@@ -1,0 +1,13 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/equipping-nonprofits-to-support-teen-wellness: [
+  '150000',          'excltax',
+  'millennials',     'arent',
+  'well-being',      'non-profit',
+  'mission-driven',  'teen-friendly',
+  'deep-dive',       '40',
+  'phds',            'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/equipping-nonprofits-to-support-teen-wellness: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 13

@@ -1,0 +1,18 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/navigating-student-goals-in-a-digital-world: [
+  '150000',
+  'excltax',
+  'weve',
+  'self-images',
+  'decision-making',
+  'present-day',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/navigating-student-goals-in-a-digital-world: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 12

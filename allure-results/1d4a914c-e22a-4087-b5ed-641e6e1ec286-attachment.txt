@@ -1,0 +1,66 @@
+Executing link 21 of 65: https://www.teenvoice.com/reports/equipping-nonprofits-to-support-teen-wellness
+Extracted Page Text: FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+MENTAL WELLNESS
+
+Equipping Nonprofits to Support Teen Wellness
+
+REPORT
+
+$1,500.00 (EXCL.TAX)
+
+ADD TO CART
+
+Description
+
+Today’s teens cope with challenges that are both similar to and different from those faced by Millennials and Gen X. What’s familiar? Thinking about the future and balancing busy social lives with school. What’s different? These challenges aren’t just in their physical world, but also in their digital lives. Today’s teens grew up during a pandemic separating them from their friends and driving them to nearly ubiquitous social media use. And now more than ever, they face social and political upheaval.
+
+With all these changes, how are teens doing? How is their overall mental health and how do the ways they spend their time impact it? How stressed are they, and does this stress get in the way of them living their lives? Jump into teens’ brains to learn about their well-being, what they need to help them prioritize their happiness, and how they navigate their increasingly hectic lives. This report is designed to equip non-profit and mission-driven organizations with the knowledge to better connect with and support today’s youth as they navigate their stressful world.
+
+1 OF 4
+
+Learn About Our Research
+
+Our reports provide insights based on speaking directly to teens. We go beyond asking comprehensive questions - we write teen-friendly copy to encourage their participation. Our analysis leads to actionable insights that illustrate what it's really like to be a teen today.
+
+Types of Reports
+
+TeenVoice provides a range of different reports to meet your needs, including short articles, topical and thematic deep-dive focus reports, and comprehensive landscape reports tailored to industry needs.
+
+Our Methodology
+
+We generate detailed insights in our reports by asking topical questions in a teen-friendly voice to a nationally representative sample of over 2,000 teens. We perform rigorous analysis to provide views based on age, gender, race, and more.
+
+Expert Insights
+
+With a combined 40 years in higher education, conducting consumer research, and studying human behavior, our staff of expert researchers and PhDs know how to talk to teens and craft actionable insights from their responses.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  '150000',          'excltax',
+  'millennials',     'arent',
+  'well-being',      'non-profit',
+  'mission-driven',  'teen-friendly',
+  'deep-dive',       '40',
+  'phds',            'evolveme',
+  'future-planning'
+]

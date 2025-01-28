@@ -1,0 +1,14 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/teen-perspectives-in-the-digital-age-essential-insights-for-mission-driven-organizations: [
+  'mission-driven',  '150000',
+  'excltax',         'weve',
+  'self-concepts',   'ever-changing',
+  'impactful',       'decision-making',
+  'non-profit',      'teen-friendly',
+  'deep-dive',       '40',
+  'phds',            'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/teen-perspectives-in-the-digital-age-essential-insights-for-mission-driven-organizations: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 15

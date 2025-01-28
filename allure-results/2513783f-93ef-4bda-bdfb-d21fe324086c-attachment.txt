@@ -1,0 +1,13 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/student-insights-on-careers-education: [
+  '150000',          'excltax',
+  'covid-19',        'theyre',
+  'four-year',       'offline',
+  'modern-day',      'teen-friendly',
+  'deep-dive',       '40',
+  'phds',            'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/student-insights-on-careers-education: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 13

@@ -1,0 +1,16 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/digital-teen-life-trends-and-impacts: [
+  '99900',
+  'excltax',
+  'real-life',
+  'in-depth',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/digital-teen-life-trends-and-impacts: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 10

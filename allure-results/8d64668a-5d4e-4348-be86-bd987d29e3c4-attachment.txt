@@ -1,0 +1,82 @@
+Executing link 54 of 65: https://www.teenvoice.com/insights/teen-voice-article-1-where-do-teens-get-their-political-information-the-answer-may-surprise-you
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+Where Do Teens Get Their Political Information? The Answer May Surprise You
+
+PUBLISHED DATE: OCTOBER 15, 2024
+
+Conventional wisdom says teens get all their information—including political news—online. Our recent survey of 1,783 teens challenges that assumption, revealing that teens get political information from diverse sources, including some traditional media, like television news.
+Television News Dominates
+Teens not only watch TV news, but it’s also their primary source of political information. A substantial 43% of teenagers turn to TV news as their go-to source for understanding politics.
+
+Interestingly, there are notable demographic differences. Female teens (47%) are more likely to rely on TV news than their male counterparts (36%). Additionally, there’s a significant increase in TV news consumption as teens age, with 56% of 19-year-olds citing it as a primary source compared to only 39% of 13-14-year-olds.
+Family First, Er, Second
+Family conversations are crucial in shaping teens' political knowledge, ranking as the second most important source. Approximately 35% of teens discuss politics with family members, particularly their parents.“My dad pays attention to politics a lot and talks about it with me, says a 15-year-old White female from Wisconsin.
+
+These discussions not only lead to knowledge but can also spark an interest in politics in general. A 17-year-old Black female from Washington, D.C., says, “I’m interested in politics because my parents are also interested.”
+
+A look at demographics shows that female teens (40%) are more likely to engage in these conversations than males (28%). “My stepdad is very political, so I like learning from him, says a 13-year-old White female from Missouri.
+School For The Bronze
+Schools play a vital role in political socialization, with 32% of teens citing the classroom as a source of political information. The data reveals a disparity across gender identities. Teens who identify as “another gender” report significantly higher rates (49%) of gaining political information from school, compared to their female (33%) and male (29%) peers.
+
+Additionally, there's a clear age-related trend, with older teens more likely to cite school as a source of political information. While only 25% of 13-14-year-olds report gaining political knowledge from school, this increases to 38% for 17-18-year-olds, likely reflecting more advanced coursework and discussions as students progress through high school.
+And Finally, Sites, Apps, and Social
+Of course, digital platforms remain a significant source for teens. About 30% of teens use network news apps and websites to stay informed. Social media also plays a role, with 28% of teens following news accounts on these platforms.
+
+Demographic analysis shows that teens identifying as “another gender” are consistently more likely to use digital sources. For instance, 39% of these teens follow news accounts on social media, compared to 30% of female teens and 24% of male teens. This trend extends to other digital sources, like dedicated news apps and influencer accounts.
+
+Age also plays a role in digital news consumption. Older teens (17-18 and 19-year-olds) are more likely to use network news apps and websites (37% and 38%, respectively) than their younger counterparts (27% for 13-14 year-olds).
+A Varied Diet
+The landscape of teen political information sources reveals a fascinating blend of old and new media and educational experiences. While television news maintains a surprising lead, the influence of family discussions, classroom learning, and digital platforms all contribute to shaping teens' political awareness.
+Key Takeaways
+Television News Dominates: 43% of teens use TV news as their main source of political information, with female and older teens more likely to rely on it.
+
+Family Conversations: 35% of teens discuss politics with their families, shaping their political interest and understanding.
+
+**School as a Source of Political Knowledge: ** 32% of teens report learning about politics in school, with teens identifying as "another gender" more likely to gain political information from school than female and male teens.
+
+Digital Platforms Play a Key Role: 30% of teens use news apps and websites, and 28% follow news accounts on social media to stay politically informed.
+
+
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'october',         '15',              'informationincluding',
+  'newsonline',      '1783',            'tv',
+  '43',              'go-to',           '47',
+  '36',              '56',              '19-year-olds',
+  '39',              '13-14-year-olds', 'er',
+  "teens'",          '35',              'parentsmy',
+  '15-year-old',     'wisconsin',       '17-year-old',
+  'washington',      'dc',              'im',
+  '40',              '28',              'stepdad',
+  '13-year-old',     'missouri',        '32',
+  '49',              '33',              '29',
+  'age-related',     '25',              '38',
+  '17-18-year-olds', 'apps',            '30',
+  '24',              '17-18',           '37',
+  '27',              '13-14',           'year-olds',
+  'evolveme',        'future-planning'
+]

@@ -1,0 +1,65 @@
+Executing link 62 of 65: https://www.teenvoice.com/insights/how-teens-are-using-and-not-using-generative-ai
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+DIGITAL LIFE
+
+How Teens Are Using (and Not Using) Generative AI
+
+PUBLISHED DATE: JULY 16, 2024
+
+AI is everywhere in the business world, but it’s just getting started for teens. Yes, 81% of teens have heard of at least one of the top AI tools, but only 41% have heard of ChatGPT, the leading AI tool on the market. That number is much lower for other AI tools like Gemini or DALL-E.
+
+And surprisingly, you will only find a small number of students using AI tools. Forty percent of students using artificial intelligence have tried ChatGPT, 17% have tried Gemini, and far fewer have tried any other option. This means that current data shows the answer to the question of how many students use AI is relatively few.
+
+But whether they’re using it or not, AI will become an increasingly important part of teens’ lives, so important that they become familiar with what AI can and can’t do. Learning how students use AI in school will give us clues as to how they will use it in the future.
+So far, students using AI are trying it out for homework, schoolwork, and related activities like writing and tutoring. A minority of people are starting to use AI for creative visual art and finding things to do. Fifteen percent say they’re using AI to “keep them company,” which may involve chatting with AI bots such as Alexa or Siri to pass the time.
+
+That means that only a tiny number of teens are exploring the “fun” side of AI – nor are they truly exploiting its ability to help with problem-solving or exploration. Only a few said they’d explored future options, made plans, learned about new hobbies, built personal skills, or asked AI for advice about anything – from fashion to travel planning. In fact, 25% of teens say they’ve never used AI – for any purpose.
+
+Parents may be pleased to hear that AI isn’t a significant part of teens’ day-to-day lives. But if they’ve perused job listings recently, they may be surprised to see how many job descriptions include at least a mention of AI use. And AI is a growing part of many things teens enjoy, from video games to television to music.
+
+Now is the right time to develop tools, courses, and experiences to give teens the tools they need to use AI appropriately, effectively, and creatively. Such offerings are a vital part of providing today’s young people with tools for –
+
+
+Using AI to explore post-secondary options
+Tapping into AI’s ability to expand on and explore creative ideas
+Understanding real-world examples of how various careers use AI.
+Evaluating products produced by AI for issues ranging from bias to accuracy
+Defining appropriate and inappropriate uses of AI in various settings
+
+Rather than allowing teens to avoid AI altogether, it will be essential to build their experience, confidence, and critical skills so that they can incorporate AI into their lives and their work. By understanding how students can use AI in school today, you can help them navigate the future of work and life.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'july',       '16',
+  '81',         '41',
+  'chatgpt',    'gemini',
+  'dall-e',     '17',
+  'theyre',     'alexa',
+  'siri',       'problem-solving',
+  'theyd',      '25',
+  'theyve',     'isnt',
+  'day-to-day', 'post-secondary',
+  'ais',        'real-world',
+  'evolveme',   'future-planning'
+]

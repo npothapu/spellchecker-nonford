@@ -1,0 +1,19 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teen-voice-article-teens-tune-into-politics-even-before-they-can-vote: [
+  'october',      'theyre',          '18',
+  '1783',         '79',              '59',
+  '17-year-old',  'asian',           'massachusetts',
+  'twenty-eight', '14-15',           '26',
+  '16-17',        '14-year-old',     'colorado',
+  'carolina',     'laid-back',       '63',
+  'full-time',    'stressor',        '15-year-old',
+  'connecticut',  'florida',         '100',
+  '150',          '60',              'california',
+  '58',           'healthcare',      '68',
+  '57',           '48',              '44',
+  'michigan',     '14-17',           'economyinflation',
+  'evolveme',     'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teen-voice-article-teens-tune-into-politics-even-before-they-can-vote: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 38

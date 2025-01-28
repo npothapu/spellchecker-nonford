@@ -1,0 +1,16 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/technology-s-role-in-the-student-experience: [
+  '150000',
+  'excltax',
+  'real-world',
+  'in-depth',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/technology-s-role-in-the-student-experience: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 10

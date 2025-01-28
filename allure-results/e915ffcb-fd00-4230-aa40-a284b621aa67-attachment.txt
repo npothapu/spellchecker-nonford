@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/what-teens-can-t-wait-to-read-watch-and-stream-in-2025: [
+  'january',     '14',
+  '100',         'binge-worthy',
+  'tv',          '25',
+  'haley',       'newsome',
+  'suzanne',     "collins'",
+  '51',          'big-screen',
+  'live-action', '17-year-old',
+  'ohio',        'lilo',
+  'must-sees',   'long-awaited',
+  'disneys',     'moana',
+  '13-year-old', 'kansas',
+  'forty-two',   'netflix',
+  'wednesday',   "'im",
+  'florida',     '16-year-old',
+  'tennessee',   'fan-favorite',
+  'evolveme',    'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/what-teens-can-t-wait-to-read-watch-and-stream-in-2025: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 32

@@ -1,0 +1,86 @@
+Executing link 45 of 65: https://www.teenvoice.com/insights/teens-love-of-fast-food-what-s-the-secret-sauce
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+Teens' Love of Fast Food: What’s the Secret Sauce?
+
+PUBLISHED DATE: JANUARY 8, 2025
+
+For many teens, culinary happiness comes in a paper bag with a side of fries—but how often are they really hitting the drive-thru? Our survey of 245 teens revealed that their fast-food habits aren’t as uniform as you might think:
+
+While 29% visit fast-food restaurants multiple times a week, nearly the same percentage go every couple of months (24%) or just a couple times of year (27%). A small group avoids fast food altogether, often citing health concerns, family rules, or budget constraints.
+
+So, what keeps fast-food regulars coming back, and what might entice others to visit more often? We set out to uncover what drives teens’ cravings—their favorite meals, brands, and what it would take to get them to try something new.
+Why Teens Choose Fast Food?
+Teens care most about quality, value, and ease of access when choosing a quick-service or fast-food restaurant. The top five factors influencing their decision are the taste of the food (65%), convenience (61%), price (61%), location (53%), and variety of menu options (51%).
+
+While practical considerations dominate, fewer teens prioritize things like sustainability (46%), dietary accommodations (45%), and healthy options (44%). Meat alternatives (37%) and non-meat options (36%) are even lower on their list.
+What’s Actually on Their Trays?
+Teens tend to stick to the classics: 55% say they favor burgers, fries, and fried chicken. However, their cravings aren’t one-note—barbecue, breakfast foods, Chinese, and Mexican cuisine also make the cut.
+
+And they’re not just stopping by for a quick snack. Nearly half (47%) say they’re at fast-food joints for a full meal, compared to 35% who pop in for a bite between meals.
+Which Brands Are Their Favorites—and Why?
+The gold medal goes to the Golden Arches (McDonald’s), followed by KFC, Burger King, Chick-fil-A, Wendy’s, and Raising Cane’s.
+
+When asked why they prefer certain brands, many say it’s about taste and variety. A 16-year-old Hispanic male from California praised Raising Cane’s, saying, “They have the best chicken tenders I have eaten, with their famous Cane’s sauce.” And a 16-year-old white male from Louisiana shared that Taco Bell stands out because it provides “options and variety most fast-food places don’t, such as vegetarian options, desserts, and Baja Blasts.”
+
+Consistency and customer service also play an important role. A 15-year-old white female from Maryland loves Chick-fil-A because “they never mess up my order,” while a 19-year-old Black female from Virginia pointed out that the employees there are always nice.
+
+For some teens, location is key. One 14-year-old white female from Michigan chooses McDonald’s because “I live right next to it.”
+
+Finally, affordability and emotional connections strengthen brand loyalty. A 17-year-old white female from Pennsylvania shared, “McDonald’s takes me back to when I was younger and makes me happy.”
+What Gets Teens to Try Something New?
+Word of mouth is still king—recommendations from friends and family influence 45% of teens. However, social media ads (34%) and online reviews (30%) also play a significant role, influencing about a third of teens.
+
+A 15-year-old Black non-binary teen from Pennsylvania explained they’d try a new place or menu item “if they had something I enjoy and did it well, like McDonald’s does smoothies.” For a 16-year-old white female from New Hampshire, it’s all about curiosity: “I’d try it If I haven’t seen it before and I’m feeling adventurous, especially if I’m not thrilled with other food options.”
+
+Deals are another big draw. Teens mentioned free samples, “buy one, get one free” offers, and loyalty rewards as particularly appealing. Since price is a key factor for many, these promotions can be the final push they need to try something new.
+Ready to Tap Into Teen Trends?
+Our survey revealed that teens are a diverse, thoughtful group of consumers driven by both emotional ties and practical considerations. To tap into their preferences, you need data that helps you speak their language.
+
+Want deeper insights like these to power your next campaign? Use our custom survey builder to get the answers you need. Connect With Teens Now
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  "teens'",       'january',             'friesbut',
+  'drive-thru',   '245',                 'fast-food',
+  'arent',        '29',                  '24',
+  '27',           'cravingstheir',       'quick-service',
+  '65',           '61',                  '53',
+  '51',           '46',                  '45',
+  '44',           '37',                  'non-meat',
+  '36',           '55',                  'one-notebarbecue',
+  'chinese',      'mexican',             'theyre',
+  '47',           '35',                  'favoritesand',
+  'mcdonalds',    'kfc',                 'chick-fil-a',
+  'wendys',       '16-year-old',         'hispanic',
+  'california',   'louisiana',           'dont',
+  'baja',         '15-year-old',         'maryland',
+  '19-year-old',  'virginia',            '14-year-old',
+  'michigan',     'affordability',       '17-year-old',
+  'pennsylvania', 'kingrecommendations', '34',
+  '30',           'non-binary',          'theyd',
+  'hampshire',    'havent',              'im',
+  'evolveme',     'future-planning'
+]

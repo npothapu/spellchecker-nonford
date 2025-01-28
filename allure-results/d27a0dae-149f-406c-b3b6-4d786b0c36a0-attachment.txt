@@ -1,0 +1,13 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/teen-future-planning-mission-driven-insights: [
+  'mission-driven', '150000',
+  'excltax',        'covid-19',
+  'non-college',    'four-year',
+  'in-person',      'non-profit',
+  'teen-friendly',  'deep-dive',
+  '40',             'phds',
+  'evolveme',       'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/teen-future-planning-mission-driven-insights: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 14

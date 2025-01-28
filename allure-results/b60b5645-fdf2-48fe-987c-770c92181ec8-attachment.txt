@@ -1,0 +1,5 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/three-ways-adults-completely-misunderstand-teens-digital-lives: [ 'december', '13', 'evolveme', 'future-planning' ]
+Error checking link https://www.teenvoice.com/insights/three-ways-adults-completely-misunderstand-teens-digital-lives: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 4

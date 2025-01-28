@@ -1,0 +1,81 @@
+Executing link 32 of 65: https://www.teenvoice.com/reports/the-top-three-concerns-teens-face-in-planning-for-their-future-highered
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+FUTURE PREPAREDNESS
+
+The Top Three Concerns Teens Face in Planning for Their Future
+
+REPORT
+
+$450.00 (EXCL.TAX)
+
+ADD TO CART
+
+Description
+
+Today’s teens are optimistic about their futures but often paralyzed by choices. They’re eager to succeed but need support in navigating the complexities of academic, career, and financial decisions. This study of 2,000+ teens offers actionable insights to help higher education institutions refine enrollment, communication, and engagement strategies.
+
+Key Insights for Higher Education Professionals:
+
+Understand how teens view their own readiness for what’s next. 
+
+Discover how financial stress impacts their decision-making and future planning.
+
+Explore the role of hands-on experiences in building confidence and reducing anxiety.
+
+Find strategies for connecting with prospective students in meaningful ways.
+
+Leverage this report to connect with prospective students, understand their needs, and offer solutions that build confidence in their educational choices.
+
+ 
+
+Learn About Our Research
+
+Our reports provide insights based on speaking directly to teens. We go beyond asking comprehensive questions - we write teen-friendly copy to encourage their participation. Our analysis leads to actionable insights that illustrate what it's really like to be a teen today.
+
+Types of Reports
+
+TeenVoice provides a range of different reports to meet your needs, including short articles, topical and thematic deep-dive focus reports, and comprehensive landscape reports tailored to industry needs.
+
+Our Methodology
+
+We generate detailed insights in our reports by asking topical questions in a teen-friendly voice to a nationally representative sample of over 2,000 teens. We perform rigorous analysis to provide views based on age, gender, race, and more.
+
+Expert Insights
+
+With a combined 40 years in higher education, conducting consumer research, and studying human behavior, our staff of expert researchers and PhDs know how to talk to teens and craft actionable insights from their responses.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  '45000',
+  'excltax',
+  'theyre',
+  'decision-making',
+  'hands-on',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]

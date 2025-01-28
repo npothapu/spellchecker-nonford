@@ -1,0 +1,2 @@
+Skipping URL with fragment identifier: https://www.teenvoice.com/login#sign-up
+Skipping URL with fragment identifier: https://www.teenvoice.com/#faq

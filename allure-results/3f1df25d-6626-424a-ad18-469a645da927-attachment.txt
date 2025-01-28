@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/the-top-three-concerns-teens-face-in-planning-for-their-future-edtech: [
+  '45000',
+  'excltax',
+  'stressors',
+  'edtech',
+  'real-world',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/the-top-three-concerns-teens-face-in-planning-for-their-future-edtech: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 11

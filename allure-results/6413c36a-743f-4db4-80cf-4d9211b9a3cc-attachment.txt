@@ -1,0 +1,401 @@
+Executing link 63 of 65: https://www.teenvoice.com/legal/commercial-terms-and-conditions
+Extracted Page Text: FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+The fine print
+CURRENT PAGE:
+ACCEPTANCE OF THESE COMMERCIAL TERMS AND CONDITIONS
+CURRENT PAGE:
+CHANGES TO THESE COMMERCIAL TERMS
+CURRENT PAGE:
+ACCESSING THE SERVICES AND ACCOUNT SECURITY
+CURRENT PAGE:
+BILLING
+CURRENT PAGE:
+TRADEMARKS
+CURRENT PAGE:
+OWNERSHIP
+CURRENT PAGE:
+PROHIBITED USES
+CURRENT PAGE:
+USER CONTENT; SURVEYS
+CURRENT PAGE:
+CONTENT STANDARDS
+CURRENT PAGE:
+MONITORING AND ENFORCEMENT
+CURRENT PAGE:
+FEEDBACK
+CURRENT PAGE:
+MODIFICATION, SUSPENSION, AND DISCONTINUATION OF THE SERVICES
+CURRENT PAGE:
+RELIANCE ON INFORMATION POSTED
+CURRENT PAGE:
+TERMINATION
+CURRENT PAGE:
+INDEMNIFICATION
+CURRENT PAGE:
+DISCLAIMER OF WARRANTIES
+CURRENT PAGE:
+LIMITATION ON LIABILITY
+CURRENT PAGE:
+ARBITRATION
+CURRENT PAGE:
+COPYRIGHT INFRINGEMENT
+CURRENT PAGE:
+MISCELLANEOUS
+COMMERCIAL TERMS AND CONDITIONS
+Acceptance of These Commercial Terms and Conditions
+
+These commercial terms and conditions (collectively, the “Commercial Terms”) are an agreement between you and NextGen Insights Group LLC dba TeenVoice (“TeenVoice”, “we”, or “us”). These Commercial Terms govern your access to and use of our website at www.teenvoice.com (the “Site”) and the services, content, and functionality made available on or through the Site (the “Services”), whether you are a guest or registered or unregistered user. As used in these Commercial Terms, the “Services” include all of their pages, functionality, and features, and all publications and other services, content, information, links, and other materials (collectively, “Materials”) made available on or through the Services. As used in these Commercial Terms, the “Services” do not include any services, videos, content, information, links, or other materials offered on or through third-party websites or otherwise by third parties (“Third-Party Services”) or any Survey Questions or other User Content (each as defined below).
+
+All personal information that we may collect on or through the Services, including personal information you provide to register with the Services and personal information collected by us through or in connection with your use of any features of the Services, is subject to our privacy policy (the “Privacy Policy”). By using the Services, you consent to all actions taken by us with respect to your personal information in compliance with the Privacy Policy. To the extent you receive de-identified information as part of the Services, you agree to use such information only in de-identified form and not attempt to reidentify individuals on the basis of such information.
+
+Please read these Commercial Terms and the Privacy Policy carefully before you start to use the Services. PLEASE NOTE THAT THE “ARBITRATION” SECTION OF THESE COMMERCIAL TERMS CONTAINS A BINDING ARBITRATION CLAUSE AND A CLASS ACTION WAIVER THAT AFFECT YOUR RIGHTS FOR RESOLVING DISPUTES WITH TEENVOICE AND PROVIDERS (AS DEFINED BELOW).
+
+By accessing or using the Services, you accept and agree to be bound by and comply with these Commercial Terms and acknowledge that you have read and understand our Privacy Policy. If you do not agree to these Commercial Terms, or if you object to the Privacy Policy, you must not access or use the Services.
+
+The Services are offered and available only to users who (i) are using the Services on behalf of a business, whether incorporated or not, and (ii) are at least 18 years of age or the legal age of majority in their jurisdiction, if greater. By using the Services, you represent and warrant that you (a) are at least 18 years of age or the legal age of majority in your jurisdiction, if greater, (b) are fully able and competent to enter into, and to abide by and comply with, these Commercial Terms, and (c) have not previously been terminated, removed, or suspended from the Services. If you are using the Services on behalf of an entity, you further represent and warrant that you have authority to bind that entity to these Commercial Terms, and you agree to be bound by these Commercial Terms on behalf of that entity. For the avoidance of doubt, if you are using the Services on behalf of an entity, the terms “you” and “your” will include such entity.
+
+Our Services utilize certain third-party services and link to Third-Party Services. Except as otherwise disclosed in our Privacy Policy, your access to Third-Party Services, whether or not initiated through the Services, is subject to the terms of service, privacy policies, and other terms and conditions of such Third-Party Services, as applicable, and you should be sure that you have read and understand such terms of service, privacy policies, and other terms and conditions. If the Services contain links to other websites or to Third-Party Services, these links are provided for your convenience only. This includes links contained in advertisements, including banner advertisements and sponsored links. We do not control the Third-Party Services and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third-party websites linked to the Services, you do so entirely at your own risk and subject to any terms of use, privacy policies, or other terms and conditions for such third-party websites.
+
+As between you and us, these Commercial Terms are effective from the first moment you access the Services and will remain effective thereafter in perpetuity, unless terminated earlier as provided hereinafter.
+
+Changes to These Commercial Terms
+
+We may revise and/or update these Commercial Terms from time to time in our sole discretion. All changes are effective immediately when we post them and apply to all of your access to and use of the Services thereafter. If you continue to use the Services after we post the revised and/or updated Commercial Terms, it means that you accept and agree to the revisions and/or updates. You are expected to check this page from time to time so you are aware of any changes, as they are binding on you. The date these Commercial Terms were last revised and/or updated is identified at the top of this page.
+
+Accessing the Services and Account Security
+
+To access the Services or any Third-Party Services made available on or through the Services, you may be asked to provide certain registration details or other information. It is a condition of your use of the Services that all the information you provide on the Services is correct, current, and complete. You agree that we may use this information to communicate with you about the Services and that our communications to you will satisfy any requirements for legal notices.
+
+You are responsible for both:
+
+Making all arrangements (including obtaining any internet connection) necessary for you to have access to the Services; and
+Ensuring that all persons who access or use the Services through your account agree to these Commercial Terms and comply with them.
+
+You acknowledge that your account is personal to you. If you choose or are provided with a user name, a password, or any other information as part of our security procedures, you must keep that information confidential and not disclose it to any other person or entity. You may not provide any other person with access to the Services or portions of them using your user name, password, or other security information. You are responsible for all activity occurring under your account or with use of your user name and password.
+
+You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security. You may report unauthorized access by sending an email to support@teenvoice.com.
+
+We have the right to disable any user name, password, or other identifier, whether chosen by you or provided by us, at any time in our sole discretion.
+
+Billing
+
+You may be required to pay fees (which may include any applicable taxes) to TeenVoice to access or use the Services or any Materials (“Fees”). Fee payments are processed in U.S. Dollars. You are responsible for paying any Fees listed in connection with the Services or any Materials (which may require advance payment of Fees). Except as expressly provided in these Commercial Terms, all Fees are non-refundable to the extent allowed under applicable law.
+
+With respect to the payment method that you specify at the time of your purchase (the “Payment Method”), you expressly agree that TeenVoice is authorized to charge the Fees (which may include any applicable taxes) to the Payment Method. If the Payment Method is a credit card, you acknowledge that TeenVoice may seek pre-authorization of your credit card account prior to your purchase to verify that the card is valid and has the necessary funds or credit to complete the purchase. You represent and warrant that the credit card or bank account which is being used as your Payment Method is yours or that you have the authorization of the account holder to use it. If you use a Payment Method which you are not authorized to use, you will be liable to us for any losses that we suffer as a result of your use of that Payment Method.
+
+You acknowledge and agree that TeenVoice may use third-party payment processors to process Fees and perform related services on TeenVoice’s behalf and that TeenVoice will not be liable for any errors caused by such third-party payment processors.
+
+You acknowledge and agree that Fees for the Services and Materials may increase at any time, and additional Fees may apply to new features or additions to the Services or any Materials that may be made available from time to time. TeenVoice will provide you with notice before charging increased or additional Fees, and you will have an opportunity to review and accept the increased or additional Fees that you will be charged before being charged. If you do not accept any such increased or additional Fees, TeenVoice may discontinue your access to the Services or Materials.
+
+TeenVoice will not provide any refunds for Surveys that you cancel. If you cancel a Survey, then TeenVoice may, in its sole discretion, provide you with credits that you can apply to payment for other Surveys. Any such credits may be based on the quantity of responses to the Survey at the time of cancelation, the length of time that the Survey was made available to Survey Respondents before cancelation, or other factors as determined by TeenVoice in its sole discretion.
+
+If you feel you have been charged any Fees in error, you may contact us directly at payments@teenvoice.com. Following your request, you will be asked to provide the reason for your request. We aim to respond to such requests within three business days of our receipt of such requests. We note that if you file a dispute with your credit card company before contacting us, we are limited in what we can do to resolve any error. Credit card disputes are flagged to us by your financial services provider as potentially fraudulent, so if a credit card dispute is initiated, your account may be suspended while we investigate, and we ask you to contact us if you wish to request that it be reinstated.
+
+Trademarks
+
+The TeenVoice name, the TeenVoice trademark, the TeenVoice logo, and all related names, trademarks, logos, product and service names, designs, and slogans are trademarks of TeenVoice and its affiliates or licensors. You must not use such trademarks without the prior written permission of TeenVoice. All other names, trademarks, logos, product and service names, designs, and slogans on the Services are the trademarks of their respective owners.
+
+Ownership
+
+The Services and the Materials (including all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by TeenVoice, its affiliates, licensors, services providers, or other providers of such Services or Materials (collectively, “Providers”), and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. All rights not expressly granted to you in these Commercial Terms are reserved by TeenVoice. You do not acquire any interest, right, or title in or to the Services or any Materials.
+
+You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any part of the Services, including any Materials, except as follows:
+
+You may print or download copies of the Materials for your own internal use and not for further reproduction, publication, or distribution;
+Your computer may temporarily store copies of the Materials in its RAM, cache, or other transient, short-term memory incidental to your accessing and viewing those Materials; and
+You may store files that are automatically cached by your Web browser for purposes of using the Services in accordance with these Commercial Terms.
+
+You must not:
+
+Modify or make any changes to copies of any of the Services’ Materials, including any publications made available through the Services;
+Use any illustrations, photographs, video or audio sequences, or graphics separately from the accompanying text;
+Delete or alter any copyright, trademark, or other proprietary rights notices from copies of the Materials; or
+Distribute, publicly display, or otherwise make available any Materials to any person outside of your organization.
+
+If you wish to make any use of any of the Materials other than as described in these Commercial Terms, please contact us at: support@teenvoice.com.
+
+Without limiting any other of our rights to suspend or terminate your access to the Services, if you print, copy, modify, download, or otherwise use or provide any other person with access to any part of the Services in breach of these Commercial Terms, we may suspend your right to use the Services without notice, and you must, at our option, immediately return or destroy any copies of the Materials you have made. In addition, we reserve our right to seek any other applicable remedies, including our right to bring any claims related to infringement of intellectual property.
+
+Prohibited Uses
+
+You may use the Services only for your own internal purposes and in accordance with these Commercial Terms and applicable law. Any use of the Services or the Materials in a way not expressly permitted by these Commercial Terms is a breach of these Commercial Terms. In addition to any other prohibitions stated in these Commercial Terms, you agree not to use the Services or any Materials:
+
+In any way that violates applicable law (including any fraudulent conduct or any conduct that violates any laws regarding the export of data or software to and from the United States or other countries);
+For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personal information, or otherwise;
+To send, knowingly receive, upload, download, use, or re-use any material that does not comply with the Content Standards set out in these Commercial Terms;
+To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail,” “chain letter,” “spam,” or any other similar solicitation or material;
+To impersonate or attempt to impersonate TeenVoice (including any Services of TeenVoice), a TeenVoice employee, another user, or any other person or entity (including by using e-mail addresses, user names, trademarks, or other identifiers associated with any of the foregoing); or
+To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Services, or which, as determined by us in our sole discretion, may harm TeenVoice or users of the Services, or expose us or them to liability.
+
+Additionally, you agree not to:
+
+Use the Services in any manner that could disable, overburden, damage, or impair the Services or interfere with or otherwise inhibit any other person’s or entity’s access to or use of the Services, including their ability to engage in real-time activities through the Services;
+Use any robot, spider, or other automatic device, process, or means to access the Services for any purpose, including monitoring, scraping, or copying any of the Services’ Materials;
+Use any manual process to monitor or copy any of the Services’ Materials, or for any other purpose not expressly authorized in these Commercial Terms, without our prior written consent;
+Use any device, software, or routine that interferes with or otherwise inhibits the proper working of the Services;
+Introduce any viruses, trojan horses, worms, logic bombs, or other software code or other material which is malicious or technologically harmful;
+Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Services, the servers on which the Services are stored, or any server, computer, database, or other website connected to the Services;
+Attack the Services via a denial-of-service attack or a distributed denial-of-service attack; or
+Otherwise attempt to interfere with or inhibit the proper working of the Services.
+User Content; Surveys
+
+The Services may contain interactive features that allow users to post, submit, publish, display, or transmit (“post”) surveys to be completed by teenagers (such surveys, “Surveys”, and such teenagers, “Survey Respondents”) and other content (such Surveys and other content, collectively, “User Content”) on or through the Services. If the Services permit you to create Surveys, you may create a Survey by posting to TeenVoice survey questions (“Survey Questions”), which may concern demographic information about the Survey Respondents completing the surveys (“Demographic Questions”) or may concern other content (“Other Questions”). For the avoidance of doubt, Survey Questions will be deemed your User Content.
+
+With respect to Surveys, you acknowledge and agree to the following:
+
+TeenVoice may, in its sole discretion, review and suggest changes to the Survey Questions or other User Content that you post, and TeenVoice may, in its sole discretion, condition approval of any or all such Survey Questions or User Content on your acceptance of such suggested changes;
+Although the Services may permit you to designate timelines applicable to Surveys, including timelines during which Survey Respondents may respond to your Survey, TeenVoice will not be liable for any failure to meet such timelines;
+TeenVoice may, in its sole discretion, review and screen Survey Respondents’ responses to your Survey before TeenVoice makes any such responses available to you, including to remove personally-identifying information and responses that are not authentic or are otherwise inappropriate; and
+You will not receive or have access to raw responses to Surveys, and you will only be provided with responses to Surveys that TeenVoice has screened as described herein (such screened responses, “Survey Responses”).
+
+All User Content must comply with the Content Standards set out in these Commercial Terms.
+
+By providing any User Content on or through the Services, you grant us and our affiliates and each of their and our respective licensees, successors, and assigns a non-exclusive, perpetual, irrevocable, royalty-free, transferable, sublicensable, worldwide license to use, reproduce, modify, perform, display, distribute, and otherwise disclose to third parties any such User Content to make the Surveys available to Survey Respondents, make the Services and Materials and any Third-Party Services available to you and other users of the Services, develop and improve the Services and other products and services, and for any other purpose.
+
+You represent and warrant that:
+
+You own or control all rights in and to your User Content and have the right to grant the license granted above to us and our affiliates, partners, and service providers, and each of their and our respective licensees, successors, and assigns; and
+All of your User Content does and will comply with these Commercial Terms (including the Content Standards).
+
+You understand and acknowledge that:
+
+You are responsible for any User Content you post, submit, publish, display, or transmit, and you, not TeenVoice, have full responsibility for such User Content, including the legality, reliability, accuracy, and appropriateness of such User Content;
+We will not be responsible or liable to you or any third party for the content or accuracy of any User Content posted by you or any other user of the Services or for any loss or unavailability of your User Content; and
+Your User Content may not be treated as confidential, including by TeenVoice making your Survey Questions available to Survey Respondents.
+
+As between TeenVoice and you, TeenVoice owns all right, title, and interest in and to any Survey Responses for the Demographic Questions. As between TeenVoice and you, you own all right, title, and interest in and to any Survey Responses for the Other Questions; TeenVoice hereby assigns to you any right, title, or interest that it may have in or to any Survey Responses for the Other Questions; and you hereby grant to TeenVoice a non-exclusive, perpetual, irrevocable, royalty-free, transferable, sublicensable, worldwide license to use, reproduce, modify, perform, display, distribute, and otherwise disclose to third parties any such Survey Responses for any purpose.
+
+In addition to, and without limiting, any disclaimers set forth in the “Disclaimer of Warranties” Section below, TeenVoice makes no representations or warranties regarding whether Survey Respondents will complete any Surveys, whether you will receive an adequate quantity of Survey Responses within any specific timeframe, or whether Survey Responses will otherwise meet your needs or expectations. In addition to, and without limiting, the “Limitation on Liability” Section below, to the fullest extent provided by law, in no event will TeenVoice be liable in connection with your use of, or inability to use, or reliance on or actions or inaction based on any Surveys or any Survey Responses.
+
+Content Standards
+
+The following content standards (the “Content Standards”) apply to any and all User Content. User Content must in its entirety comply with all applicable law. Without limiting the foregoing, User Content must not:
+
+Contain any material that is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory, or otherwise objectionable;
+Contain, exhibit, or promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age;
+Elicit, or attempt to ascertain, the identity of any person, including any Survey Respondent, including by requesting names, addresses, or similar identifying information;
+Infringe or misappropriate any patent, trademark, trade secret, copyright, or other intellectual property or other proprietary rights of any other person or entity;
+Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable law or that otherwise may be in conflict with these Commercial Terms or our Privacy Policy;
+Be likely to deceive any person;
+Promote or inquire about any Survey Respondent’s or other person’s illegal activity, or advocate, promote, or assist any unlawful act;
+Cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm, or annoy any other person;
+Impersonate any person, or misrepresent your identity or affiliation with any person or organization;
+Give the impression that they emanate from or are endorsed by us or any other person or entity, if that is not the case;
+Sell, or attempt to sell, products or services to any persons, including through Survey Questions;
+Contain links to your websites or the websites of any third party; or
+Otherwise, as determined in our sole discretion, potentially harm us, Survey Respondents, or others or expose us or them to liability.
+Monitoring and Enforcement
+
+We have the right to:
+
+Remove or refuse to post any User Content, including by removing or refusing to include any Survey Question from or in a Survey, for any or no reason in our sole discretion;
+Take any action with respect to any User Content that we deem necessary or appropriate in our sole discretion, including if we believe that such User Content violates the Commercial Terms, including the Content Standards, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Services, users of TeenVoice’s or its affiliates’ other platforms, or the public, or could create liability for TeenVoice;
+Disclose your identity or other information about you to any third party who claims that information, content, or other material posted, submitted, published, displayed, or transmitted on or through the Services by you violates such third party’s rights, including such third party’s intellectual property rights or their right of publicity or privacy;
+Take appropriate legal action, including referral to law enforcement, for any fraudulent or other illegal or unauthorized use of the Services;
+Terminate or suspend your access to all or part of the Services for any or no reason, including any fraudulent or other illegal conduct or violation of these Commercial Terms; or
+Fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone posting, submitting, publishing, displaying, or transmitting any information, content, or other material on or through the Services.
+Feedback
+
+You hereby grant to TeenVoice an irrevocable, royalty-free, perpetual license to use all feedback, ideas, or suggested improvements you provide to TeenVoice regarding the Services (collectively, “Feedback”), as applicable, including in connection with TeenVoice’s development and marketing of the Services or other products or services. You further agree that TeenVoice and Providers may use all or part of your Feedback or any derivative thereof in any manner or media without any remuneration, compensation, or credit to you, including to improve the Services and create other products and services.
+
+Modification, Suspension, and Discontinuation of the Services
+
+We may permanently or temporarily modify or remove the Services and any Materials, or any portion thereof, including any links to Third-Party Services, from time to time, in our sole discretion, without notice to you. To the fullest extent permitted under applicable law, we will not be liable for any modification or removal, or unavailability, of the Services or any portion thereof. From time to time, we may restrict access to some parts of the Services, or entire Services, to all users or particular users, without notice, in our sole discretion. Any of the Services or any Materials may be out of date at any given time, and we are under no obligation to update such Services or Materials.
+
+Reliance on Information Posted
+
+The information presented on or through the Services (including information presented on or through any Materials or Third-Party Services) is made available solely for general information purposes. We do not warrant the accuracy, completeness, or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such information by you or any other visitor to the Services, or by anyone who may be informed of such information.
+
+The Services may include Third-Party Services from or provided by third parties, including third-party partners, licensors, syndicators, aggregators, and/or reporting services. All statements and/or opinions expressed in these Third-Party Services are solely the opinions and the responsibility of the person or entity providing those Third-Party Services. These Third-Party Services do not necessarily reflect the opinions of TeenVoice. We expressly disclaim all liability, and we are not responsible or liable to you or any third party, for the content or accuracy of any Third-Party Services
+
+Termination
+
+TeenVoice may terminate these Commercial Terms at any time, for any reason or for no reason, by notice to you, and these Commercial Terms will terminate automatically without notice upon your breach of any provisions of these Commercial Terms. You may also terminate these Commercial Terms at any time, for any reason, by discontinuing your access to and use of the Services. Upon termination, the rights granted to you under these Commercial Terms to access and use the Services will immediately terminate.
+
+Upon termination of these Commercial Terms or your access to the Services, TeenVoice may at its option delete any data associated with your account. Any provision of the Terms that (i) expressly states that it survives expiration or termination of these Commercial Terms, or (ii) should survive following expiration or termination of these Commercial Terms to fulfill its essential purpose will survive any such expiration or termination.
+
+Indemnification
+
+You agree, to the maximum extent permissible under applicable law, to defend, indemnify, and hold harmless TeenVoice, its Providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns (collectively, the “TeenVoice Parties”) from and against all claims, demands, losses, damages, liabilities, demands, judgments, awards, settlements, costs, and expenses of any kind (including legal fees and expenses) relating to or arising out of: (i) your access to or use or misuse of the Services or any Materials or Third-Party Services made available on or through the Services; (ii) your breach, alleged breach, or violation of these Commercial Terms; (iii) your Feedback or User Content; (iv) your failure to comply with applicable law (including any failure to obtain or provide any necessary consent or notice); (v) the infringement by you or any third party using your account of any intellectual property, privacy, or other right of any person or entity; or (vi) any claim arising from or alleging fraud, intentional misconduct, gross negligence, or criminal acts committed by you. TeenVoice reserves the right to employ separate counsel and assume the exclusive defense and control of any matter otherwise subject to indemnification by you. In such event, you shall provide TeenVoice with such cooperation as TeenVoice reasonably requests.
+
+Disclaimer of Warranties
+
+YOUR USE OF, AND YOUR RELIANCE ON OR ACTIONS OR INACTION BASED ON, THE SERVICES OR ANY WEBSITES LINKED TO OR FROM THEM, OR ANY OF THE THIRD-PARTY SERVICES OR MATERIALS AVAILABLE ON OR THROUGH THE SERVICES OR SUCH OTHER WEBSITES, IS AT YOUR OWN RISK. TO THE MAXIMUM EXTENT PERMISSIBLE UNDER APPLICABLE LAW, THE SERVICES AND THE MATERIALS AND ANY LINKS TO THIRD-PARTY SERVICES AND THIRD-PARTY WEBSITES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT, OR FITNESS FOR ANY PARTICULAR PURPOSE. NEITHER TEENVOICE NOR ANY PERSON ASSOCIATED WITH TEENVOICE MAKES ANY WARRANTY OR REPRESENTATION, AND TEENVOICE DISCLAIMS ALL WARRANTIES AND LIABILITIES, TO THE MAXIMUM EXTENT PERMISSIBLE UNDER APPLICABLE LAW, WITH RESPECT TO THE COMPLETENESS, COMPATIBILITY, UTILITY, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SERVICES, THE MATERIALS, OR ANY LINKS TO THIRD-PARTY SERVICES OR THIRD-PARTY WEBSITES. WITHOUT LIMITING THE FOREGOING, NEITHER TEENVOICE NOR ANYONE ASSOCIATED WITH TEENVOICE REPRESENTS OR WARRANTS, AND TEENVOICE DISCLAIMS ALL WARRANTIES AND LIABILITIES, TO THE MAXIMUM EXTENT PERMISSIBLE UNDER APPLICABLE LAW, THAT THE SERVICES OR ANY MATERIALS OR ANY LINKS TO THIRD-PARTY SERVICES OR THIRD-PARTY WEBSITES WILL BE ACCURATE, TIMELY, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR SERVICES, OUR MATERIALS, OR ANY THIRD-PARTY SERVICES OR THIRD-PARTY LINKS, OR THE SERVERS THAT MAKE THEM AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT THE SERVICES ARE COMPLETELY SECURE AGAINST HACKING OR OTHER UNAUTHORIZED INTRUSION, OR AS TO THE ACCURACY, CURRENCY, PRESERVATION WITHOUT LOSS, OR COMPLETENESS OF ANY INFORMATION MADE AVAILABLE THROUGH THE SERVICES, WHETHER PROVIDED IN TEXT, AUDIO, VIDEO, GRAPHICAL, OR OTHER FORM, OR THAT THE THEY WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS. NEITHER TEENVOICE NOR ANY PROVIDER MAKES ANY REPRESENTATIONS OR WARRANTIES WITH RESPECT TO ANY THIRD-PARTY SERVICE PROVIDERS. TEENVOICE IS NOT RESPONSIBLE OR LIABLE FOR ANY DECISIONS YOU MAY MAKE IN RELIANCE ON THE SERVICES, THE MATERIALS, OR ANY LINKS TO THIRD-PARTY SERVICES OR THIRD-PARTY WEBSITES, OR FOR ANY DEFECTS OR ERRORS THAT MAY RESULT FROM YOUR PROVISION OF INCOMPLETE OR INACCURATE INFORMATION TO TEENVOICE OR THE SERVICES, YOUR USE OF THE SERVICES WITH HARDWARE THAT DOES NOT MEET ANY MINIMUM REQUIREMENTS SPECIFIED BY TEENVOICE, OR YOUR USE OF ANY VERSION OF THE SERVICES OTHER THAN THE MOST RECENT GENERALLY AVAILABLE RELEASE OF ANY OF THE SERVICES. YOU EXPRESSLY AGREE THAT YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY, INCLUDING YOUR COMPUTER SYSTEM OR MOBILE DEVICE, OR ANY LOSS OF DATA, THAT RESULTS FROM USE OF THE SERVICES, THE MATERIALS, OR ANY LINKS TO THIRD-PARTY SERVICES OR THIRD-PARTY WEBSITES.
+
+THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+
+Limitation on Liability
+
+TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL THE TEENVOICE PARTIES BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF, OR INABILITY TO USE, OR RELIANCE ON OR ACTIONS OR INACTION BASED ON, THE SERVICES, OR ANY WEBSITES LINKED TO OR FROM THEM, OR ANY OF THE THIRD-PARTY SERVICES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHER THEORY, EVEN IF THE TEENVOICE PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+TO THE FULLEST EXTENT PROVIDED BY LAW, WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES, OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA, OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE SERVICES, ANY THIRD-PARTY WEBSITES LINKED TO OR FROM THE SERVICES, OR YOUR DOWNLOADING OF ANY MATERIALS.
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE TEENVOICE PARTIES’ TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE EXCEED, IN THE AGGREGATE, THE GREATER OF THE ACTUAL AMOUNT YOU PAID FOR THE SERVICES OR MATERIALS (IF ANY) IN THE 6 MONTHS PRIOR TO THE TIME SUCH LIABILITY AROSE AND $100, EXCEPT TO THE EXTENT AN APPLICABLE LAW DOES NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. YOU AND TEENVOICE AGREE THAT THE FOREGOING LIMITATIONS ARE ESSENTIAL TO THESE COMMERCIAL TERMS.
+
+THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+
+Arbitration
+
+PLEASE REVIEW AS THIS MAY AFFECT YOUR LEGAL RIGHTS. THIS “ARBITRATION” SECTION IS APPLICABLE TO THE FULL EXTENT PERMITTED BY LAW.
+
+Mandatory Arbitration of Disputes. You and TeenVoice each agree that any dispute, claim, or controversy arising out of or relating to these Commercial Terms or the breach, termination, enforcement, interpretation, or validity thereof or the use of the Services (each, a “Dispute” and collectively, the “Disputes”) will be resolved solely by binding, individual arbitration, unless expressly provided otherwise in this “Arbitration” Section, and not in a class, representative, or consolidated action or proceeding. You and TeenVoice agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of these Commercial Terms and that EACH OF YOU AND TEENVOICE IS WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION. This “Arbitration” Section shall survive the termination of these Commercial Terms.
+Exceptions and Opt-out Option. The only exceptions to this “Arbitration” Section are the following:
+You or TeenVoice each may seek to resolve an individual Dispute in small claims court if it qualifies.
+you or TeenVoice each may seek injunctive or other equitable relief from a court to prevent (or enjoin) the infringement or misappropriation of your or TeenVoice’s respective intellectual property rights.
+you may opt out of arbitration entirely and litigate any Dispute individually if you provide us with a signed, written notice of your decision to do so pursuant to the “Effect of Changes on Arbitration” subsection of this “Arbitration” Section below; however, if you are opting out of an updated version of this arbitration provision, you understand that you will remain subject to the prior version of any arbitration provision to which you had previously agreed.
+Initial Dispute Resolution and Notification. You and TeenVoice agree that, prior to initiating an arbitration or other legal proceeding, you and TeenVoice will attempt to negotiate an informal resolution of the Dispute. To begin this process, and before initiating any arbitration or legal proceeding against TeenVoice, you must send a Notice of Dispute (“Notice”) by certified mail to the attention of TeenVoice’s Legal Department at the following address: 33 Arch Street, Suite 2100, Boston, MA 02110. For purposes of these Commercial Terms, initiating an arbitration means filing an arbitration demand (“Demand”).
+
+Your Notice to TeenVoice must contain all of the following information: (i) your full name, address, account, and the email address associated with your account; (ii) a detailed description of the nature and basis of the Dispute; (iii) a description of the relief you want, including any money damages you request; and (iv) your signature verifying the accuracy of the Notice and, if you are represented by counsel, authorizing TeenVoice to disclose information about you to your attorney.
+
+After receipt of your Notice, you and TeenVoice shall engage in a good-faith effort to resolve the dispute for a period of 60 days, which both sides may extend by written agreement (“Informal Dispute Resolution Period”). During the Informal Dispute Resolution Period, neither you nor TeenVoice may initiate an arbitration or other legal proceeding.
+
+If the Dispute is not resolved during the Informal Dispute Resolution Period, you may initiate an individual arbitration as provided below.
+
+Conducting Arbitration and Arbitration Rules. Any arbitration must be initiated with and conducted by National Arbitration & Mediation (“NAM”) pursuant to its Comprehensive Dispute Resolution Rules and Procedures and/or its Mass Filing Supplemental Dispute Resolution Rules and Procedures (together, the “NAM Rules”), except as modified by these Commercial Terms. The NAM Rules are available at www.NAMADR.org or by calling NAM at 1-800-358-2550. In any instance where the applicable NAM Rules and these Commercial Terms are inconsistent, these Commercial Terms shall control.
+
+An arbitration Demand filed with NAM must include a certification signed by the filing party verifying compliance with the Initial Dispute Resolution and Notification requirements and other requirements set out in this “Arbitration” Section.
+
+If NAM fails or declines to conduct the arbitration for any reason, we will mutually select a different arbitration administrator. If we cannot agree, a court will appoint the arbitration administrator.
+
+Any arbitration hearing will be a virtual hearing, unless you and TeenVoice agree otherwise in writing.
+
+The arbitrator shall have exclusive authority to decide all issues relating to the interpretation, applicability, enforceability, and scope of this arbitration agreement, except that only a court of competent jurisdiction as set forth in the “Governing Law; Exclusive Jurisdiction” subsection of the “Miscellaneous” Section of these Commercial Terms (and not an arbitrator) shall have the exclusive authority to resolve any claim that all or part of the Class Action Waiver set forth in these Commercial Terms or the Mass Filing procedures set forth in the “Mass Filing Procedures” subsection of this “Arbitration” Section below are unenforceable, unconscionable, void, or voidable.
+
+The arbitrator may consider but will not be bound by rulings in other arbitrations where you and TeenVoice were not both parties.
+
+Mass Filing Procedures. YOU AND TEENVOICE AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY LAW, EACH OF YOU AND TEENVOICE IS WAIVING THE RIGHT TO BRING OR PARTICIPATE IN A MASS ARBITRATION. TeenVoice’s receipt of one or more Notice(s) of substantially similar claims brought by or on behalf of 25 or more claimants (including you) within a 60-day period (“Mass Filing”) shall be subject to the additional procedures set forth below. Claims included in a Mass Filing, if not resolved during the Informal Dispute Resolution Period, may proceed only in accordance with the procedures set out below, and subject to the NAM Mass Filing Supplemental Dispute Resolution Rules and Procedures (“NAM Mass Filing Rules”, available at https://www.namadr.com/resources/rules-fees-forms/) to the extent not contrary to these Commercial Terms. If a court determines that this “Mass Filing Procedures” subsection of this “Arbitration” Section is not enforceable as to your claim, then your claim may only proceed individually in court consistent with these Commercial Terms.
+Batching. You and TeenVoice agree that your and other individuals’ claims deemed by TeenVoice a Mass Filing may be filed with NAM in batches of no greater than 50 individuals’ claims at one time, with 25 claims (or half of the total number of claims in a batch, if less than 50) selected by counsel for you and other claimants and 25 claims (or half of the total number of claims in a batch, if less than 50) selected by TeenVoice. After your claim is batched and permitted to be filed as a Demand, you and TeenVoice agree that selection and appointment of an arbitrator for your Demand shall be governed by the NAM Mass Filing Rules.
+First (Bellwether) Batch. The first batch of up to 50 Demands are the Bellwether Arbitrations. If your claim is included in the Bellwether Arbitrations, you and TeenVoice shall cooperate with the arbitrator assigned to your arbitration to resolve your claim within 120 days of the initial pre-hearing conference.
+Stay of Filing of Other Claims. If your claim is not among those selected for the Bellwether Arbitrations, your claim cannot be filed until it is assigned to a batch and authorized to be filed in a later stage of this process. No arbitration fees will be assessed on you or TeenVoice in connection with your claim unless and until it is assigned to a batch and authorized to be filed with NAM.
+Mediation. After the Bellwether Arbitrations are completed, if your claim remains unresolved, you and TeenVoice agree to mediate your claim along with any other unresolved claims included in the Mass Filing (“Global Mediation”). The mediator will be selected according to the procedure set forth in the NAM Rules, and TeenVoice will pay the mediator’s fees. The Global Mediation shall be completed within 120 days of the selection of a mediator, unless extended by written agreement between you and TeenVoice.
+Election To Proceed in Court. If Global Mediation is not successful in resolving your claim, and 100 or more claims included in the Mass Filing remain unresolved, you or TeenVoice may opt out of arbitration and elect to have your claim resolved in court consistent with the “Governing Law; Exclusive Jurisdiction” subsection of the “Miscellaneous” Section of these Commercial Terms. You or TeenVoice must exercise this election within 45 days of the completion of Global Mediation.
+Sequential Arbitration of Remaining Batches. If neither you nor TeenVoice opt out of arbitration, another batch of no greater than 50 individuals’ claims will be selected from the Mass Filing, with 25 claims (or half of the total number of claims in a batch, if less than 50) selected by counsel for claimants and 25 claims (or half of the total number of claims in a batch, if less than 50) selected by TeenVoice. If your claim is included in this next batch of 50 claims, your claim will be filed with NAM, and you and TeenVoice shall cooperate with the arbitrator assigned to your arbitration to resolve your claim within 120 days of the initial pre-hearing conference. The process of batching up to 50 individual claims at a time will continue until the parties resolve all claims included in the Mass Filing. No unbatched claim can proceed to be filed as a Demand until the previous batch has been resolved.
+Tolling. For any claim subject to these Mass Filing procedures, any statute of limitations applicable to your claim shall be tolled from the date the Informal Dispute Resolution Period begins until the earlier of (i) the date your arbitration Demand is filed, or (ii) the date you or TeenVoice opts out of arbitration pursuant to the “Election to Proceed in Court” subsection of the “Mass Filing Procedures” subsection of this “Arbitration” Section.
+Arbitration Costs. Payment of all arbitration filing fees and costs will be governed by the applicable NAM Rules. If you prevail on your claim in arbitration, TeenVoice will reimburse you for any portion of the arbitration filing fees you paid that exceeded the amount you would have paid to file a complaint in a court of competent jurisdiction pursuant to the “Governing Law; Exclusive Jurisdiction” subsection of the “Miscellaneous” Section. If TeenVoice prevails on your claim in arbitration, and the arbitrator finds that your claim was frivolous or filed in bad faith, the arbitrator may award TeenVoice reimbursement from you of TeenVoice’s arbitration filing fees and costs.
+Offer of Settlement. Each of you and TeenVoice may, but is not obligated to, make a written offer to settle your claim at least 14 days before the arbitration hearing date. The amount or terms of any settlement offer may not be disclosed to the arbitrator until after the arbitrator issues an award on the claim. If an award is issued in a party’s favor but is less than the other party’s settlement offer, the arbitrator may order such party to pay the arbitration costs incurred by such other party after its offer was made, unless otherwise prohibited by the underlying law governing your claim.
+Class Action Waiver. YOU AND TEENVOICE AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY LAW, EACH OF YOU AND TEENVOICE MAY BRING CLAIMS (WHETHER IN COURT OR IN ARBITRATION) AGAINST THE OTHER ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF, CLAIMANT, OR CLASS MEMBER IN ANY PURPORTED CLASS, COLLECTIVE, CONSOLIDATED, COORDINATED, PRIVATE ATTORNEY GENERAL, REQUEST FOR PUBLIC INJUNCTIVE RELIEF, OR REPRESENTATIVE PROCEEDING. This also means that you and TeenVoice may not participate in any class, collective, consolidated, coordinated, private attorney general, request for public injunctive relief, or representative proceeding brought by any third party. Notwithstanding this provision or any other language in these Commercial Terms, you or TeenVoice may participate in a class-wide settlement. TO THE FULLEST EXTENT PERMITTED BY LAW, YOU AND TEENVOICE WAIVE ANY RIGHT TO A JURY TRIAL.
+Effect of Changes on Arbitration. Notwithstanding the provisions of the “Changes to These Commercial Terms” Section, if TeenVoice modifies any terms of this “Arbitration” Section after the date you first accepted these Commercial Terms or any subsequent changes to these Commercial Terms, you may reject the new changes to this “Arbitration” Section by sending us written notice, personally signed by you, by certified mail to the attention of TeenVoice’s Legal Department at the at the following address within 30 days of the date such change became effective, as indicated by the “Last Modified” date of the Commercial Terms you seek to reject: 33 Arch Street, Suite 2100, Boston, MA 02110. Even if you reject a change, you will remain subject to this “Arbitration” Section of the last version of the Commercial Terms you had accepted.
+Severability. If, after exhaustion of all appeals, a court finds any part of this “Arbitration” Section unenforceable as to any claim or request for a remedy, then you and TeenVoice agree to arbitrate all claims and remedies subject to arbitration before litigating in court any remaining claims or remedies; all other claims (or requests for relief) remain subject to this “Arbitration” Section, and all other Commercial Terms shall continue to be enforceable and valid.
+Third-Party Beneficiaries. All TeenVoice Parties are intended third-party beneficiaries of this “Arbitration” Section.
+Copyright Infringement
+
+TeenVoice takes copyright infringement seriously and complies with the Digital Millennium Copyright Act (DMCA). If you believe that any of the Materials or User Content available through, or displayed on, the Services violates your copyright, please notify us at support@teenvoice.com, and submit a notice to our authorized copyright agent, who will accept and review all claims submitted to it. In order for us to take action upon receiving such notice, the notice must contain the following:
+
+A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material;
+Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;
+A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; or
+A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized.
+
+Please submit your notice to:
+
+NextGen Insights Group LLC dba TeenVoice
+Legal Department
+33 Arch Street
+Suite 2100
+Boston, MA 02110
+
+Upon receiving notice in accordance with 17 U.S.C.A. § 512(c)(3) that such Materials are infringing, we will expeditiously take down such Materials.
+
+It is our policy to terminate the user accounts of repeat or intentional infringers.
+
+Miscellaneous
+Supplemental Terms. When using the Services, you agree to comply with and are subject to any posted guidelines, rules, or supplemental terms applicable to such Services, as may be posted from time to time. All such guidelines, rules, or terms are hereby incorporated by reference into these Commercial Terms. To the extent that you are asked to review and accept any supplemental terms that expressly conflict with these Commercial Terms, the supplemental terms associated with the applicable portion of the Services govern with respect to your use of such portion of the Services to the extent of the conflict.
+Section Headers. Section headers are provided for convenience and do not affect the interpretation of any provision or the rights of any party.
+Interpretation. For purposes of interpreting these Commercial Terms, all references to “including” shall be understood to mean “including but not limited to”.
+Entire Agreement; No Assignment. These Commercial Terms constitute the sole and entire agreement between you and TeenVoice with respect to the Services and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, with respect to the Services. These Commercial Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by TeenVoice without restriction. These Commercial Terms operate to the fullest extent permissible by law.
+No Joint Venture, Partnership, Employment, or Agency Relationship. You agree that no joint venture, partnership, employment, or agency relationship exists between you and TeenVoice as a result of these Commercial Terms or your access to and use of the Services.
+Severability. If any provision of these Commercial Terms is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of these Commercial Terms will continue in full force and effect.
+No Waiver. No waiver by TeenVoice of any term or condition set forth in these Commercial Terms shall be deemed a further or continuing waiver of such term or condition, or a waiver of any other term or condition, and any failure of TeenVoice to assert a right or provision under these Commercial Terms shall not constitute a waiver of such right or provision.
+Governing Law; Exclusive Jurisdiction. These Commercial Terms shall be interpreted in accordance with the internal laws of the Commonwealth of Massachusetts without giving effect to any choice or conflict of law provision or rule, whether of the Commonwealth of Massachusetts or any other jurisdiction. You agree that any legal suit, action, or proceeding arising out of, or related to, these Commercial Terms or the Services that is not resolved by binding arbitration as set forth above will be instituted exclusively in the federal and state courts located in Suffolk County of the Commonwealth of Massachusetts. However, subject to the arbitration provisions set forth above, we retain the right to bring any suit, action, or proceeding against you for breach of these Commercial Terms in your state of residence or any other relevant state. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+The Services are operated by NextGen Insights Group LLC dba TeenVoice, 33 Arch Street, Suite 2100 Boston, MA 02110. All feedback, comments, requests for technical support, and other communications relating to the Services should be directed to: support@teenvoice.com.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'nextgen',
+  'llc',
+  'dba',
+  'wwwteenvoicecom',
+  'de-identified',
+  'reidentify',
+  '18',
+  'andor',
+  'supportteenvoicecom',
+  'non-refundable',
+  'pre-authorization',
+  'teenvoices',
+  'cancelation',
+  'paymentsteenvoicecom',
+  'licensors',
+  'short-term',
+  're-use',
+  'spam',
+  'e-mail',
+  'entitys',
+  'real-time',
+  'trojan',
+  'denial-of-service',
+  'timelines',
+  'personally-identifying',
+  'non-exclusive',
+  'royalty-free',
+  'sublicensable',
+  'timeframe',
+  'partys',
+  'syndicators',
+  'aggregators',
+  'non-infringement',
+  'error-free',
+  '100',
+  'opt-out',
+  '33',
+  '2100',
+  'boston',
+  '02110',
+  'good-faith',
+  '60',
+  'nam',
+  'wwwnamadrorg',
+  '1-800-358-2550',
+  '25',
+  '60-day',
+  'httpswwwnamadrcomresourcesrules-fees-forms',
+  '50',
+  '120',
+  'pre-hearing',
+  '45',
+  'unbatched',
+  '14',
+  'class-wide',
+  '30',
+  'severability',
+  'dmca',
+  '17',
+  'usca',
+  '512c3',
+  'infringers',
+  'massachusetts',
+  'suffolk',
+  'evolveme',
+  'future-planning'
+]

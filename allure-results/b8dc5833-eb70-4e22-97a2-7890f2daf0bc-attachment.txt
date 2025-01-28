@@ -1,0 +1,81 @@
+Executing link 55 of 65: https://www.teenvoice.com/insights/teen-voice-article-teens-tune-into-politics-even-before-they-can-vote
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+Teens Tune Into Politics Even Before They Can Vote
+
+PUBLISHED DATE: OCTOBER 8, 2024
+
+Teens Tune Into Politics Even Before They Can Vote
+Today's teens aren't waiting until they’re 18 to engage in politics. According to our latest survey of 1,783 teens, a solid 79% say it's crucial to start paying attention to politics before they're even old enough to vote, and 59% already know who they would vote for in the 2024 presidential election. "I think it's so important for younger generations to understand politics because we're the future of the world," says a 17-year-old Asian female from Massachusetts.
+Starting Young
+For many teens, the time to start tuning in is now. Twenty-eight percent say ages 14-15 is prime time to dive into political issues, while another 26% think 16-17 is just right. "Understanding political developments helps me make informed decisions, participate actively in civic duties, and engage in meaningful discussions about important topics affecting our community and the world," says a 14-year-old male from Colorado.
+
+Of course, not all teens are rushing to engage. A 14-year-old White male from North Carolina takes a laid-back approach: "I prefer to let the adults worry about that stuff."
+Issues Teens Care About
+Economy (63%) Even though most teens aren't working full-time, the economy is still a significant stressor. A 15-year-old Black male from Connecticut worries the election “will change the landscape of the economy.” Others have more specific concerns. "Taxes are super confusing," admits a 17-year-old Black female from Florida. "All I know is that my paychecks were getting $100 or $150 taken out. I can only imagine adult paycheck deductions."
+
+- Women's Health & Reproductive Rights (60%) It's been two years since the Supreme Court overturned Roe v Wade, but time hasn't made the issues of abortion and reproductive rights any less worrisome to teens. A 15-year-old Black female from California says, "The election will change history forever for women."
+
+- Racial & Ethnic Inequality (58%) Like the 15-year-old White male from California who fears the election will lead to fewer human rights, social justice is a driving force for many teens. Says a 17-year-old White female from Colorado, “I care most about equal access to healthcare and other things that should be rights.”
+Gender Divide
+While teens share a lot of common ground, there are some gender differences in what sparks their interest. For example, more female teens are focused on women's health (68%) and gun control (57%) than their male peers (48% and 44%, respectively).
+The Future Is Now
+This survey makes clear that today's teens are already thinking about tomorrow. From social justice to the economy, they're fired up, informed, and ready to shape the world they're inheriting. "I know these political issues will eventually affect me and my family," says a 15-year-old Asian female from Michigan.
+
+Still, not everyone's jumping in without hesitation. As a 17-year-old Black male from Florida says, “Political issues and events are interesting because they involve things that directly impact my life; however, they're tiring and mentally fatiguing because of polarization.”
+Key Takeaways
+Early Engagement: More than half (79%) of teens believe it's important to engage with politics before voting age, with most suggesting ages 14-17 as ideal starting points.
+
+Issue Priorities: Top concerns among teens are:
+
+
+Economy/inflation (63%)
+
+
+Women's health and reproductive rights (60%)
+
+
+Racial and ethnic inequality (58%)
+
+Gender Differences: Female teens prioritize women’s health and gun control more than males.
+
+Future Focused: Teens are focused on how today's political issues will impact their future.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'october',      'theyre',          '18',
+  '1783',         '79',              '59',
+  '17-year-old',  'asian',           'massachusetts',
+  'twenty-eight', '14-15',           '26',
+  '16-17',        '14-year-old',     'colorado',
+  'carolina',     'laid-back',       '63',
+  'full-time',    'stressor',        '15-year-old',
+  'connecticut',  'florida',         '100',
+  '150',          '60',              'california',
+  '58',           'healthcare',      '68',
+  '57',           '48',              '44',
+  'michigan',     '14-17',           'economyinflation',
+  'evolveme',     'future-planning'
+]

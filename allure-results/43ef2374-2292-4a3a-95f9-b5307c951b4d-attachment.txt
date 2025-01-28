@@ -1,0 +1,73 @@
+Executing link 38 of 65: https://www.teenvoice.com/reports/how-teens-explore-and-choose-careers-ed-tech
+Extracted Page Text: FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+FUTURE PREPAREDNESS
+
+How Teens Explore and Choose Careers
+
+REPORT
+
+$450.00 (EXCL.TAX)
+
+ADD TO CART
+
+Description
+
+Teens are navigating a world of career possibilities using the tools they know best. They’re Googling job descriptions, watching YouTube tutorials, and even using TikTok for advice. But with so many options, many feel stuck or overwhelmed. Based on a survey of over 2,000 teens, this report provides insights into how they explore careers, equipping you with a better understanding of their needs and behaviors.
+
+Use this report to: 
+
+- Learn how teens engage with digital platforms for career exploration.  
+
+- Spot untapped opportunities, like connecting teens to hands-on experiences like internships.  
+
+- Understand how time constraints and lack of awareness create barriers to exploration.
+
+ 
+
+1 OF 2
+
+Learn About Our Research
+
+Our reports provide insights based on speaking directly to teens. We go beyond asking comprehensive questions - we write teen-friendly copy to encourage their participation. Our analysis leads to actionable insights that illustrate what it's really like to be a teen today.
+
+Types of Reports
+
+TeenVoice provides a range of different reports to meet your needs, including short articles, topical and thematic deep-dive focus reports, and comprehensive landscape reports tailored to industry needs.
+
+Our Methodology
+
+We generate detailed insights in our reports by asking topical questions in a teen-friendly voice to a nationally representative sample of over 2,000 teens. We perform rigorous analysis to provide views based on age, gender, race, and more.
+
+Expert Insights
+
+With a combined 40 years in higher education, conducting consumer research, and studying human behavior, our staff of expert researchers and PhDs know how to talk to teens and craft actionable insights from their responses.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  '45000',         'excltax',
+  'theyre',        'googling',
+  'tiktok',        'hands-on',
+  'teen-friendly', 'deep-dive',
+  '40',            'phds',
+  'evolveme',      'future-planning'
+]

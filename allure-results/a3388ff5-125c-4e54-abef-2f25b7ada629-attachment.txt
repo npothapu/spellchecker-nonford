@@ -1,0 +1,87 @@
+Executing link 46 of 65: https://www.teenvoice.com/insights/what-teens-resolve-to-do-in-2025-big-ambitions-relatable-struggles
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+What Teens Resolve to Do in 2025: Big Ambitions, Relatable Struggles
+
+PUBLISHED DATE: JANUARY 3, 2025
+
+What happens when you ask hundreds of teens about their hopes, dreams, and plans for the new year? You get a glimpse into the aspirations of a generation juggling big ambitions with everyday challenges. Our survey of 252 teens reveals the resolutions shaping 2025—from saving money and improving mental health to mastering pull-ups and excelling in school.
+First, A Look Back
+For teens, 2024 was a mixed bag. Friends and school were the year’s highlights, with 21% naming friends as the best part and 20% pointing to school. But here’s the twist—school also landed among the worst parts of 2024, tied with mental health as a top challenge (21% each). For many teens, these struggles fuel their determination to make 2025 better.
+Why Teens Set Resolutions
+Resolutions aren’t just a trend for teens—they’re a way to grow, challenge themselves, and take charge of their future. Half of the surveyed teens say they set resolutions to challenge themselves or work on self-improvement, while 42% are driven by a specific goal.
+
+For some, it’s about pushing boundaries. “I resolve to be the best in all I lay my hands on,” shared a 17-year-old White male from Arizona. Others focus on practical, life-changing goals, like a 14-year-old Black female from Texas who simply wants to “make a step on my mental health.”
+Top Resolutions for 2025
+Financial
+
+Saving money is a top priority for 2025, with 39% of teens resolving to boost their bank accounts. Around a quarter (28%) are even thinking about investing. Many have specific goals in mind. “I’m saving for a new car,” said a 15-year-old Black female from New Jersey, blending big dreams with careful planning.
+
+That said, teens find meeting financial goals particularly difficult. Thirty-four percent rate them the hardest to keep, but the determination to build financial independence drives many to give it their best shot.
+
+Mental Health and Wellness
+
+Mental health remains a top priority for teens, with 32% resolving to focus on self-care and emotional well-being in 2025. For an 18-year-old Hispanic female from Texas, this means working to “get closer with my people,” reflecting a desire for stronger connections and a healthier mindset.
+
+Physical health follows closely, as nearly a quarter (24%) are setting fitness goals that range from building strength to improving their diet. “I want to be able to do eight pull-ups by the end of the year,” shared a 14-year-old White female from Tennessee, hoping that a specific, tangible milestone will inspire change.
+
+For many teens, mental and physical health are intertwined. A 14-year-old Black male from Florida captured this holistic view, saying he’ll “focus on mental health, fitness, and happiness.”
+
+Academic and Skill-Building Goals
+
+Academics remain a cornerstone of teens’ resolutions, with 35% aiming for better grades or higher achievements like a 4.0 GPA. “Graduating high school and starting college” is the dream for an 18-year-old Black female from North Carolina.
+
+Meanwhile, skill-building also takes center stage, with 31% wanting to learn a new activity or hobby. A 19-year-old Black male from Texas said he plans to “learn a technical skill, invest, and work out daily,” embodying this generation’s multifaceted ambitions.
+How Teens Plan to Achieve Their Resolutions
+Teens aren’t just dreamers—they’re planners. Two-thirds (67%) say they’ll create a schedule to stay on track, while nearly half (47%) will seek support from friends and family. Apps and digital tools are also popular, with 38% using them to track progress.
+
+Despite their optimism, teens know it won’t be easy. Distractions (35%) and shifting priorities (28%) loom as the biggest obstacles. But they’re confident in their ability to succeed—39% believe they’re better at sticking to resolutions than most people.
+Curious about how teens plan for their future?
+
+Download the Full Report
+
+Need insights tailored to your business? Use our custom survey builder to get the answers you need.
+
+Connect With Teens Now
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'relatable',      'january',          '252',
+  '2025from',       'pull-ups',         '21',
+  '20',             'twistschool',      'arent',
+  'teenstheyre',    'self-improvement', '42',
+  '17-year-old',    'arizona',          'life-changing',
+  '14-year-old',    'texas',            '39',
+  '28',             'im',               '15-year-old',
+  'thirty-four',    '32',               'self-care',
+  'well-being',     '18-year-old',      'hispanic',
+  '24',             'tennessee',        'florida',
+  'skill-building', '35',               '40',
+  'gpa',            'carolina',         '31',
+  '19-year-old',    'dreamerstheyre',   'two-thirds',
+  '67',             'theyll',           '47',
+  'apps',           '38',               'theyre',
+  'succeed39',      'evolveme',         'future-planning'
+]

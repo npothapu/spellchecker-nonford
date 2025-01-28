@@ -1,0 +1,5 @@
+Distinct misspelled words on https://www.teenvoice.com/login#sign-up: [ 'companyorganization' ]
+Error checking link https://www.teenvoice.com/login#sign-up: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 1

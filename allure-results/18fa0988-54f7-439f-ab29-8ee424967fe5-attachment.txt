@@ -1,0 +1,83 @@
+Executing link 33 of 65: https://www.teenvoice.com/reports/how-teens-cope-with-stress-and-anxiety-general
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+MENTAL WELLNESS
+
+How Teens Cope With Stress and Anxiety
+
+REPORT
+
+$450.00 (EXCL.TAX)
+
+ADD TO CART
+
+Description
+
+Teens are facing a mental health crisis unlike any generation before. The pressures of academics, social media, and an uncertain future have left many struggling to manage their stress and anxiety. Our survey of 2,000+ teens uncovers how they’re coping and the role of support systems in their lives.
+
+Key Insights:
+
+Explore the top stressors in teens’ lives and how they impact mental health.
+
+Learn what teens do to cope with anxiety.
+
+Discover what they know about healthy strategies and how often they use them.
+
+Understand the barriers to mental health support, including stigma and access.
+
+This report offers an understanding of today’s teens’ challenges and what needs to be done to support their mental well-being.
+
+ 
+
+1 OF 2
+
+Learn About Our Research
+
+Our reports provide insights based on speaking directly to teens. We go beyond asking comprehensive questions - we write teen-friendly copy to encourage their participation. Our analysis leads to actionable insights that illustrate what it's really like to be a teen today.
+
+Types of Reports
+
+TeenVoice provides a range of different reports to meet your needs, including short articles, topical and thematic deep-dive focus reports, and comprehensive landscape reports tailored to industry needs.
+
+Our Methodology
+
+We generate detailed insights in our reports by asking topical questions in a teen-friendly voice to a nationally representative sample of over 2,000 teens. We perform rigorous analysis to provide views based on age, gender, race, and more.
+
+Expert Insights
+
+With a combined 40 years in higher education, conducting consumer research, and studying human behavior, our staff of expert researchers and PhDs know how to talk to teens and craft actionable insights from their responses.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  '45000',
+  'excltax',
+  'theyre',
+  'stressors',
+  'well-being',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]

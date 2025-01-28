@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.teenvoice.com/features: [
+  'teensare',
+  'evolveme',
+  'gamified',
+  'incentivized',
+  'youll',
+  '1-2',
+  'always-growing',
+  'easy-to-use',
+  'non-researchers',
+  'pro-tips',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/features: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 11

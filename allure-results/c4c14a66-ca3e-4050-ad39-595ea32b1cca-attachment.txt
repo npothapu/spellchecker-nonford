@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.teenvoice.com/legal/privacy-policy: [
+  'july',                '12',
+  'nextgen',             'llc',
+  'dba',                 'de-identify',
+  'de-identified',       'deidentified',
+  'reidentify',          'sign-in',
+  'username',            'ach',
+  'ip',                  'purposeactivity',
+  'enquired',            'andor',
+  'single-sign',         'youve',
+  'high-quality',        'abovementioned',
+  'do-not-track',        '13',
+  'anonymize',           '100',
+  'supportteenvoicecom', '33',
+  '2100',                'boston',
+  '02110',               'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/legal/privacy-policy: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 31

@@ -1,0 +1,67 @@
+Executing link 43 of 65: https://www.teenvoice.com/insights/2025-teen-trends-wellness-and-personal-growth-are-in
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+2025 Teen Trends: Wellness and Personal Growth Are “In”
+
+PUBLISHED DATE: JANUARY 14, 2025
+
+When we asked teens what’s trending in 2025, the answers went deeper than fashion or viral challenges – they shared their aspirations. “Growth and development … striving to be better version of myself,” says one 16-year-old female from California, in what feels more like a New Year's resolution than a trend prediction.
+
+This self-improvement mindset drives what teens say is “in” for 2025:
+83% say skincare
+78% point to boundary-setting
+74% prioritize sleep
+
+It's not just talk – McKinsey's Future of Wellness report confirms that Gen Z and millennials are now the biggest spenders on wellness products and services across global markets.
+
+
+Beyond Wellness
+What else is “in” for 2025? Sustainability and self-expression continue to shape teen culture:
+70% say thrifted clothing is trending
+68% love using real cameras for authentic content
+67% embrace gender-neutral fashion
+What's Out
+When asked what's “out” in 2025, teens focused less on specific trends and more on attitudes they're leaving behind. A 16-year-old from Texas is done with “being lazy, hating, bullying, and putting people down.”
+
+Fashion-wise, early 2000s styles are losing steam, with fewer than half of teens considering them relevant. Social media habits are shifting too. A 14-year-old male from Colorado predicts more “goal-setting and trying to be less online.”
+The Verdict
+For 2025, authenticity and growth are the new benchmarks of “cool.” Teens are rewriting what it means to be trendy – by putting their well-being front and center.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'january',          '14',
+  '16-year-old',      'california',
+  'self-improvement', '83',
+  '78',               'boundary-setting',
+  '74',               "mckinsey's",
+  'millennials',      'self-expression',
+  '70',               'thrifted',
+  '68',               '67',
+  'gender-neutral',   'texas',
+  'fashion-wise',     '2000s',
+  '14-year-old',      'colorado',
+  'goal-setting',     'well-being',
+  'evolveme',         'future-planning'
+]

@@ -1,0 +1,21 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teen-voice-article-presidential-election-has-teens-on-edge: [
+  'october',     'september',       '1783',
+  'inand',       'outby',           '51',
+  '17-year-old', 'california',      '37',
+  '24',          'nonbinary',       '29',
+  '16',          '44',              '28',
+  '36',          'texas',           'sentiment68',
+  '16-year-old', 'asian',           'colorado',
+  'one-third',   '13-year-old',     'utah',
+  '15-year-old', 'hispanic',        "i'll",
+  '18',          'anti-trans',      'transgender',
+  '18-year-old', 'virginia',        "teens'",
+  '10',          'louisiana',       '62',
+  '42',          'gender-based',    '48',
+  '27',          '19',              "america's",
+  'evolveme',    'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teen-voice-article-presidential-election-has-teens-on-edge: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 44

@@ -1,5 +1,0 @@
-Distinct misspelled words on https://www.vml.com/offices: [ 'asia', 'europe', 'africa', 'latin', 'america' ]
-Error checking link https://www.vml.com/offices: expect(received).toBe(expected) // Object.is equality
-
-Expected: 0
-Received: 5

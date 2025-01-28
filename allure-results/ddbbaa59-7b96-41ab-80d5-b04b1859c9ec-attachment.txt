@@ -1,0 +1,86 @@
+Executing link 41 of 65: https://www.teenvoice.com/insights/How-teens-really-feel-about-a-potential-tiktok-ban
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+How Teens Really Feel About a Potential TikTok Ban
+
+PUBLISHED DATE: JANUARY 16, 2025
+
+The clock is ticking for TikTok. If a federal ban goes into effect this Sunday, millions of American teens could lose access to the short video platform they’ve grown to love – or love to hate. To understand their thoughts on what many consider a digital home, we surveyed 504 teens aged 13 to 19 – and one thing is clear: teens are paying close attention.
+
+Nearly all respondents (97%) are aware of TikTok’s legal troubles, though their depth of understanding varies. While 39% report knowing that it involves a proposed ban, 44% admit they’re aware of the situation but unclear on the specifics.
+Beyond Entertainment: What Teens Fear Losing
+Our research reveals three major concerns as teens face a TikTok-free future.
+
+First, there’s the fear of losing a sense of community. "It’s not just people on an app – it’s more like a family," says a 15-year-old from North Dakota. "I’ve learned so much. It’s just all gonna be gone."
+
+Second, teens worry about the economic impact on content creators who rely on TikTok for income and exposure.
+
+And finally, many view TikTok as an essential source of information. "We get a lot of news from TikTok, so not having it would leave us 'in the dark' about certain things," explains a 17-year-old from New York.
+Skepticism and Resistance
+Despite the looming deadline, many teens are skeptical the ban will actually happen – or question its rationale.
+
+"They’re not really going to do it," insists a 17-year-old from Indiana. "They’ve threatened before and never followed through, so I don’t believe they will now."
+
+The government’s priorities also draw sharp criticism. "They should be focusing on issues that actually matter, like gun laws, climate change, and the economy," says a 15-year-old from Washington.
+
+A 16-year-old from Florida is even more pointed: "The government should be concerned with actual problems instead of banning something they barely know how to use. A kid like me shouldn’t be more mature than a fossil in Congress."
+Silver Linings
+Amid the outcry, some teens see potential upsides to a TikTok ban. "I don’t really mind. I think productivity will increase without all the mindless doomscrolling," says an 18-year-old from California.
+
+Mental health concerns feature prominently among ban supporters. "To be honest, I’m kind of glad TikTok is getting banned – it’s made me compare myself to others too much," shares a 13-year-old from Michigan.
+
+For some, the ban represents a chance for a fresh start. "I’ve tried to quit TikTok to reduce my screen time, but it’s been tough," says a 19-year-old from Michigan. "Maybe this will help."
+Planning for What’s Next
+Teens aren’t waiting for Sunday to make backup plans.
+
+About 39% say they’ll migrate to other platforms, with Instagram (54%), YouTube Shorts (41%), and Snapchat (39%) leading the way. But not everyone is eager to flock to established giants. "A lot of people would prefer a new platform over Instagram or Facebook because of their controversial owner," says a 15-year-old from Washington.
+
+What do teens want in a replacement platform? TikTok-like features remain key: 42% want an algorithm-driven “For You” feed, 37% crave creative editing tools, and 36% are drawn to the possibility of going viral. The platform may change, but the desire for personalized, engaging content remains constant.
+A Generation Divided
+As Sunday’s deadline approaches, teen opinions remain sharply split. "I hope it gets banned. It fries people’s minds," says an 18-year-old from Kentucky. But for others, the ban feels like an attack on their digital culture and community.
+
+Either way, they aren’t passively accepting the situation. They’re critically engaging with the debate, weighing the consequences, and already preparing for what comes next – whatever that may be.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'tiktok',           'january',     '16',
+  'sunday',           'american',    'theyve',
+  '504',              '13',          '19',
+  '97',               'tiktoks',     '39',
+  '44',               'theyre',      'tiktok-free',
+  'app',              '15-year-old', 'dakota',
+  'ive',              "'in",         "dark'",
+  '17-year-old',      'york',        'indiana',
+  'dont',             'washington',  '16-year-old',
+  'florida',          'shouldnt',    'doomscrolling',
+  '18-year-old',      'california',  'im',
+  '13-year-old',      'michigan',    '19-year-old',
+  'arent',            'theyll',      'instagram',
+  '54',               '41',          'snapchat',
+  'facebook',         'tiktok-like', '42',
+  'algorithm-driven', '37',          '36',
+  'sundays',          'kentucky',    'evolveme',
+  'future-planning'
+]

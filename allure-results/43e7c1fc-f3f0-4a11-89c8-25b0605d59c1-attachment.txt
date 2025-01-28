@@ -1,0 +1,7 @@
+folderpath:C:\2025Playwright-Projects\spellchecker-nonford\data\url_batches\teenvoice
+Dirname:C:\2025Playwright-Projects\spellchecker-nonford\tests
+Checking https://www.teenvoice.com/legal/privacy-policy - Status: 200
+Checking https://www.teenvoice.com/ - Status: 200
+Checking https://www.teenvoice.com/features - Status: 200
+Checking https://www.teenvoice.com/insights - Status: 200
+Checking https://www.teenvoice.com/about-us - Status: 200

@@ -1,0 +1,71 @@
+Executing link 51 of 65: https://www.teenvoice.com/insights/teen-voice-article-cringey-or-cool-what-teens-really-think-about-trendiness-in-ads
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+CRINGEY OR COOL? What Teens Really Think About Trendiness in Ads
+
+PUBLISHED DATE: NOVEMBER 26, 2024
+
+Nothing catches a marketer's attention quite like a shiny new trend. But trend hopping comes with significant risks, especially today, as viral moments catch fire and flame out faster than you can flick a BIC.
+
+In October, we surveyed 1,971 13- to 19-year-olds about brands using trends in their ads. Their responses ranged from enthusiasm to eye rolls. Some teens appreciate the effort. “It’s cool because it shows that the brand knows what's recent and how to get some people's attention,” says a 14-year-old White male from Texas. But others, like this 16-year-old White female in Iowa, offer some pretty colorful critiques, “It's like your parent wearing a crop top,” she says. “You can't stop them from doing it, but you don't have to like it.”
+Cultural Connection Over Viral Tricks
+While many marketing strategies focus on leveraging the latest TikTok features or Instagram filters, the data shows teens are increasingly drawn to broader cultural movements. Music-related trends lead the pack, with 55% of teens responding positively, while only 25% appreciate video filters and 28% connect with trending audio overlays.
+
+Some tactics consistently resonate: humor plays a significant role in teens' positive reception of trend-based ads, with females particularly favoring funny content (45%). Nearly the same number of teens think it's cool when brands change their logos to incorporate trends (48%) and recreate viral videos featuring their products (47%).
+
+Using slang is an “enter at your own risk” kind of situation. The data shows an almost even split, with 32% of teens calling it cool and similar numbers finding it cringe-worthy. “Who's in charge of their marketing team?” asks a 15-year old Hispanic female from Georgia. “I know young people are the main target audience, but like, using our slang is kind of desperate.”
+
+One significant insight from our survey is how quickly teens tire of trends once they hit the mainstream. Oversaturation, association with older audiences, or being co-opted by influencers can rapidly make a trend uncool. “When brands use trends after they've been around for more than two weeks, it becomes old, and it just seems cringey, like with the “very demure and mindful” trend, says a 15-year-old Hispanic female in Texas.
+For trend use to feel authentic, the research identified three critical elements:
+
+1. Natural Product Integration: When brands force their products into trends artificially, 43% of teens react negatively. A 17-year-old White female from Indiana explains: “I think it is out of touch or not cool whenever the trend isn't relative to the item they're trying to sell.”
+
+2. Brand Alignment: Forty-two percent of teens dislike when companies use trends that do not relate to their brand identity. The expectations vary by industry—82% of teens expect entertainment companies to engage with trends, while only 56% expect it from financial services.
+
+3. The Right Tone: Teens sense when brands are pandering to them. A 17-year-old Hispanic female in New Jersey says she doesn’t like ads that are “…clearly written by old men that have no idea how Gen Z or Gen Alpha actually act.”
+
+Perhaps the most useful piece of advice one can take from the survey is to check in with teens. “Don't just grab a random person and force them to do a TikTok trend,” says a 16-year-old male from Massachusetts. “Have a young kid watch the ad and tell you if it's cringey before posting. It's not hard.”
+
+Want direct insights from teens? Use our custom survey builder to define your target audience and connect with engaged teens to get the answers you need.
+
+**CONNECT WITH TEENS NOW **
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'cringey',       'november',       '26',
+  'bic',           'october',        '1971',
+  '13-',           '19-year-olds',   '14-year-old',
+  'texas',         '16-year-old',    'iowa',
+  'tiktok',        'instagram',      'music-related',
+  '55',            '25',             '28',
+  "teens'",        'trend-based',    '45',
+  '48',            '47',             '32',
+  'cringe-worthy', '15-year',        'hispanic',
+  'georgia',       'oversaturation', 'co-opted',
+  'influencers',   '15-year-old',    '43',
+  '17-year-old',   'indiana',        'forty-two',
+  'industry82',    '56',             'doesnt',
+  'massachusetts', 'evolveme',       'future-planning'
+]

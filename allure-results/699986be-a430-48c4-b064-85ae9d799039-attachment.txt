@@ -1,0 +1,71 @@
+Executing link 23 of 65: https://www.teenvoice.com/reports/student-wellness-in-a-digital-era
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+MENTAL WELLNESS
+
+Student Wellness in a Digital Era
+
+REPORT
+
+$1,500.00 (EXCL.TAX)
+
+ADD TO CART
+
+Description
+
+Today’s teens face challenges that are both reminiscent of and different from those faced by Millennials and Gen X. Like their predecessors, today’s teens are thinking about the future and balancing their busy social lives with school. But today’s teens grew up as digital natives with social media at their fingertips, and their use of digital and online spaces to socialize and connect with others only grew during a pandemic that isolated them physically. And now more than ever, teens face social and political upheaval that impacts nearly every aspect of their lives.
+ 
+With all of these challenges, how are teens doing? What is their mental health like and how do the ways they spend their time – in-person or online – impact it? How do social media and time online help or hinder teens’ well-being? Delve into teens’ brains to learn about their well-being, how digital tools can help them, pitfalls to avoid in their online world, and how teens navigate their increasingly hectic lives.
+
+1 OF 4
+
+Learn About Our Research
+
+Our reports provide insights based on speaking directly to teens. We go beyond asking comprehensive questions - we write teen-friendly copy to encourage their participation. Our analysis leads to actionable insights that illustrate what it's really like to be a teen today.
+
+Types of Reports
+
+TeenVoice provides a range of different reports to meet your needs, including short articles, topical and thematic deep-dive focus reports, and comprehensive landscape reports tailored to industry needs.
+
+Our Methodology
+
+We generate detailed insights in our reports by asking topical questions in a teen-friendly voice to a nationally representative sample of over 2,000 teens. We perform rigorous analysis to provide views based on age, gender, race, and more.
+
+Expert Insights
+
+With a combined 40 years in higher education, conducting consumer research, and studying human behavior, our staff of expert researchers and PhDs know how to talk to teens and craft actionable insights from their responses.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  '150000',
+  'excltax',
+  'millennials',
+  'in-person',
+  'well-being',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]

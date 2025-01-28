@@ -1,0 +1,12 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teen-voice-article-teens-and-social-media-its-complicated: [
+  'october',
+  '23',
+  'butwhatever',
+  'goodmost',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teen-voice-article-teens-and-social-media-its-complicated: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 6

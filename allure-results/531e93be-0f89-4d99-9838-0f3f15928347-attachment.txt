@@ -1,0 +1,24 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/what-makes-gen-z-open-their-wallets: [
+  'january',         '10',
+  '1004',            'eye-opening',
+  'sandlers',        'self-reported',
+  '2361',            'tiktok',
+  'instagram',       'influencers',
+  '50',              '38',
+  '53',              '47',
+  'zs',              'nike',
+  '42',              'go-to',
+  'adidas',          'nikes',
+  'gucci',           'fast-fashion',
+  'shein',           'zara',
+  'sandler',         '342',
+  '2018',            'buzzworthy',
+  'budget-friendly', 'sephora',
+  'fenty',           'affordability',
+  'theyre',          'celebrity-founded',
+  'evolveme',        'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/what-makes-gen-z-open-their-wallets: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 36

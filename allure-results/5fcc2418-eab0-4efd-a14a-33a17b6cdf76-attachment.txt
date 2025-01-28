@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/today-s-stressors-for-teens-and-the-impact-on-their-wellness: [
+  'stressors',
+  '150000',
+  'excltax',
+  'far-reaching',
+  'well-being',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/today-s-stressors-for-teens-and-the-impact-on-their-wellness: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 11

@@ -1,0 +1,19 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/2025-teen-trends-wellness-and-personal-growth-are-in: [
+  'january',          '14',
+  '16-year-old',      'california',
+  'self-improvement', '83',
+  '78',               'boundary-setting',
+  '74',               "mckinsey's",
+  'millennials',      'self-expression',
+  '70',               'thrifted',
+  '68',               '67',
+  'gender-neutral',   'texas',
+  'fashion-wise',     '2000s',
+  '14-year-old',      'colorado',
+  'goal-setting',     'well-being',
+  'evolveme',         'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/2025-teen-trends-wellness-and-personal-growth-are-in: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 26

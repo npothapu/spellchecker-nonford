@@ -1,0 +1,58 @@
+Executing link 42 of 65: https://www.teenvoice.com/insights/what-teens-can-t-wait-to-read-watch-and-stream-in-2025
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+What Teens Can’t Wait to Read, Watch, and Stream in 2025
+
+PUBLISHED DATE: JANUARY 14, 2025
+
+When it comes to entertainment, teens have their sights set on a packed lineup of epic releases. According to our survey of 100 teens, their excitement for gripping fantasy reads, blockbuster movies and binge-worthy TV shows paints a vivid picture of what’s trending in 2025.
+Can’t Wait to Read
+A quarter of teens (25%) in our survey are eagerly awaiting new book releases, particularly within the fantasy, young adult fiction, and new adult genres (new adult books explore the transition into adulthood) . Graphic novels like Unfamiliar by Haley Newsome and continuations of beloved series, such as The Court of Thorns and Roses and Suzanne Collins' Sunrise on the Reaping (a Hunger Games prequel), top their reading lists.
+Can’t Wait To Watch on the Big Screen
+More than half the surveyed teens (51%) are counting down to their next big-screen adventure, especially live-action remakes and superhero sagas. A 17-year-old female from Ohio exclaimed, “Lilo & Stitch live-action – I can't wait!” Other must-sees include the long-awaited Avatar 3, the next chapter of Venom, and Disney’s Moana 2. Animated adaptations are also making waves, with a 13-year-old boy from Kansas saying, “The Dog Man movie is all anyone talks about at school!”
+Can’t Wait to Watch on the Small Screen
+Forty-two percent of teens are hyped for new TV releases, especially returning favorites. Streaming giants like Netflix dominate the list with shows like Squid Game, Outer Banks, and Wednesday. “'I’m counting down to Wednesday, season two,” said a 17-year-old female from Florida. Another popular pick is Outer Banks, with a 16-year-old female from Tennessee sharing, “Season four can’t come soon enough!”
+
+Other teens are looking forward to suspenseful finales and fresh installments of fan-favorite series like Stranger Things and The Summer I Turned Pretty.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'january',     '14',
+  '100',         'binge-worthy',
+  'tv',          '25',
+  'haley',       'newsome',
+  'suzanne',     "collins'",
+  '51',          'big-screen',
+  'live-action', '17-year-old',
+  'ohio',        'lilo',
+  'must-sees',   'long-awaited',
+  'disneys',     'moana',
+  '13-year-old', 'kansas',
+  'forty-two',   'netflix',
+  'wednesday',   "'im",
+  'florida',     '16-year-old',
+  'tennessee',   'fan-favorite',
+  'evolveme',    'future-planning'
+]

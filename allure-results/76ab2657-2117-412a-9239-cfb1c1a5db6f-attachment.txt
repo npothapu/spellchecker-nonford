@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/what-teens-resolve-to-do-in-2025-big-ambitions-relatable-struggles: [
+  'relatable',      'january',          '252',
+  '2025from',       'pull-ups',         '21',
+  '20',             'twistschool',      'arent',
+  'teenstheyre',    'self-improvement', '42',
+  '17-year-old',    'arizona',          'life-changing',
+  '14-year-old',    'texas',            '39',
+  '28',             'im',               '15-year-old',
+  'thirty-four',    '32',               'self-care',
+  'well-being',     '18-year-old',      'hispanic',
+  '24',             'tennessee',        'florida',
+  'skill-building', '35',               '40',
+  'gpa',            'carolina',         '31',
+  '19-year-old',    'dreamerstheyre',   'two-thirds',
+  '67',             'theyll',           '47',
+  'apps',           '38',               'theyre',
+  'succeed39',      'evolveme',         'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/what-teens-resolve-to-do-in-2025-big-ambitions-relatable-struggles: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 48

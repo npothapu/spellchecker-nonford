@@ -1,0 +1,83 @@
+Executing link 56 of 65: https://www.teenvoice.com/insights/teen-voice-article-presidential-election-has-teens-on-edge
+Extracted Page Text: FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+Presidential Election Has Teens on Edge
+
+PUBLISHED DATE: OCTOBER 8, 2024
+
+This report kicks off our election coverage, revealing key findings from our September study on teen political attitudes and behaviors. New insights will be released weekly until Election Day.
+Adults aren't the only ones feeling the weight of the upcoming election. Our recent study surveyed 1,783 teenagers and shows that teens are just as tuned in—and stressed out—by what's at stake. While many can't vote yet, their emotions and opinions give insight into the next generation of voters.
+High Impact, High Anxiety
+A striking 51% of teens rate the election's impact on their future as high” or “extreme.” “The election will have a huge impact on things like climate change and job opportunities, which are really important as I start thinking about my future,” says a 17-year-old White male from California. “It could also change how my generation deals with social issues and technology, shaping our lives in ways we might not fully understand yet.”
+What Are Teens Feeling?
+Concern: 37% of females, 24% of males, and 51% of nonbinary teens
+Anxiety: 29% of females, 16% of males, and 44% of nonbinary teens
+Confusion: 28% of females, 16% of males, and 36% of nonbinary teens
+What Are They So Worried About?
+- Their Rights
+
+“The election could either help me regain my rights or leave me scared to even leave my house,” says a 17-year-old Black female from Texas. This isn't an isolated sentiment—68% of teens say there's a lot at stake. For example, one 16-year-old Asian male from Colorado fears the election results could lead to his mother's deportation.
+
+- Their Future
+
+For many teens, this election isn't just about politics but their futures. About one-third of them believe it could affect their education and career prospects, with females and nonbinary teens showing heightened anxiety. “I think this election will decide if I can go to college or ever buy a house,” says a 13-year-old White female from Utah. Still, about a quarter of males also consider its impact on their futures. Says one 15-year-old Hispanic male from California, “I'll be turning 18 within the next president's term and their policies will either help or undermine the start of my adult life.”
+
+- Their Safety
+
+As anti-trans legislation continues to be introduced in many states, nonbinary and transgender teens are grappling with existential fears. “This election will literally determine whether it is still safe for me to even exist in this country anymore or not,” says an 18-year-old White nonbinary individual from Virginia. Another safety issue that looms large in teens' minds is school shootings. “With the amount of school shootings in the past 5 to 10 years, gun control is becoming more of a pressing issue,” says a 17-year-old White female from Louisiana.
+
+
+How's The Country Doing?
+We also asked teens about their attitudes about the country and the political climate overall. Most agree that the U.S. is too politically divided (62%); however, their optimism varies based on gender identity. For example, only 42% of teens believe the United States is generally fair and just, but male teens are nearly four times more likely than nonbinary teens to hold this view.
+
+Optimism about the country's direction shows similar gender-based disparities. Males are more likely to believe the country is changing for the better (48%) compared to females (27%) and those of another gender (19%).
+Key Takeaways
+Teens Feel the Election Has High Stakes: Most teens (51%) believe the election will significantly impact their lives.
+
+Rights & Safety: Personal freedoms and security are top concerns.
+
+Economic Anxiety: Fears about education costs and future opportunities are prevalent.
+
+Gender Shapes Outlook: Male teens show more optimism about America's present and future.
+
+
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'october',     'september',       '1783',
+  'inand',       'outby',           '51',
+  '17-year-old', 'california',      '37',
+  '24',          'nonbinary',       '29',
+  '16',          '44',              '28',
+  '36',          'texas',           'sentiment68',
+  '16-year-old', 'asian',           'colorado',
+  'one-third',   '13-year-old',     'utah',
+  '15-year-old', 'hispanic',        "i'll",
+  '18',          'anti-trans',      'transgender',
+  '18-year-old', 'virginia',        "teens'",
+  '10',          'louisiana',       '62',
+  '42',          'gender-based',    '48',
+  '27',          '19',              "america's",
+  'evolveme',    'future-planning'
+]

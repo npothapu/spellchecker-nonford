@@ -1,0 +1,15 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/understanding-student-needs-inside-and-outside-the-classroom: [
+  '99900',          'excltax',
+  'zs',             'decision-making',
+  'incentivized',   'higher-quality',
+  'ever-growing',   'real-time',
+  '40',             "z's",
+  "teens'",         'stressors',
+  'evidence-based', 'teen-friendly',
+  'deep-dive',      'phds',
+  'evolveme',       'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/understanding-student-needs-inside-and-outside-the-classroom: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 18

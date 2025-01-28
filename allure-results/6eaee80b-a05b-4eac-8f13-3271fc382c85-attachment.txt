@@ -1,0 +1,20 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teen-voice-article-chasing-the-dream-career-can-teens-balance-passion-and-practicality: [
+  'november',   '26',
+  'walletbut',  '43',
+  'outpacing',  '28',
+  '59',         '15-year-old',
+  'california', '18-year-old',
+  'texas',      'theyll',
+  '71',         '55',
+  '68',         '54',
+  'im',         '57',
+  'asian',      '61',
+  'theyre',     '42',
+  '73',         'well-paying',
+  '58',         '14-year-old',
+  'evolveme',   'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teen-voice-article-chasing-the-dream-career-can-teens-balance-passion-and-practicality: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 28

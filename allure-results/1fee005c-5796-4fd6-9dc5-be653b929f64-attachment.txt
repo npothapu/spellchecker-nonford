@@ -1,0 +1,65 @@
+Executing link 53 of 65: https://www.teenvoice.com/insights/teen-voice-article-where-teens-talk-politics
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+Where Teens Talk Politics
+
+PUBLISHED DATE: OCTOBER 21, 2024
+
+Politics permeates the daily lives of American teenagers, whether they actively seek it out or not. A recent survey of 1,790 teens reveals how discussions with family, friends, and teachers shape their political perspectives, while social media provides a platform for sharing and engaging with diverse opinions.
+Around the Dinner Table
+For many teens, political awareness begins at home. A significant 62% of those surveyed report having political discussions with their parents at least weekly. As a 13-year-old White male from Arizona explains, "I am interested in politics because my family cares about it." This sentiment is echoed by a 13-year-old female from California: "I hear about it all the time in my household, so I end up getting involved in the conversation, making me more and more interested."
+With Friends and at School
+Over half of the surveyed teens (52%) say they discuss politics with their friends at least weekly. A 14-year-old Asian male from Maryland, for example, says he stays up to date on political events specifically so he can participate in discussions with his peers. Even those not actively looking to talk about politics find it a frequent topic in class. A 15-year-old nonbinary Hispanic person notes, "It isn't something that comes up in conversations with my friends, but sometimes it comes up in news or in my Social Studies class."
+Sharing Views on Social Media
+Teens are more likely to share or repost political content they agree with (23%) than to create original content (18%). This preference for sharing curated content reflects a broader trend in social media use among teens. (To go deeper into teens social media habits, download our report.) The pressure to fit in also plays a significant role, with 15% of teens admitting they've been dishonest about their political opinions and 14% confessing they've exaggerated their knowledge to avoid seeming uninformed.
+Gender and Racial Disparities
+Generally, female teens are more likely to discuss politics with their families than males, with 40% of girls getting political information from their families compared to 28% of boys. Additionally, teens of color tend to engage more frequently in political discussions, particularly with their families, where 35% report receiving much of their political information.
+Key Takeaways
+Family Conversations Matter: Political awareness often begins at home, with 62% of teens engaging in weekly discussions with their parents.
+
+Outside The Home: Over half of the teens talk about politics with friends and encounter it through classes.
+
+Social Media Sharing Trends: 23% of teens share or repost political content created by others, though fears of backlash cause 22% to avoid posting their own views.
+
+Peer Pressure and Politics: 15% of teens have lied about their political views to fit in, while 14% have exaggerated their knowledge.
+
+Gender and Racial Disparities: Female teens and teens of color are more likely to engage in political discussions, especially within their families.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'october',         '21',
+  'american',        '1790',
+  '62',              '13-year-old',
+  'arizona',         'california',
+  '52',              '14-year-old',
+  'asian',           'maryland',
+  '15-year-old',     'nonbinary',
+  'hispanic',        '23',
+  '18',              '15',
+  '14',              '40',
+  '28',              '35',
+  '22',              'evolveme',
+  'future-planning'
+]

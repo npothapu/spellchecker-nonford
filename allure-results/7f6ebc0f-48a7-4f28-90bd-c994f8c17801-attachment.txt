@@ -1,0 +1,17 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/student-wellness-in-a-digital-era: [
+  '150000',
+  'excltax',
+  'millennials',
+  'in-person',
+  'well-being',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/student-wellness-in-a-digital-era: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 11

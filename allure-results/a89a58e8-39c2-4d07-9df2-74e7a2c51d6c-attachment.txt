@@ -1,0 +1,5 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/four-tips-for-reaching-teens-through-their-hobbies: [ 'july', '17', 'evolveme', 'future-planning' ]
+Error checking link https://www.teenvoice.com/insights/four-tips-for-reaching-teens-through-their-hobbies: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 4

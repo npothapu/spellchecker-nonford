@@ -1,0 +1,12 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/how-teens-explore-and-choose-careers-ed-tech: [
+  '45000',         'excltax',
+  'theyre',        'googling',
+  'tiktok',        'hands-on',
+  'teen-friendly', 'deep-dive',
+  '40',            'phds',
+  'evolveme',      'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/how-teens-explore-and-choose-careers-ed-tech: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 12

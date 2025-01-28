@@ -1,0 +1,254 @@
+Executing link 1 of 65: https://www.teenvoice.com/legal/privacy-policy
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+The fine print
+CURRENT PAGE:
+I. COLLECTION OF INFORMATION
+CURRENT PAGE:
+II. USE OF INFORMATION AND PURPOSE OF DATA PROCESSING
+CURRENT PAGE:
+III. DISCLOSURE OF INFORMATION
+CURRENT PAGE:
+IV. COOKIES AND SIMILAR TECHNOLOGIES
+CURRENT PAGE:
+V. YOUR RIGHTS AND CHOICES
+CURRENT PAGE:
+VI. LOCATION OF PROCESSING
+CURRENT PAGE:
+VII. CHILDREN
+CURRENT PAGE:
+VIII. DATA RETENTION, SECURITY, AND INTEGRITY
+CURRENT PAGE:
+IX. CHANGES TO THE PRIVACY POLICY
+CURRENT PAGE:
+X. CONTACT INFORMATION
+MARKET RESEARCH PRIVACY POLICY | SECURITY & PRIVACY | TEENVOICE
+Market Research Privacy Policy | Security & Privacy | TeenVoice
+
+Launch Date: July 12, 2024
+
+
+Acceptance of this Privacy Policy
+
+
+
+NextGen Insights Group LLC dba TeenVoice (“Teen Voice,” “we,” “us,” or “our”), is committed to protecting the privacy and security of the information we collect and to being transparent about the ways in which we collect and process your information.
+
+This policy (“Privacy Policy”) describes our practices for handling the information we collect from or about you. It applies to this website and the services, content, and functionalities that we operate which link to this Privacy Policy (collectively, the “Services”), and to information we collect and use in connection with the Services.
+
+We may aggregate or de-identify information collected under this Privacy Policy. Aggregated or de-identified information is not subject to this Privacy Policy, and where we process such information, we maintain and use it in deidentified form and do not to attempt to reidentify individuals from it.
+
+
+
+I. COLLECTION OF INFORMATION
+
+
+
+We collect the following categories of information when you use our Services:
+
+Information you provide directly to us.
+
+
+
+Contact Information, including name, email address, phone number, address, title, and the organization you represent;
+Sign-In Information, including username, password, and account name;
+Transaction and Billing Data, including bank account and payment card details, (credit card number, expiration date, and credit card security code, where needed to complete a transaction), and billing address, or other information that may be included in a purchase order, invoice, or for the purpose of processing ACH transactions; and
+Correspondence you send to us.
+
+
+
+Information we collect automatically. We also collect Internet Use, Electronic Activity, and Other Related Information automatically from the devices and browsers that you use, including your device type; Internet protocol (IP) address; device and advertising identifiers, and other unique personal or online identifiers; time zone setting and location; browser type and version; browser plug in types and versions; operating system and platform; Internet service provider; pages that you visit before and after using the Services, browsing history, and search history; the date and time of your visit; information about the links you click, pages you view, and advertising you interact with within the Services and other information about how you use the Services; the technology on the devices you use to access these Services; and standard server log information. If you or your device experiences an error, we collect information about the error, the time the error occurred, the feature being used, the state of the application when the error occurred, and any related information at the time the error occurred.’
+
+
+
+You may provide additional information to us, such as when you reach out to us with a query or request.
+
+Without this information, we are unable to provide you with the requested Services.
+
+
+
+II. USE OF INFORMATION AND PURPOSE OF DATA PROCESSING
+
+
+
+We use and otherwise process each of the categories of information identified above for the following business purposes:
+
+
+
+Purpose/Activity	Type(s) of Information Used
+To provide you with the information and services that you request from us	All categories of data described above, as applicable
+To manage accounts and manage our relationship with you, including processing payment, providing you with the information you request from us, and notifying you about changes to our terms or privacy policy	
+Contact Information
+Sign-In Information
+Transaction and Billing Data
+Correspondence
+
+To make suggestions and recommendations to you about things that are similar to those that you have enquired about or may otherwise be of interest to you, or to send promotional materials from us or by our affiliates and trusted business partners.	
+Contact Information
+Correspondence
+Internet Use, Electronic Activity, and Other Related Information
+
+To improve our Services and to ensure that content is presented in the most relevant and effective manner	
+Contact Information
+Sign-In Information
+Internet Use, Electronic Activity, and Other Related Information
+Correspondence
+
+To administer our Services, including troubleshooting, data analytics, testing, research, statistical and survey purposes	
+Contact Information
+Sign-In Information
+Internet Use, Electronic Activity, and Other Related Information
+Correspondence
+
+To keep our Services, business and users safe and secure, including to enforce or apply this Policy, the Terms of Use, or any other terms that apply to the use of the Services	All categories of data described above, as applicable
+To comply with applicable laws and regulations	All categories of data described above, as applicable
+To protect and exercise our legal rights and privileges, and/or to defend against legal claims	All categories of data described above, as applicable
+
+
+
+Where legally required to process your information, we will obtain consent (for example, to provide you with marketing information), which may be subsequently withdrawn – for example, by selecting “unsubscribe” in a marketing email you receive from us, or by contacting us directly.
+
+Where we need to collect information by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may be unable to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services).
+
+
+
+III. DISCLOSURE OF INFORMATION
+
+
+
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
+
+
+
+Authorized third-party vendors and service providers. We share your information with third-party vendors and service providers that provide services to us for a variety of business purposes, such as billing, payment processing, customer service, email deployment, security and performance monitoring, maintaining or servicing accounts, processing or fulfilling orders and transactions, verifying customer information, research, data hosting, auditing, and data processing.
+Business transfers. As part of a change in business structure or ownership, we may disclose personal information to the buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us about users of the Services is among the assets transferred.
+Legal purposes. We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of Teen Voice, our affiliates, users, or the public
+With your consent. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
+
+
+
+If you access third-party services — such as third-party single-sign on tools — through the Services, these third-party services may be able to collect information about you, including information about your activity on the Services, and they may notify your connections on the third-party services about your use of the Site, in accordance with their own privacy policies.
+
+Teen Voice does not sell your personal information to, or share it for targeted advertising purposes with, third parties.
+
+
+
+IV. COOKIES AND SIMILAR TECHNOLOGIES
+
+
+
+When you use our Services, we may use cookies, pixel tags, local storage, and other similar technologies (collectively, “cookies”) to collect information from your browser or device.
+
+For example, the following types of cookies may be used on our Services:
+
+
+
+Essential cookies – These cookies enable you to use our Services. These cookies are essential to enable you to browse our Services and use certain features. Disabling them may prevent you from using certain parts of the Services. Without these cookies, certain services cannot be provided. These cookies also help keep our Services safe and secure.
+Preference cookies – These cookies store information such as your preferred country and language selection, login data and website preferences. Without these cookies, our Services may not be able to remember certain choices you’ve previously made (such as a saved country / language preference) or personalize your browsing experience by providing you with relevant information. These cookies can also be used to recognize your device so that you do not have to provide the same information more than once.
+Performance cookies – These cookies collect information about how you use our Services such as which pages you visit regularly. These cookies are used to provide you with a high-quality experience by doing things such as tracking page load, site response times, and error messages.
+Content cookies – These cookies gather information about your use of our Services so we may improve your experience and provide you with more relevant content on our Services and elsewhere online and across your devices. They are also used to gather feedback on customer satisfaction through surveys. They remember that you’ve visited our Services and help us understand usage of our Services.
+Analytics cookies – These cookies help us know what content or materials are most interesting or useful for users of our Services, and enable us to monitor traffic to our website.
+Advertising cookies – These cookies are used to provide you with more relevant advertising based on your use of our Services and/or other information provided to us or that you have disclosed.
+
+
+
+We may use other types of cookies than those listed above, or use the abovementioned cookies for other purposes. We will provide further information where applicable in relation to our use of cookies and fulfill requirements under applicable law when using cookies.
+
+Do-Not-Track Signals and Similar Mechanisms. Some mobile and web browsers transmit “do-not-track” signals. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals
+
+
+
+V. YOUR RIGHTS AND CHOICES
+
+
+
+You may be entitled, in accordance with applicable law (and subject to applicable exceptions or exemptions), to request access to, rectification, erasure, and portability of your information or more information about our information practices, as well as object to or request restriction of processing of your information. Requests should be submitted in writing as set out below. If you become aware of changes or inaccuracies in your information, you should inform us of such changes so that the information may be updated or corrected. Once we receive your request, we may verify it by requesting information sufficient to confirm your identity, including by asking you for additional information. If you would like to use an agent to exercise your rights, we may request evidence that you have provided such agent with power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf.
+
+You may be able to refuse or disable cookies by adjusting your web browser settings. Some browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent. Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section). Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies. For example, Local Shared Objects can be controlled through the instructions on Adobe’s Setting Manager page. If you choose to refuse, disable, or delete these technologies, some of the functionality of the Services may no longer be available to you and any differences in service are related to the data. Deleting cookies may in some cases cancel the opt out selection in your browser.
+
+We will not discriminate against you for exercising your rights and choices, although some of the functionality and features available on the Service may change or no longer be available to you. Any difference in the Services are related to the value provided.
+
+To submit a request in relation to these rights, please contact us where indicated below.
+
+
+
+VI. LOCATION OF PROCESSING
+
+
+
+TeenVoice is based in the United States, and personal information collected under this Privacy Policy will be processed in the United States.
+
+
+
+VII. CHILDREN
+
+
+
+We do not knowingly collect or sell any information from children under the age of 13, without parental consent or as otherwise permitted by applicable law.
+
+
+
+VIII. DATA RETENTION, SECURITY, AND INTEGRITY
+
+
+
+Information will be retained only for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws. We retain information associated with your account for as long as it is active, and may retain an archival version of it for up to three years after you have stopped using our Services or requested account deletion, after which time we will delete or anonymize the information in accordance with applicable law.
+
+We maintain reasonable security measures to safeguard information from loss, theft interference, misuse, unauthorized access, disclosure, alteration, or destruction. We also maintain reasonable procedures to help ensure that such data is reliable for its intended use and is accurate, complete, and current. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure, accurate, complete, or current. Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
+
+
+
+IX. CHANGES TO THE PRIVACY POLICY
+
+
+
+We may modify this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the “Effective Date” date above and post the new Privacy Policy. We recommend that you review the Privacy Policy each time you visit the Services to stay informed of our privacy practices.
+
+
+
+X. CONTACT INFORMATION
+
+
+
+If you have any questions about this Privacy Policy or our practices, or wish to submit a request in relation to your information, please contact us at support@teenvoice.com. You can also write to us at: NextGen Insights Group LLC dba TeenVoice, 33 Arch Street, Suite 2100 Boston, MA 02110.
+
+
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'july',                '12',
+  'nextgen',             'llc',
+  'dba',                 'de-identify',
+  'de-identified',       'deidentified',
+  'reidentify',          'sign-in',
+  'username',            'ach',
+  'ip',                  'purposeactivity',
+  'enquired',            'andor',
+  'single-sign',         'youve',
+  'high-quality',        'abovementioned',
+  'do-not-track',        '13',
+  'anonymize',           '100',
+  'supportteenvoicecom', '33',
+  '2100',                'boston',
+  '02110',               'evolveme',
+  'future-planning'
+]

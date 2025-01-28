@@ -1,0 +1,24 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/How-teens-really-feel-about-a-potential-tiktok-ban: [
+  'tiktok',           'january',     '16',
+  'sunday',           'american',    'theyve',
+  '504',              '13',          '19',
+  '97',               'tiktoks',     '39',
+  '44',               'theyre',      'tiktok-free',
+  'app',              '15-year-old', 'dakota',
+  'ive',              "'in",         "dark'",
+  '17-year-old',      'york',        'indiana',
+  'dont',             'washington',  '16-year-old',
+  'florida',          'shouldnt',    'doomscrolling',
+  '18-year-old',      'california',  'im',
+  '13-year-old',      'michigan',    '19-year-old',
+  'arent',            'theyll',      'instagram',
+  '54',               '41',          'snapchat',
+  'facebook',         'tiktok-like', '42',
+  'algorithm-driven', '37',          '36',
+  'sundays',          'kentucky',    'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/How-teens-really-feel-about-a-potential-tiktok-ban: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 52

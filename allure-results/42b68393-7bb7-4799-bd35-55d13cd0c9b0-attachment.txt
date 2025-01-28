@@ -1,0 +1,22 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teen-voice-article-1-where-do-teens-get-their-political-information-the-answer-may-surprise-you: [
+  'october',         '15',              'informationincluding',
+  'newsonline',      '1783',            'tv',
+  '43',              'go-to',           '47',
+  '36',              '56',              '19-year-olds',
+  '39',              '13-14-year-olds', 'er',
+  "teens'",          '35',              'parentsmy',
+  '15-year-old',     'wisconsin',       '17-year-old',
+  'washington',      'dc',              'im',
+  '40',              '28',              'stepdad',
+  '13-year-old',     'missouri',        '32',
+  '49',              '33',              '29',
+  'age-related',     '25',              '38',
+  '17-18-year-olds', 'apps',            '30',
+  '24',              '17-18',           '37',
+  '27',              '13-14',           'year-olds',
+  'evolveme',        'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teen-voice-article-1-where-do-teens-get-their-political-information-the-answer-may-surprise-you: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 47

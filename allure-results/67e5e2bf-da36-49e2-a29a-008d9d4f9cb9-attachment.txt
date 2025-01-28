@@ -1,0 +1,69 @@
+Executing link 44 of 65: https://www.teenvoice.com/insights/what-makes-gen-z-open-their-wallets
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+TEEN LIFE
+
+What Makes Gen Z Open Their Wallets?
+
+PUBLISHED DATE: JANUARY 10, 2025
+
+Gone are the days when teens barely had enough pocket change for snacks at the mall. Today’s teenagers wield enough spending power to push brands to innovate and adapt. We surveyed 1,004 teens to uncover how Gen Z spends – and what shapes their choices. The results? Eye-opening.
+Teen Spending Is Booming
+Teens have become a driving force in the economy. According to Piper Sandler’s latest Gen Z survey, self-reported teen spending has jumped 6% in the past year, hitting an annual average of $2,361. But it’s not just how much teens spend – it’s also their influence. From TikTok trends to Instagram buzz, teens are shaping what’s cool and pushing brands to innovate.
+Who Really Influences Teen Spending?
+Think influencers are running the show? Think again. Teens turn to their friends more than anyone else when deciding what to buy. In fact, 50% of teens in our survey said peer recommendations are their top motivator, compared to just 38% who credit social media influencers.
+Experiences vs. Things
+When it comes to spending priorities, Gen Z is almost evenly divided: 53% prioritize buying tangible items like clothing and gadgets, while 47% prefer spending on experiences like concerts and dining out.
+
+This challenges the common stereotype that teens are overwhelmingly materialistic. Seventy percent of adults mistakenly believe teens would rather splurge on clothes, beauty products, and tech than invest in meaningful experiences.
+The Clothing & Beauty Brands Teens Love Most
+So, which brands are winning Gen Z’s hearts – and wallets?
+Sneakers: Nike reigns supreme. A whopping 42% of teens named Nike their go-to sneaker brand, far ahead of Converse (7%) and Adidas (6%).
+Apparel: Nike’s influence extends to apparel, where it edges out luxury heavyweights like Gucci and fast-fashion staples like Shein and Zara.
+Beauty: According to Piper Sandler, Gen Z spending on beauty has reached $342 per year, its highest level since spring 2018. Digging into the brands they prefer, we find they are divided between buzzworthy luxury names and budget-friendly options. Affordable brand e.l.f. garnered the most love, with popular names, such as Rare Beauty, Sephora, and Fenty, close behind. This balance between luxury and affordability highlights Gen Z’s pragmatic approach: they’re drawn to celebrity-founded brands’ prestige and cultural relevance but still prioritize accessibility and value when choosing their go-to products.
+Need insights tailored to your business?
+Use our custom survey builder to get the answers you need.
+
+Connect With Teens Now
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'january',         '10',
+  '1004',            'eye-opening',
+  'sandlers',        'self-reported',
+  '2361',            'tiktok',
+  'instagram',       'influencers',
+  '50',              '38',
+  '53',              '47',
+  'zs',              'nike',
+  '42',              'go-to',
+  'adidas',          'nikes',
+  'gucci',           'fast-fashion',
+  'shein',           'zara',
+  'sandler',         '342',
+  '2018',            'buzzworthy',
+  'budget-friendly', 'sephora',
+  'fenty',           'affordability',
+  'theyre',          'celebrity-founded',
+  'evolveme',        'future-planning'
+]

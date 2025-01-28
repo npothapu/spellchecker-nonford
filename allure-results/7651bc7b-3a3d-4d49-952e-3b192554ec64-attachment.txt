@@ -1,0 +1,20 @@
+Distinct misspelled words on https://www.teenvoice.com/insights/teen-voice-article-cringey-or-cool-what-teens-really-think-about-trendiness-in-ads: [
+  'cringey',       'november',       '26',
+  'bic',           'october',        '1971',
+  '13-',           '19-year-olds',   '14-year-old',
+  'texas',         '16-year-old',    'iowa',
+  'tiktok',        'instagram',      'music-related',
+  '55',            '25',             '28',
+  "teens'",        'trend-based',    '45',
+  '48',            '47',             '32',
+  'cringe-worthy', '15-year',        'hispanic',
+  'georgia',       'oversaturation', 'co-opted',
+  'influencers',   '15-year-old',    '43',
+  '17-year-old',   'indiana',        'forty-two',
+  'industry82',    '56',             'doesnt',
+  'massachusetts', 'evolveme',       'future-planning'
+]
+Error checking link https://www.teenvoice.com/insights/teen-voice-article-cringey-or-cool-what-teens-really-think-about-trendiness-in-ads: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 42

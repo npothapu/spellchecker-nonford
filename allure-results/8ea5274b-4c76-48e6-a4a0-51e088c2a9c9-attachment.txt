@@ -1,0 +1,64 @@
+Executing link 20 of 65: https://www.teenvoice.com/reports/teen-future-planning-mission-driven-insights
+Extracted Page Text: This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: Privacy Policy
+FEATURES
+INSIGHTS
+ABOUT US
+LOGIN
+GET STARTED
+
+FUTURE PREPAREDNESS
+
+Teen Future Planning: Mission-Driven Insights
+
+REPORT
+
+$1,500.00 (EXCL.TAX)
+
+ADD TO CART
+
+Description
+
+Though the pressing urgency of the COVID-19 pandemic has passed, teens today continue to feel its impact. Whether teens are aware of it or not, their vision for the future has been informed by such tremendous upheaval. At the height of the pandemic, research about teens demonstrated that many were turning to non-college education pathways and careers as opposed to four-year college. Similarly, there was an intense focus on where teens wanted to work, implying they placed a high value on whether they worked in-person or from home.
+ 
+Uncover whether all these trends are still prevalent among teens today. How far in advance are teens planning for their futures? What, specifically, are their plans and what are their motivations for pursuing their next academic and vocational steps? Do they have a backup plan and what is it? What supports and resources do teens need as they plan their futures? This information is crucial for non-profit and mission-driven organizations aiming to tailor their programs to the needs and preferences of today’s high schoolers and middle schoolers.
+Learn About Our Research
+
+Our reports provide insights based on speaking directly to teens. We go beyond asking comprehensive questions - we write teen-friendly copy to encourage their participation. Our analysis leads to actionable insights that illustrate what it's really like to be a teen today.
+
+Types of Reports
+
+TeenVoice provides a range of different reports to meet your needs, including short articles, topical and thematic deep-dive focus reports, and comprehensive landscape reports tailored to industry needs.
+
+Our Methodology
+
+We generate detailed insights in our reports by asking topical questions in a teen-friendly voice to a nationally representative sample of over 2,000 teens. We perform rigorous analysis to provide views based on age, gender, race, and more.
+
+Expert Insights
+
+With a combined 40 years in higher education, conducting consumer research, and studying human behavior, our staff of expert researchers and PhDs know how to talk to teens and craft actionable insights from their responses.
+
+Quick Links
+
+SURVEY BUILDER
+INSIGHTS
+FEATURES
+ABOUT US
+FAQ
+LOGIN
+PRIVACY POLICY
+COMMERCIAL TERMS & CONDITIONS
+
+EVOLVEME
+
+a free future-planning site for teens
+
+ⓒ 2024 TeenVoice. All rights reserved.
+Distinct Misspelled Words: [
+  'mission-driven', '150000',
+  'excltax',        'covid-19',
+  'non-college',    'four-year',
+  'in-person',      'non-profit',
+  'teen-friendly',  'deep-dive',
+  '40',             'phds',
+  'evolveme',       'future-planning'
+]

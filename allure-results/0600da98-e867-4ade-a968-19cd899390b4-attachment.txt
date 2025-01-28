@@ -1,0 +1,15 @@
+Distinct misspelled words on https://www.teenvoice.com/reports/post-secondary-stress-and-the-effects-on-student-wellness: [
+  'post-secondary',
+  '150000',
+  'excltax',
+  'teen-friendly',
+  'deep-dive',
+  '40',
+  'phds',
+  'evolveme',
+  'future-planning'
+]
+Error checking link https://www.teenvoice.com/reports/post-secondary-stress-and-the-effects-on-student-wellness: expect(received).toBe(expected) // Object.is equality
+
+Expected: 0
+Received: 9
